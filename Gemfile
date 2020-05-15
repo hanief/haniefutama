@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 #group :development do
   gem 'html-proofer'
-  gem 'jekyll', '~> 3.8.2'
+  gem 'jekyll', '~> 4.0.1'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'sass', '~> 3.5.6'
   gem 'bourbon', '~> 5.0.0'
