@@ -1,0 +1,59 @@
+
+# SEO settings
+title: "hanief"
+title2: "utama" # default: ""
+description: "stories and thoughts"
+keywords: "hanief, cahyautama, cahya, utama, life, story, thought, blog"
+url: http://hanief.uta.ma # site url
+#baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-80230682-1
+repo: http://github.com/hanief/haniefutama
+disqus_shortname: "haniefcahya"
+twitter_username: "hnfutama"
+comments: false
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Hanief"
+  job      : "writer"
+  bio      : "I write codes and stories."
+  thumb    : images/logo.png
+  email    : hanief@uta.ma
+  url      : http://hanief.uta.ma
+  github   : http://github.com/hanief
+  twitter  : http://twitter.com/hnfutama
+  facebook : https://www.facebook.com/haniefcutama
+  linkedin : https://linkedin.com/in/haniefutama
+
+# social settings
+og_locale: "id_ID"
+twitter_card: "logo.png"
+twitter_site: "@hnfutama"
+
+plugins:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
