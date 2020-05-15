@@ -4,7 +4,7 @@ title: "hanief"
 title2: "utama" # default: ""
 description: "stories and thoughts"
 keywords: "hanief, cahyautama, cahya, utama, life, story, thought, blog"
-url: http://hanief.uta.ma # site url
+url: http://hnf.uta.ma # site url
 #baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
@@ -34,7 +34,7 @@ author:
   bio      : "I write codes and stories."
   thumb    : images/logo.png
   email    : hanief@uta.ma
-  url      : http://hanief.uta.ma
+  url      : http://hnf.uta.ma
   github   : http://github.com/hanief
   twitter  : http://twitter.com/hnfutama
   facebook : https://www.facebook.com/haniefcutama
