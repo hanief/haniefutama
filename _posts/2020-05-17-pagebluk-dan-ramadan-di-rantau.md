@@ -4,7 +4,7 @@ title: "Pagebluk dan Ramadan di rantau"
 #date: 2020-05-17 12:00:00
 lang: id
 description: "Berbagi pengalaman menjalani ramadan di perantauan."
-comments: true
+comments: false
 keywords: "ramadan, daily journal, diary, rantau, pandemi, pagebluk"
 ---
 
