@@ -12,7 +12,7 @@ google_analytics: UA-80230682-1
 repo: https://github.com/hanief/haniefutama
 disqus_shortname: "haniefcahya"
 twitter_username: "hnfutama"
-comments: false
+comments: true
 
 # Build settings
 permalink   : /:year/:title/
@@ -33,7 +33,7 @@ author:
   job      : "writer"
   bio      : "I write codes and stories."
   thumb    : images/logo.png
-  email    : hanief@uta.ma
+  email    : hnf@uta.ma
   url      : https://hnf.uta.ma
   github   : https://github.com/hanief
   twitter  : https://twitter.com/hnfutama

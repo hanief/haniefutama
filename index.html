@@ -23,6 +23,7 @@ title: Home
           </h2>
         </div>
         <div class="article-excerpt">{{ post.excerpt }}</div>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
       </article>
       <br>
     {% endfor %}

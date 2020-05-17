@@ -5,40 +5,50 @@
     <description>stories and thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 May 2020 11:53:38 +0100</pubDate>
-    <lastBuildDate>Fri, 15 May 2020 11:53:38 +0100</lastBuildDate>
+    <pubDate>Sun, 17 May 2020 12:41:54 +0100</pubDate>
+    <lastBuildDate>Sun, 17 May 2020 12:41:54 +0100</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
-        <title>Belajar lagi</title>
-        <description>&lt;p&gt;Bulan lalu, aku mendapat sebuah email dari &lt;a href=&quot;https://udacity.com&quot;&gt;Udacity&lt;/a&gt;. Awalnya kukira itu adalah email pengingat untuk melanjutkan studi MOOC ku yang terbengkalai. Tapi setelah aku buka isinya, ternyata Udacity bekerjasama dengan Google menawarkan beasiswa bagi orang Indonesia untuk mengikuti &lt;a href=&quot;https://www.udacity.com/course/associate-android-developer-fast-track--nd818&quot;&gt;Associate Android Developer Fast Track&lt;/a&gt;.&lt;/p&gt;
+        <title>Pagebluk dan Ramadan di rantau</title>
+        <description>&lt;p&gt;Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin saya menginjakkan kaki di Nottingham, Inggris. Saya tiba di sini bulan Maret 2017, mendarat di bandara internasional Birmingham setelah perjalanan lebih dari 16 jam dari Jakarta via Amsterdam.&lt;/p&gt;
 
-&lt;p&gt;Beasiswa tersebut bernilai $750 untuk masa studi selama 4 bulan. Beasiswa tersebut juga termasuk biaya untuk mengkuti ujian untuk mendapatkan sertifikat dari Udacity. Ini adalah kesempatan bagus yang tidak datang dua kali. Maka mendaftarlah aku.&lt;/p&gt;
+&lt;p&gt;Dibandingkan dengan tiga tahun lalu, ada beberapa perubahan dalam kehidupan saya. Alhamdulillah. Anggota keluarga kami bertambah seorang dengan kelahiran putra kedua pada tahun 2018. Kami juga pindah rumah kontrakan dari wilayah Dunkirk ke daerah Radford. Harga sewa rumah di daerah ini lebih murah dan lokasinya lebih dekat dengan komunitas orang Indonesia dan komunitas Muslim.&lt;/p&gt;
 
-&lt;p&gt;Alhamdulillah, minggu kemarin ada email masuk yang mengabarkan bahwa aku termasuk menjadi salah satu dari 500 orang yang mendapat beasiswa tersebut. Maka, mulai sekarang aku akan menyisihkan waktu tiap malam untuk belajar pengembangan Android. Lumayan.&lt;/p&gt;
+&lt;p&gt;Selain perbedaan dalam kondisi keluarga, Ramadan tahun ini diwarnai dengan sebuah peristiwa global yang akan tercatat di sejarah umat manusia modern. Sebuah pandemi, alias &lt;a href=&quot;https://kbbi.web.id/pagebluk&quot;&gt;pagebluk&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Terima kasih Google dan Udacity! :)&lt;/p&gt;
+&lt;p&gt;Seperti halnya negara-negara lain, Britania Raya tidak bebas dari penyebaran SARS-CoV-2 dan penyakit Covid-19. Bahkan per 17 Mei 2020, menurut &lt;a href=&quot;https://ourworldindata.org/coronavirus-uk?country=GBR&quot;&gt;data terbaru&lt;/a&gt;, total kasus terkonfirmasi di Britania Raya mencapai lebih dari 240.000. Korban meninggal sudah melebihi 30.000 orang. Secara global, jumlah ini hanya kalah dari Amerika Serikat.&lt;/p&gt;
+
+&lt;p&gt;Untuk mengatasi penyebaran virus ini, pemerintah Britania Raya mengeluarkan kebijakan lockdown seperti halnya banyak negara lain. Pesan yang disampaikan oleh Perdana Menteri Boris Johnson adalah Stay Home, Protect NHS, Save Lives. Tetap di rumah, lindungi NHS, selamatkan nyawa. Selama beberapa minggu, warga non pekerja kunci (dokter, perawat, kurir, dll) tidak boleh keluar rumah kecuali untuk: belanja kebutuhan sehari-hari dan obat ke apotek, olahraga sendirian, atau pergi ke rumah sakit.&lt;/p&gt;
+
+&lt;p&gt;Semua bisnis non-esensial harus ditutup. Pekerja disarankan bekerja dari rumah. Sekolah ditutup kecuali untuk anak pekerja kunci. Rumah-rumah ibadah ditutup.&lt;/p&gt;
+
+&lt;p&gt;Minggu lalu, kebijakan ini agak dilonggarkan. Sekarang, warga bisa olahraga barengan dengan anggota keluarga. Selain itu, kami boleh jalan-jalan atau piknik ke taman dan ruang terbuka luar. Pekerja yang tidak mungkin bekerja dari rumah, seperti di bidang konstruksi, didorong untuk bekerja kembali. Seiring dengan penurunan jumlah infeksi, kebijakan ini kemungkinan akan terus diperlonggar.&lt;/p&gt;
+
+&lt;p&gt;Walaupun tanpa pagebluk, pengalaman Ramadan di sini berbeda dengan kebiasaan di tanah air. Tidak ada azan menggunakan speaker. Tidak ada ngabuburit membeli es kelapa muda di pinggir jalan. Tidak ada pemuda yang membangunkan sahur keliling kampung. Tak ada acara buka bersama alumni SD angkatan 1999.&lt;/p&gt;
+
+&lt;p&gt;Selain itu, durasi puasa di daerah lintang utara seperti Inggris bisa berubah banyak sesuai musim. Tahun 2017 lalu saat pertama kali saya mengalami puasa di sini, waktu subuh kira-kira pukul 3 pagi, dan magrib sekitar pukul 21.30. Jadi, durasi puasa bisa lebih dari 18 jam. Tahun ini agak lebih pendek, tapi tetap lebih dari 17 jam. Ini adalah tantangan tersendiri.&lt;/p&gt;
+
+&lt;p&gt;Dengan adanya kebijakan lockdown dan situasi pagebluk, masjid pun ditutup. Muslim Council of Britain mengeluarkan &lt;a href=&quot;https://mcb.org.uk/general/ramadan2020_guidance/&quot;&gt;panduan Ramadan di Rumah&lt;/a&gt;. Tak ada salat lima waktu berjamaah. Tak ada iftar bersama. Tak ada tarawih. Tak ada iktikaf di masjid.&lt;/p&gt;
+
+&lt;p&gt;Tanpa ibadah yang bersifat berjamaah di masjid, Ramadan kali ini terasa lebih hening. Lebih banyak fokus pada diri sendiri dan keluarga. Kegiatan ramadan tetap bisa dilakukan di rumah. Saya dan istri mengusahakan agar suasananya tetap terasa normal di rumah. Kami tetap tadarus. Kami berusaha tarawih tiap hari. Istri saya tetap masak kolak pisang dan ubi.&lt;/p&gt;
+
+&lt;p&gt;Aspek sosial Ramadan yang kami lakukan ada dua hal: saling berbalas kirim makanan buka puasa dengan tetangga kami yang baik sekali dan tadarus &lt;a href=&quot;https://kbbi.web.id/daring&quot;&gt;daring&lt;/a&gt; tiga kali sepekan, ibu-ibu dan bapak-bapak terpisah sendiri.&lt;/p&gt;
+
+&lt;p&gt;Alhamdulillah, dengan kemajuan teknologi, banyak rutinitas yang biasa dilakukan Ramadan bisa dilakukan secara daring. Teknologi streaming dan panggilan video sangat membantu kami untuk mendengarkan ceramah, tadarus, dan silaturahim dengan teman dan keluarga. Tahun lalu, kami tidak mudik ke Indonesia dan setelah salat Idul Fitri kami sungkem virtual via panggilan video kepada orang tua kami. Tahun ini pun akan sama. Insya Allah.&lt;/p&gt;
+
+&lt;p&gt;Saya sadar bahwa pagebluk, pembatasan sosial (&lt;em&gt;social distancing&lt;/em&gt;), dan kebijakan &lt;em&gt;lockdown&lt;/em&gt; sangat berpengaruh terhadap penghidupan banyak masyarakat dan ekonomi secara umum. Kami bersyukur bahwa Allah masih memberikan nikmat sehat dan rezeki makan tiap hari. Puasa, dengan atribut menahan nafsunya, mudah-mudahan membuat kami bisa lebih peka terhadap kondisi warga yang lemah, kekurangan, dhuafa. Zakat, dengan atribut filantropinya, semoga menjadikan kami lebih ringan berbagi rezeki dari Allah.&lt;/p&gt;
+
+&lt;p&gt;Saya bukan epidemiolog, bukan dokter, bukan ekonom, bukan pula pengambil kebijakan. Saya hanya bisa diam di rumah. Saya hanya bisa membantu tetangga semampu saya. Saya hanya bisa berdoa. Doa yang saya panjatkan adalah agar Allah jangan menghukum saya jika saya lupa atau bersalah. Saya mohon agar Allah tidak membebankan kepada kami beban berat seperti yang dibebankan kepada orang-orang sebelum kami. Saya berdoa agar Allah tidak memikulkan pada kami apa yang tak sanggup kami memikulnya.&lt;/p&gt;
+
+&lt;p&gt;Allahumma innaka afuwwun, tuhibbul afwa fa’fuanni.&lt;/p&gt;
+
+&lt;p&gt;Nottingham, 17 Mei 2020&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/belajar-lagi/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/belajar-lagi/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Moving</title>
-        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-version=&quot;7&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BSiK09Ygvtz/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief (@haniefcahya)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2017-04-06T06:30:08+00:00&quot;&gt;Apr 5, 2017 at 11:30pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Some personal news. Starting April, I am moving to Nottingham, UK. My wife got a &lt;a href=&quot;https://www.lpdp.kemenkeu.go.id&quot;&gt;scholarship&lt;/a&gt; at &lt;a href=&quot;https://nottingham.ac.uk&quot;&gt;University of Nottingham&lt;/a&gt; to pursue a Ph.D in BioSciences.&lt;/p&gt;
-
-&lt;p&gt;I am looking forward to learn all about Robin Hood. :)&lt;/p&gt;
-</description>
-        <pubDate>Thu, 06 Apr 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/moving/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/moving/</guid>
+        <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/ramadan-di-rantau/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/ramadan-di-rantau/</guid>
         
         
       </item>
@@ -53,9 +63,9 @@
 
 &lt;p&gt;This is exciting times for blogging. Hope you agree with me. :)&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 Jul 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/hello-world/</guid>
+        <pubDate>Fri, 15 May 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/hello-world/</guid>
         
         
       </item>
