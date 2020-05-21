@@ -38,6 +38,7 @@
       {{ page_description | strip | rstrip | lstrip | escape | strip_newlines }}
   {% endcapture %}
 
+
   <meta name="description" content="{{ page_description }}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 
@@ -76,12 +77,21 @@
   <meta name="twitter:site" content="{{ site.twitter_site }}">
   <meta name="twitter:title" content="{{ page_title }}">
   <meta name="twitter:description" content="{{ page_description }}">
-  <meta name="twitter:image:src" content="{{ page_image }}">
+  <meta name="twitter:image:src" content="{{ page_image | '/logo.png' }}">
 
   <!-- Social: Google+ / Schema.org  -->
   <meta itemprop="name" content="{{ page_title }}">
   <meta itemprop="description" content="{{ page_description }}">
-  <meta itemprop="image" content="{{ page_image }}">
+  <meta itemprop="image" content="{{ page_image | '/logo.png' }}">
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="theme-color" content="#ffffff">
 
   <!-- rel prev and next -->
   {% if paginator.previous_page %}
