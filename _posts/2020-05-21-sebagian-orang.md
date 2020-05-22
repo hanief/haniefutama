@@ -26,7 +26,7 @@ Sebagian orang tidak dapat berhenti membaca berita.
 
 Sebagian orang tidak mampu membeli sabun.
 
-Sebagian orang sedang belajar cara membuat roti.
+Sebagian orang sedang belajar cara memasak sendiri.
 
 Sebagian orang harus bekerja dari rumah sambil secara mencoba mengajari anak-anak mereka.
 
@@ -64,7 +64,7 @@ Sebagian orang masih berkumpul rame-rame.
 
 Sebagian orang menjaga kita tetap hidup dengan mengambil risiko besar.
 
-Sebagian orang salat tarawih berjamaah.
+Sebagian orang tetap salat tarawih berjamaah.
 
 Sebagian orang puasa tanpa ada makanan berbuka.
 
@@ -88,13 +88,13 @@ Sebagian orang memesan makanan dari restoran lokal.
 
 Sebagian orang merindukan pelukan.
 
-Sebagian orang tidak dapat meyakinkan orang tua mereka bahwa ini serius.
+Sebagian orang tidak dapat meyakinkan orang tua mereka bahwa wabah ini serius.
 
 Sebagian orang khawatir tentang uang pensiun mereka.
 
 Sebagian orang tidak pernah memiliki tabungan.
 
-Sebagian orang akan menghadapi peningkatan KDRT di rumah.
+Sebagian orang akan menghadapi peningkatan KDRT.
 
 Sebagian orang membeli baju baru di mall.
 
@@ -102,9 +102,9 @@ Sebagian orang harus tidur di jalan karena tidak dapat membayar kos.
 
 Sebagian orang tidak akan berhenti berpesta.
 
-Sebagian orang kehilangan pengasuhan anak mereka.
+Sebagian orang kehilangan hak pengasuhan anak mereka.
 
-Sebagian orang melakukan segala yang mereka bisa untuk tetap tenang dan berharap dan itu tidak berhasil.
+Sebagian orang melakukan segala yang mereka bisa untuk tetap tenang dan itu tidak berhasil.
 
 Sebagian orang menonton Outbreak & Contagion dan bermain Pandemic.
 
@@ -118,13 +118,9 @@ Sebagian orang berpikir tentang masa depan.
 
 Sebagian orang kesal karena mereka tidak bisa jalan-jalan.
 
-Sebagian orang  jatuh cinta lagi pada pasangan mereka.
-
-Sebagian orang berencana untuk taman yang lebih besar tahun ini.
+Sebagian orang jatuh cinta lagi pada pasangan mereka.
 
 Sebagian orang tidak akan melihat keluarga mereka selama berbulan-bulan.
-
-Sebagian orang keluar untuk tetap membumi.
 
 Sebagian orang tidak dapat melihat cahaya di ujung terowongan.
 
