@@ -1,15 +1,7 @@
-<div class="container">
-	<small class="block">
-  		<ul class="navbar">
-      		<li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-      		{% if site.author.github %}<li><a href="{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>{% endif %}
-      		{% if site.author.twitter %}<li><a href="{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>{% endif %}
-      		<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
-    	</ul>
-  	</small>
-</div>
 <footer class="site-footer">
   <div class="container">
+    <hr>
+    {% include subscribe.html %} 
     <small class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</small>
     <small class="block">Made with <i class="fa fa-heart" aria-hidden="true" style="color:#DD3D36"></i> using <a href="https://jekyllrb.com/">Jekyll</a>. Typeface by <a href="https://www.fontsquirrel.com/fonts/dejavu-sans-mono">DejaVu Sans Mono</a> and <a href="http://fontawesome.io/">Font Awesome</a>.</small>
     <small><a href="https://github.com/heiswayi/thinkspace">Thinkspace</a> theme by <a href="https://heiswayi.github.io/">Heiswayi Nrird</a>.</small>

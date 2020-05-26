@@ -2,8 +2,8 @@
 # SEO settings
 title: "hanief"
 title2: "utama" # default: ""
-description: "stories and thoughts"
-keywords: "hanief, cahyautama, cahya, utama, life, story, thought, blog"
+description: "kabayan saba kota"
+keywords: "hanief, cahyautama, cahya, utama, kabayan saba kota, blog"
 url: https://hnf.uta.ma # site url
 #baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
