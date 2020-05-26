@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subsribe success
+title: You have subscribed
 permalink: /subscribe-success/
 ---
 
