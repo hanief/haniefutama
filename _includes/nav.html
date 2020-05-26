@@ -2,13 +2,5 @@
 <nav class="nav">
   <div class="container">
     <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}<span>{{ site.title2 }}</span></a></h1>
-    <small class="block">
-  		<ul class="navbar">
-      		<li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-      		{% if site.author.github %}<li><a href="{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>{% endif %}
-      		{% if site.author.twitter %}<li><a href="{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>{% endif %}
-      		<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
-    	</ul>
-  	</small>
   </div>
 </nav>

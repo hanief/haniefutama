@@ -12,7 +12,7 @@
       {% endcapture %}
   {% else %}
       {% capture page_title %}
-          {%if page.slug == 'category' %}Categoria: {% endif %}
+          {%if page.slug == 'category' %}Category: {% endif %}
           {%if page.slug == 'tag' %}Tag: {% endif %} {{ page.title }} | {{ site.title }}{{ site.title2}}
       {% endcapture %}
   {% endif %}
@@ -71,10 +71,12 @@
   <meta property="og:description" content="{{ page_description }}">
   <meta property="og:site_name" content="{{ site.author.name }}">
   <meta property="og:locale" content="{{ site.og_locale }}">
+  <meta property="og:locale:alternate" content="en_US">
 
   <!-- Social: Twitter -->
-  <meta name="twitter:card" content="{{ site.twitter_card }}">
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter_site }}">
+  <meta name="twitter:creator" content="{{ site.twitter_site }}">
   <meta name="twitter:title" content="{{ page_title }}">
   <meta name="twitter:description" content="{{ page_description }}">
   <meta name="twitter:image:src" content="{{ page_image | '/logo.png' }}">
