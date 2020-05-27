@@ -6,7 +6,10 @@ lang: id
 description: "Sebagian orang baru membaca tulisan ini"
 comments: false
 keywords: "covid, coronavirus, terjemahan, rantau"
+cover: "/images/antri.jpeg"
 --- 
+
+<img src="/images/antri.jpeg">
 
 Sebagian orang merasa tidak berdaya & cemas.
 

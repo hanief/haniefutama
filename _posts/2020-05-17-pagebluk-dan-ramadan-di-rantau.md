@@ -6,11 +6,12 @@ lang: id
 description: "Berbagi pengalaman menjalani ramadan di perantauan."
 comments: false
 keywords: "ramadan, daily journal, diary, rantau, pandemi, pagebluk"
+cover: "/images/ramadan.jpeg"
 ---
 
 Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin saya menginjakkan kaki di Nottingham, Inggris. Saya tiba di sini bulan Maret 2017, mendarat di bandara internasional Birmingham setelah menempuh perjalanan lebih dari 16 jam dari Jakarta via Amsterdam.
 
-<a id='wxEQB2u-S8NKG2WNd7mQtg' class='gie-single' href='http://www.gettyimages.co.uk/detail/1220773549' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'wxEQB2u-S8NKG2WNd7mQtg',sig:'ckNpC21B1tdSDm5wOqakKxmK7WyiXsc0C-tCEoqu1W8=',w:'594px',h:'372px',items:'1220773549',caption: true ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+<img src="/images/ramadan.jpeg">
 
 Dibandingkan dengan tiga tahun lalu, ada beberapa perubahan dalam kehidupan saya. Anggota keluarga kami bertambah seorang dengan kelahiran putra kedua pada tahun 2018. Kami juga pindah rumah kontrakan dari wilayah Dunkirk ke daerah Radford. Harga sewa rumah di daerah ini lebih murah dan lokasinya lebih dekat dengan komunitas orang Indonesia dan komunitas Muslim. Alhamdulillah.
 
