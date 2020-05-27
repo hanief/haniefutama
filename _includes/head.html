@@ -55,6 +55,14 @@
   {% endcapture %}
   {% capture page_image %}{{ page_image | strip | rstrip | lstrip | escape | strip_newlines }}{% endcapture %}
 
+
+  <!-- Social: Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.twitter_site }}">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image:src" content="{{ page_image }}">
+
   <!-- Social: Facebook / Open Graph -->
 {% if page.id %}
   <meta property="og:type" content="article">
@@ -62,7 +70,7 @@
   <meta property="article:section" content="{{ page.categories | join: ', ' }}">
   <meta property="article:tag" content="{{ page.keywords }}">
   <meta property="article:published_time" content="{{ page.date }}">
-{% else%}
+{% else %}
   <meta property="og:type" content="website">
 {% endif %}
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -73,25 +81,17 @@
   <meta property="og:locale" content="{{ site.og_locale }}">
   <meta property="og:locale:alternate" content="en_US">
 
-  <!-- Social: Twitter -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="{{ site.twitter_site }}">
-  <meta name="twitter:creator" content="{{ site.twitter_site }}">
-  <meta name="twitter:title" content="{{ page_title }}">
-  <meta name="twitter:description" content="{{ page_description }}">
-  <meta name="twitter:image:src" content="{{ page_image | '/logo.png' }}">
-
   <!-- Social: Google+ / Schema.org  -->
   <meta itemprop="name" content="{{ page_title }}">
   <meta itemprop="description" content="{{ page_description }}">
-  <meta itemprop="image" content="{{ page_image | '/logo.png' }}">
+  <meta itemprop="image" content="{{ page_image }}">
 
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="apple-touch-icon" sizes="180x180" href="/public/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/public/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/public/favicon-16x16.png">
+  <link rel="manifest" href="/public/site.webmanifest">
+  <link rel="mask-icon" href="/public/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#2b5797">
   <meta name="theme-color" content="#ffffff">
 

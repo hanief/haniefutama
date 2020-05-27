@@ -45,7 +45,6 @@ author:
 og_locale: "id_ID"
 twitter_card: "summary"
 twitter_site: "@hnfutama"
-twitter_creator: "@hnfutama"
 
 plugins:
   - bourbon
