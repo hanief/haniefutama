@@ -9,7 +9,7 @@ keywords: "covid, coronavirus, terjemahan, rantau"
 cover: "/images/antri.jpeg"
 --- 
 
-<img src="/images/antri.jpeg">
+<img src="/images/antri.jpeg" alt="Masyarakat Inggris antri di supermarket ASDA">
 
 Sebagian orang merasa tidak berdaya & cemas.
 
