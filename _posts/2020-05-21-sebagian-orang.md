@@ -5,11 +5,8 @@ title: "Sebagian orang"
 lang: id
 description: "Sebagian orang baru membaca tulisan ini"
 comments: false
-keywords: "covid, coronavirus, terjemahan, rantau"
-cover: "/images/antri.jpeg"
+keywords: "covid, coronavirus, terjemahan, rantau, bahasa indonesia"
 --- 
-
-<img src="/images/antri.jpeg" alt="Masyarakat Inggris antri di supermarket ASDA">
 
 Sebagian orang merasa tidak berdaya & cemas.
 
@@ -137,7 +134,5 @@ Ini semua didasarkan pada pengalaman orang-orang nyata yang diambil dari berita,
 
 
 _Tulisan ini diadaptasi dari [kottke.org][1]_
-
-Nottingham, 21 Mei 2020
 
 [1]:	https://kottke.org/20/03/some-people

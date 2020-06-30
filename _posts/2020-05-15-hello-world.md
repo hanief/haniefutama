@@ -5,7 +5,7 @@ title: "Hello, world!"
 lang: en
 description: "Everything has a beginning, including this blog."
 comments: false
-keywords: "hello, world, beginning"
+keywords: "hello, world, beginning, english"
 ---
 
 I've had multiple blog since the beginning of my introduction to Internet. I have accounts on Blogger, Wordpress, and Tumblr. Yet, here I am writing the very first blog entry on my new personal blog.

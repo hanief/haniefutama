@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hnf.</title>
+    <title>hanief</title>
     <description>kabayan saba kota</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2020 06:09:05 +0100</pubDate>
-    <lastBuildDate>Sun, 31 May 2020 06:09:05 +0100</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2020 01:23:38 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2020 01:23:38 +0100</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
+        <title>Apple akan menggunakan prosesor berbasis ARM untuk Mac masa depan</title>
+        <description>&lt;p&gt;Tom Warren menulis untuk The Verge:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple is officially moving to its own silicon chips for some of its Mac hardware. Calling it a “historic day for the Mac,” Apple CEO Tim Cook detailed the transitions to PowerPC, Mac OS X, and the move to Intel chips before unveiling its plans to use Apple’s own ARM-powered silicon in Macs in the future. It’s a big move that means macOS will support native iOS apps and macOS apps side by side on these new machines in the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aku sangat menantikan langkah baru ini. Tim silikon Apple sudah terbukti kelas dunia. Intel mungkin dalam bahaya.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/apple-mac-arm/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/apple-mac-arm/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tiga puluh lima</title>
+        <description>&lt;p&gt;Tiga puluh lima tahun adalah waktu yang cukup panjang bagi seorang manusia. Setara dengan 1825 minggu, atau setara 12775 hari, atau setara 306600 jam, atau setara 18396000 menit atau setara 1103760000 detik. Tapi tetap saja rasanya tiga puluh lima tahun terasa sangat singkat.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/tiga-puluh-lima/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/tiga-puluh-lima/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Cerita-cerita mudik</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/mudik.jpg&quot; alt=&quot;Seorang bapak mengangkut barang untuk mudik&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2004&lt;/p&gt;
-
-&lt;p&gt;Matahari sudah mulai menyengat di pelipis, tapi bus malam yang kunaiki ini baru sampai tanjakan Gentong. Biasanya jam segini aku sudah tertidur pulas di kasur di rumah Sumedang. Ada sms masuk dari Bapa, “udah sampai mana?”. “Gentong”, kujawab saja dengan singkat. Tak ada jawaban lagi, mungkin beliau sudah tahu aku akan mengalami cobaan yang berat.&lt;/p&gt;
+        <description>&lt;p&gt;Matahari sudah mulai menyengat di pelipis, tapi bus malam yang kunaiki ini baru sampai tanjakan Gentong. Biasanya jam segini aku sudah tertidur pulas di kasur di rumah Sumedang. Ada sms masuk dari Bapa, “udah sampai mana?”. “Gentong”, kujawab saja dengan singkat. Tak ada jawaban lagi, mungkin beliau sudah tahu aku akan mengalami cobaan yang berat.&lt;/p&gt;
 
 &lt;p&gt;Biasanya aku pulang naik bus BE dari Jogja, tapi kadang-kadang pakai KD seperti sekarang ini kalau tiket BE sudah habis. Tidak seperti BE dengan jalur utara yang lewat Sumedang sebelum ke Bandung, KD memilih rute selatan via Nagrek. Alhasil aku harus berhenti di gerbang tol Cileunyi sebelum melanjutkan perjalanan menggunakan angkot 04 ke arah Sumedang.&lt;/p&gt;
 
@@ -32,22 +57,6 @@
 &lt;p&gt;Setelah duduk di pinggir jalan selama setengah jam, akhirnya datang juga bus yang mau mengangkut kami. Berhubung mereka juga jalan dengan kapasitas hampir penuh, kami harus berdesak-desakan masuk bus. Saya kebagian di lantai belakang, persis di depan toilet bus. Bau khas pesing terkena panas mesin menusuk hidung. Keringat sesama penumpang sudah bercampur dengan pengharum ac yang sudah tak dingin lagi.&lt;/p&gt;
 
 &lt;p&gt;Ah, perjuangan untuk mudik.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;2005&lt;/p&gt;
-
-&lt;p&gt;Kereta Progo sekira tahun 2000-an bukan tempat yang cocok buat mereka yang mendambakan kenyamanan transportasi publik. Zaman itu adalah era kegelapan kereta api yang belum tersentuh tangan dingin Ignasius Jonan. Waktu-waktu ramai seperti saat lebaran adalah masa jihad.&lt;/p&gt;
-
-&lt;p&gt;Progo bukan&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;2020&lt;/p&gt;
-
-&lt;p&gt;Aku baru selesai&lt;/p&gt;
-
-&lt;p&gt;Nottingham, 26 Mei 2020&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 May 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/mudik/</link>
@@ -58,9 +67,7 @@
     
       <item>
         <title>Sebagian orang</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/antri.jpeg&quot; alt=&quot;Masyarakat Inggris antri di supermarket ASDA&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang merasa tidak berdaya &amp;amp; cemas.&lt;/p&gt;
+        <description>&lt;p&gt;Sebagian orang merasa tidak berdaya &amp;amp; cemas.&lt;/p&gt;
 
 &lt;p&gt;Sebagian orang merasa bosan.&lt;/p&gt;
 
@@ -186,8 +193,6 @@
 
 &lt;p&gt;&lt;em&gt;Tulisan ini diadaptasi dari &lt;a href=&quot;https://kottke.org/20/03/some-people&quot;&gt;kottke.org&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Nottingham, 21 Mei 2020&lt;/p&gt;
-
 </description>
         <pubDate>Thu, 21 May 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020/sebagian-orang/</link>
@@ -200,8 +205,6 @@
         <title>Pagebluk dan Ramadan di rantau</title>
         <description>&lt;p&gt;Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin saya menginjakkan kaki di Nottingham, Inggris. Saya tiba di sini bulan Maret 2017, mendarat di bandara internasional Birmingham setelah menempuh perjalanan lebih dari 16 jam dari Jakarta via Amsterdam.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ramadan.jpeg&quot; alt=&quot;Seorang anak melihat jendela bertuliskan Ramadan Mubarak&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Dibandingkan dengan tiga tahun lalu, ada beberapa perubahan dalam kehidupan saya. Anggota keluarga kami bertambah seorang dengan kelahiran putra kedua pada tahun 2018. Kami juga pindah rumah kontrakan dari wilayah Dunkirk ke daerah Radford. Harga sewa rumah di daerah ini lebih murah dan lokasinya lebih dekat dengan komunitas orang Indonesia dan komunitas Muslim. Alhamdulillah.&lt;/p&gt;
 
 &lt;p&gt;Selain perbedaan kondisi keluarga, Ramadan tahun ini diwarnai dengan sebuah peristiwa global yang akan tercatat di sejarah umat manusia modern. Sebuah pandemi, alias &lt;a href=&quot;https://kbbi.web.id/pagebluk&quot;&gt;pagebluk&lt;/a&gt;.&lt;/p&gt;
@@ -212,8 +215,6 @@
 
 &lt;p&gt;Semua bisnis non-esensial harus ditutup. Pekerja disarankan bekerja dari rumah. Sekolah ditutup kecuali untuk anak pekerja kunci. Rumah-rumah ibadah ditutup.&lt;/p&gt;
 
-&lt;p&gt;&lt;a id=&quot;f7aFP3C2TPB8RgYEBl7bgA&quot; class=&quot;gie-single&quot; href=&quot;http://www.gettyimages.co.uk/detail/1220985667&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;Embed from Getty Images&lt;/a&gt;&lt;script&gt;window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'f7aFP3C2TPB8RgYEBl7bgA',sig:'u918gmztzGV15dsvRRis040CJyeySwjA1XXSELGu8MI=',w:'396px',h:'594px',items:'1220985667',caption: true ,tld:'co.uk',is360: false })});&lt;/script&gt;&lt;script src=&quot;//embed-cdn.gettyimages.com/widgets.js&quot; charset=&quot;utf-8&quot; async=&quot;&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Minggu lalu, kebijakan ini agak dilonggarkan. Sekarang, warga bisa olahraga barengan dengan anggota keluarga. Selain itu, kami boleh jalan-jalan atau piknik ke taman dan ruang terbuka luar. Pekerja yang tidak mungkin bekerja dari rumah, seperti di bidang konstruksi, didorong untuk bekerja kembali. Seiring dengan penurunan jumlah infeksi, kebijakan ini kemungkinan akan terus diperlonggar.&lt;/p&gt;
 
 &lt;p&gt;Walaupun tanpa pagebluk, pengalaman Ramadan di sini berbeda dengan kebiasaan di tanah air. Tidak ada azan menggunakan pengeras suara. Tak ada &lt;em&gt;ngabuburit&lt;/em&gt; membeli es kelapa muda di pinggir jalan. Tidak ada pemuda yang membangunkan sahur keliling kampung. Tak ada acara buka bersama alumni SD angkatan 1999.&lt;/p&gt;
@@ -221,8 +222,6 @@
 &lt;p&gt;Selain itu, durasi puasa di daerah lintang utara seperti Inggris bisa berubah banyak bergantung musim. Tahun 2017 lalu saat pertama kali saya mengalami puasa di sini, waktu subuh kira-kira pukul 3 pagi, dan magrib sekitar pukul 21.30. Jadi, durasi puasa bisa lebih dari 18 jam. Tahun ini agak lebih pendek, tapi tetap lebih dari 17 jam. Ini adalah tantangan tersendiri.&lt;/p&gt;
 
 &lt;p&gt;Dengan adanya kebijakan lockdown dan situasi pagebluk, masjid pun ditutup. Muslim Council of Britain mengeluarkan &lt;a href=&quot;https://mcb.org.uk/general/ramadan2020_guidance/&quot;&gt;panduan Ramadan di Rumah&lt;/a&gt;. Tak ada salat lima waktu berjamaah. Tak ada iftar bersama. Tak ada tarawih. Tak ada iktikaf di masjid.&lt;/p&gt;
-
-&lt;p&gt;&lt;a id=&quot;2ONl27TnQx5iyl0ZbHAf6g&quot; class=&quot;gie-single&quot; href=&quot;http://www.gettyimages.co.uk/detail/1220774133&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;Embed from Getty Images&lt;/a&gt;&lt;script&gt;window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'2ONl27TnQx5iyl0ZbHAf6g',sig:'7QiCFkM259HuUHmcsRohfI9ob3UasYTizcQPQbBGbSM=',w:'430px',h:'594px',items:'1220774133',caption: true ,tld:'co.uk',is360: false })});&lt;/script&gt;&lt;script src=&quot;//embed-cdn.gettyimages.com/widgets.js&quot; charset=&quot;utf-8&quot; async=&quot;&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Tanpa ibadah yang bersifat berjamaah di masjid, Ramadan kali ini terasa lebih hening. Lebih banyak fokus pada diri sendiri dan keluarga. Kegiatan ramadan tetap bisa dilakukan di rumah. Saya dan istri mengusahakan agar suasananya tetap terasa normal. Kami tetap tadarus. Kami berusaha tarawih tiap hari. Istri saya tetap masak kolak pisang dan ubi.&lt;/p&gt;
 
@@ -235,8 +234,6 @@
 &lt;p&gt;Saya bukan epidemiolog, bukan dokter, bukan ekonom, bukan pula pengambil kebijakan. Saya hanya bisa diam di rumah. Saya hanya bisa membantu tetangga semampu saya. Saya hanya bisa berdoa. Doa yang saya panjatkan adalah agar Allah tidak membebankan kepada kami beban berat seperti yang dibebankan kepada orang-orang sebelum kami dan agar Allah tidak memikulkan pada kami apa yang tak sanggup kami memikulnya.&lt;/p&gt;
 
 &lt;p&gt;Allahumma innaka ‘afuwwun, tuhibbul ‘afwa fa’fuanni.&lt;/p&gt;
-
-&lt;p&gt;Nottingham, 17 Mei 2020&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>

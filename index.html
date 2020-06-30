@@ -16,14 +16,15 @@ title: Home
         {% endif %}
       {% endunless %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
         <div class="article-title">
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+          <h3>
+            <a class="post-link" href="{% if post.link %} {{ post.link }} {% else %} {{ post.url | prepend: site.baseurl }} {% endif %}">{{ post.title }}</a>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">☀︎</a>
+          </h3>
         </div>
-        <div class="article-excerpt">{{ post.excerpt }}</div>
-        <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+        <p><em class="post-date">{{ post.date | date: "%A, %d %B %Y" }}</em></p>
+        <br>
+        <div class="article">{{ post.content }}</div>
       </article>
       <br>
     {% endfor %}
