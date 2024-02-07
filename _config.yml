@@ -6,7 +6,7 @@ description: "kabayan saba kota"
 keywords: "hanief, cahyautama, cahya, utama, kabayan saba kota, blog"
 url: https://haniefutama.com # site url
 baseurl: null # apply null if repo name is something like username.github.io
-cover: /public/hnfutama_logo_social.png
+cover: /public/logo_social.png
 
 google_analytics: UA-80230682-1
 repo: https://github.com/hanief/haniefutama
