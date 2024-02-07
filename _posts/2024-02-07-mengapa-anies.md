@@ -58,9 +58,9 @@ Ia bisa [berdiplomasi](https://www.youtube.com/watch?v=NEnOKuOW-To) langsung kep
 
 Indonesia adalah negara besar dengan banyak kepala. Jalan untuk menyatukannya hanya ada dua: kata atau senjata. Saya tahu saya akan pilih yang mana.
 
-Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com/#gsc.tab=0).  Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang pejuang kemerdekaan, tapi ia tak punya jejaring keluarga ningrat politik.
+Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com/#gsc.tab=0).  Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang [pejuang kemerdekaan](https://id.wikipedia.org/wiki/Abdurrahman_Baswedan), tapi ia tak punya jejaring keluarga ningrat politik.
 
-Empat alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
+Alasan-alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
 
 Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari bawah. Anies pernah menjadi menteri kabinet Presiden Jokowi. Anies juga berhasil melanjutkan tugas Presiden Jokowi sebagai gubernur Jakarta. Mereka memiliki sejarah yang berkelindan.
 
