@@ -6,6 +6,8 @@ permalink: /about/
 
 Hello, I am Hanief. I am a software developer, building app for a living.
 
-This blog is about my personal stories and opinions. You can contact me by email at surat [at] haniefutama [dot] com.
+You can search my full name on the internet to find my social accounts.
+
+This blog is my personal stories and opinions.
 
 Thank you for reading.
