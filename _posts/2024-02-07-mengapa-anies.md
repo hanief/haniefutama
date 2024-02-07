@@ -24,7 +24,7 @@ Anies berasal dari [keluarga pejuang dan pendidik](https://aniesbaswedan.com/ken
 
 Sebagai pejabat publik, rekam jejaknya terbukti. Saat ia menjadi [menteri pendidikan](https://aniesbaswedan.com/rekam-jejak/?filter=1#track-record), ia [menghapus MOS dan perploncoan](https://aniesbaswedan.com/rekam-jejak/hapus-masa-orientasi-siswa-dan-perploncoan/), [Ujian Nasional tak lagi standar kelulusan](https://aniesbaswedan.com/rekam-jejak/ujian-nasional-tidak-jadi-standar-kelulusan/). Sebagai [Gubernur](https://aniesbaswedan.com/rekam-jejak/?filter=2#track-record), ia merintis [Jaklingko](https://aniesbaswedan.com/rekam-jejak/jaklingko/), membangun [taman-taman](https://aniesbaswedan.com/rekam-jejak/tebet-eco-park/) [publik](https://aniesbaswedan.com/rekam-jejak/taman-literasi-martha-christina-tiahahu/), membangun [JIS](https://aniesbaswedan.com/rekam-jejak/jakarta-international-stadium/), meluncurkan aplikasi [JAKI](https://aniesbaswedan.com/rekam-jejak/aplikasi-jakarta-kini-jaki/), membangun [trotoar dan jalur sepeda](https://aniesbaswedan.com/rekam-jejak/memprioritaskan-pejalan-kaki-dan-peseped/).
 
-Saya punya dua anak usia sekolah. Mereka ikut menonton debat presiden di televisi. Anak saya yang besar bertanya, “Ayah, orang-orang itu siapa sih? Kenapa mereka tampil di TV?”. Saya ingin bisa menjawab kepada mereka, “Nak, salah satu dari mereka ini akan menjadi presiden Indonesia, nanti kalau sudah besar kamu juga jadi pintar dan baik seperti mereka ya”.
+Saya punya dua anak usia sekolah. Mereka ikut menonton debat presiden di televisi. Anak saya yang besar bertanya, “Ayah, orang-orang itu siapa sih? Kenapa mereka tampil di TV?”. Jika Anies terpilih, saya bisa menjawab kepada mereka, “Nak, nanti kalau sudah besar kamu juga jadi pintar dan baik seperti presiden kita ya”.
 
 Alasan kedua adalah Anies memanusiakan warga. 
 
@@ -67,3 +67,5 @@ Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari 
 Anies tentu bukan Presiden Jokowi. Seringkali ide mereka berbeda: tentang pendidikan, ibukota, dan tata kelola negara. Saya senang ada yang berani mengatakan tidak kepada Presiden.
 
 Presiden Joko Widodo telah berjasa besar memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.
+
+Mari kita mencuci motor lagi. :)
