@@ -58,14 +58,14 @@ Ia bisa [berdiplomasi](https://www.youtube.com/watch?v=NEnOKuOW-To) langsung kep
 
 Indonesia adalah negara besar dengan banyak kepala. Jalan untuk menyatukannya hanya ada dua: kata atau senjata. Saya tahu saya akan pilih yang mana.
 
-Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com/#gsc.tab=0).  Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang pejuang kemerdekaan, tapi ia tak punya jejaring keluarga ningrat politik. Tak ada orang sempurna. Jika terpilih, Anies harus dikawal supaya tak jumawa.
+Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com/#gsc.tab=0).  Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang pejuang kemerdekaan, tapi ia tak punya jejaring keluarga ningrat politik.
 
-Empat alasan yang saya sebutkan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
+Empat alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
 
 Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari bawah. Anies pernah menjadi menteri kabinet Presiden Jokowi. Anies juga berhasil melanjutkan tugas Presiden Jokowi sebagai gubernur Jakarta. Mereka memiliki sejarah yang berkelindan.
 
 Anies tentu bukan Presiden Jokowi. Seringkali ide mereka berbeda: tentang pendidikan, ibukota, dan tata kelola negara. Saya senang ada yang berani mengatakan tidak kepada Presiden.
 
-Presiden Joko Widodo telah berjasa besar memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.
+Presiden Joko Widodo telah memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.
 
-Mari kita mencuci motor lagi. :)
+Mari mencuci lagi. Motor ini tidak akan bersih dengan sendirinya. :)
