@@ -8,7 +8,7 @@ comments: false
 keywords: "presiden, indonesia, politik, anies baswedan"
 ---
 
-Pemilu Presiden 2024, saya akan menitipkan suara saya pada [Anies](https://www.youtube.com/@aniesbaswedan). Insya Allah.
+Empat belas Februari 2024, saya akan menitipkan suara saya pada [Anies](https://www.youtube.com/@aniesbaswedan). Insya Allah.
 
 Ada beberapa alasan mengapa saya memilih Anies. Alasan pertama adalah reputasi dan rekam jejak yang baik.
 
