@@ -8,13 +8,7 @@ comments: false
 keywords: "presiden, indonesia, politik, anies baswedan"
 ---
 
-Mencuci motor di musim hujan itu menyebalkan. Saya tak suka motor belepotan tanah. Saya tahu ini harus dibersihkan. Tapi saya juga tahu nanti sepulang dari kantor, motor ini akan kotor lagi dari sisa kubangan air hujan.
-
-Memilih pejabat publik lebih menyebalkan dari itu. Saya tahu para kandidat ini jauh dari sempurna. Informasi yang saya punya juga terbatas. Setiap kandidat hanya menampilkan kebaikan mereka, seakan mereka tak bercela.
-
-Setelah terpilih, mereka juga tak mungkin bisa mewujudkan semua janjinya. Baik itu karena tidak kompeten, atau karena berubah pikiran di tengah masa jabatan, atau memang sebenarnya dari awal sudah berniat berbohong. Selain itu, mereka bisa jadi seorang megalomaniak, yang terbuai dengan nikmatnya memiliki kuasa. 
-
-Seperti halnya saya berusaha membersihkan motor yang berlumpur, saya memilih untuk memilih. Untuk Pemilu 2024, saya akan menitipkan suara saya pada [Anies](https://www.youtube.com/@aniesbaswedan). Insya Allah.
+Pemilu Presiden 2024, saya akan menitipkan suara saya pada [Anies](https://www.youtube.com/@aniesbaswedan). Insya Allah.
 
 Ada beberapa alasan mengapa saya memilih Anies. Alasan pertama adalah reputasi dan rekam jejak yang baik.
 
@@ -58,7 +52,7 @@ Ia bisa [berdiplomasi](https://www.youtube.com/watch?v=NEnOKuOW-To) langsung kep
 
 Indonesia adalah negara besar dengan banyak kepala. Jalan untuk menyatukannya hanya ada dua: kata atau senjata. Saya tahu saya akan pilih yang mana.
 
-Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com/#gsc.tab=0).  Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang [pejuang kemerdekaan](https://id.wikipedia.org/wiki/Abdurrahman_Baswedan), tapi ia tak punya jejaring keluarga ningrat politik.
+Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com). Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang [pejuang kemerdekaan](https://id.wikipedia.org/wiki/Abdurrahman_Baswedan), tapi ia tak punya jejaring keluarga ningrat politik. Anies juga tidak pandai [bernyanyi](https://twitter.com/Yurissa_Samosir/status/1755046219507024352).
 
 Alasan-alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
 
@@ -67,5 +61,3 @@ Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari 
 Anies tentu bukan Presiden Jokowi. Seringkali ide mereka berbeda: tentang pendidikan, ibukota, dan tata kelola negara. Saya senang ada yang berani mengatakan tidak kepada Presiden.
 
 Presiden Joko Widodo telah memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.
-
-Mari mencuci lagi. Motor ini tidak akan bersih dengan sendirinya. :)
