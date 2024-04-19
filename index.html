@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+{% include intro.html %}
+
 <section class="post-list">
   <div class="container">
     {% for post in site.posts %}
@@ -16,17 +18,10 @@ title: Home
         {% endif %}
       {% endunless %}
       <article class="post-item">
-        <div class="article-title">
-          <h3>
-            <a class="post-link" href="{% if post.link %} {{ post.link }} {% else %} {{ post.url | prepend: site.baseurl }} {% endif %}">{{ post.title }}</a>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">☀︎</a>
-          </h3>
-        </div>
-        <p><em class="post-date">{{ post.date | date: "%A, %d %B %Y" }}</em></p>
-        <br>
-        <div class="article">{{ post.content }}</div>
+        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
-      <br>
     {% endfor %}
   </div>
+
 </section>
