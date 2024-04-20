@@ -5,26 +5,26 @@
     <description>essays and codes</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Apr 2024 08:29:46 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Apr 2024 08:29:46 +0700</lastBuildDate>
+    <pubDate>Sat, 20 Apr 2024 20:21:15 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Apr 2024 20:21:15 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
-        <title>Ummuhabibah</title>
-        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+        <title>Tasks</title>
+        <description>&lt;p&gt;A simple todo app built using Nuxt and Vue.js.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/ummuhabibah/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/ummuhabibah/</guid>
+        <link>http://localhost:4000/2024/tasks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/tasks/</guid>
         
         
-        <category>project</category>
+        <category>code</category>
         
       </item>
     
       <item>
         <title>Task</title>
-        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+        <description>&lt;p&gt;This is a simple todo app made using Nuxt and Vue.js.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2024/task/</link>
@@ -37,7 +37,7 @@
     
       <item>
         <title>PSB Balqis</title>
-        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+        <description>&lt;p&gt;A school admission app built using React and Next.js. Backed by Supabase in the backend.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2024/psb-balqis/</link>
@@ -45,21 +45,6 @@
         
         
         <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Prostudy</title>
-        <description>&lt;p&gt;A Decision Support System for Project Feasibility Study using Analytic Hierarchy Process&lt;/p&gt;
-
-&lt;p&gt;This is the source code for my &lt;a href=&quot;http://etd.repository.ugm.ac.id/penelitian/detail/71789&quot;&gt;bachelor thesis&lt;/a&gt; at &lt;a href=&quot;https://ugm.ac.id/&quot;&gt;Universitas Gadjah Mada&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/prostudy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/prostudy/</guid>
-        
-        
-        <category>code</category>
         
       </item>
     
@@ -125,6 +110,21 @@
         
         
         <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Prostudy</title>
+        <description>&lt;p&gt;A Mobile Decision Support System for Project Feasibility Study using Analytic Hierarchy Process. This app is for iOS platform, built using Objective-C.&lt;/p&gt;
+
+&lt;p&gt;This is the source code for my &lt;a href=&quot;http://etd.repository.ugm.ac.id/penelitian/detail/71789&quot;&gt;bachelor thesis&lt;/a&gt; at &lt;a href=&quot;https://ugm.ac.id/&quot;&gt;Universitas Gadjah Mada&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Apr 2022 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2022/prostudy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/prostudy/</guid>
+        
+        
+        <category>code</category>
         
       </item>
     
