@@ -9,7 +9,6 @@ url         : https://haniefutama.com
 baseurl     : null
 cover       : /public/logo_social.png
 
-google_analytics: UA-80230682-1
 repo: https://github.com/hanief/haniefutama
 disqus_shortname: "haniefutama"
 twitter_username: "hnfutama"
