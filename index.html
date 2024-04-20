@@ -43,7 +43,7 @@ title: Home
       {% if post.category == "project" %}
       <article class="post-item">
         <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/open-external.svg" /></a></span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block">{{ post.description }}</small></a></div>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block post-meta">{{ post.description }}</small></a></div>
       </article>
       {% endif %}
     {% endfor %}
@@ -59,7 +59,7 @@ title: Home
       {% if post.category == "code" %}
       <article class="post-item">
         <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/code.svg" /></a></span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block">{{ post.description }}</small></a></div>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block post-meta">{{ post.description }}</small></a></div>
       </article>
       {% endif %}
     {% endfor %}
