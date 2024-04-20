@@ -10,4 +10,4 @@ keywords: "todo, task"
 category: project
 ---
 
-This is a simple todo app I made as a demo for my [Utama](https://utama.app) project. This app is made using Nuxt and Vue.js. 
+A school admission app built using React and Next.js. Backed by Supabase in the backend.
