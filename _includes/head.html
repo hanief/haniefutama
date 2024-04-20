@@ -7,7 +7,7 @@
   {% assign page_title = '' %}
   {% if page.title == "Home" %}
       {% capture page_title %}
-        {{ site.title_left }}{{ site.title_right }} | {{ site.description }}
+        hanief utama | essays and codes
         {%if paginator and paginator.page != 1 %} - {{ paginator.page }}{% endif %}
       {% endcapture %}
   {% else %}
@@ -96,5 +96,4 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl | prepend: site.url }}">
 </head>

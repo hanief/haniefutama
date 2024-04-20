@@ -6,6 +6,7 @@ lang: id
 description: "Sebagian orang baru membaca tulisan ini"
 comments: false
 keywords: "covid, coronavirus, terjemahan, rantau, bahasa indonesia"
+category: essay
 --- 
 
 Sebagian orang merasa tidak berdaya & cemas.

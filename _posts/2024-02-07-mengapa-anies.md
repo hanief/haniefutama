@@ -6,6 +6,7 @@ lang: id
 description: "Mengapa saya memilih Anies Baswedan sebagai Presiden Indonesia"
 comments: false
 keywords: "presiden, indonesia, politik, anies baswedan"
+category: essay
 ---
 
 Empat belas Februari 2024, saya akan menitipkan suara saya pada [Anies](https://www.youtube.com/@aniesbaswedan). Insya Allah.

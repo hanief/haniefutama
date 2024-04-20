@@ -91,8 +91,7 @@ hr {
 }
 
 .logo {
-  float: left;
-  margin: 0 0 1em 0;
+  margin: 0 0 0 0;
   cursor: pointer;
   letter-spacing: 0.8px;
   font-size: 20px;
@@ -102,6 +101,12 @@ hr {
   span {
     font-weight: 700;
   }
+}
+
+.flex {
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between;
 }
 
 .nav {
@@ -123,14 +128,6 @@ hr {
 
   a {
     @extend .link;
-  }
-}
-
-.category-title {
-  margin: 1em 0 0.5em 0;
-
-  &:first-child {
-    margin-top: 0;
   }
 }
 
@@ -291,4 +288,12 @@ hr {
       color: $blue-color;
     }
   }
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  vertical-align: middle;
 }

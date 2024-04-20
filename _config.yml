@@ -1,12 +1,13 @@
 
 # SEO settings
-title: "hanief"
-title2: "utama" # default: ""
-description: "kabayan saba kota"
-keywords: "hanief, cahyautama, cahya, utama, kabayan saba kota, blog"
-url: https://haniefutama.com # site url
-baseurl: null # apply null if repo name is something like username.github.io
-cover: /public/logo_social.png
+title       : "Hanief Utama"
+title_left  : "hanief"
+title_right : "utama"
+description : "essays and codes"
+keywords    : "hanief, haniefutama, cahyautama, cahya, utama, blog, personal blog, software engineer, writer, essays, codes"
+url         : https://haniefutama.com
+baseurl     : null
+cover       : /public/logo_social.png
 
 google_analytics: UA-80230682-1
 repo: https://github.com/hanief/haniefutama
@@ -31,9 +32,9 @@ sass:
 author:
   name     : "Hanief Utama"
   job      : "writer"
-  bio      : "Kabayan saba kota"
+  bio      : "essays and codes"
   thumb    : images/logo.png
-  email    : surat@haniefutama.com
+  email    : halo@haniefutama.com
   url      : https://haniefutama.com
   github   : https://github.com/hanief
   twitter  : https://twitter.com/hnfutama

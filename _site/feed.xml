@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hanief</title>
-    <description>kabayan saba kota</description>
+    <title>Hanief Utama</title>
+    <description>essays and codes</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Apr 2024 19:07:55 +0700</pubDate>
-    <lastBuildDate>Fri, 19 Apr 2024 19:07:55 +0700</lastBuildDate>
+    <pubDate>Sat, 20 Apr 2024 07:44:09 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Apr 2024 07:44:09 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -70,6 +70,8 @@
         <guid isPermaLink="true">http://localhost:4000/2024/mengapa-anies/</guid>
         
         
+        <category>essay</category>
+        
       </item>
     
       <item>
@@ -105,57 +107,7 @@
         <guid isPermaLink="true">http://localhost:4000/2022/clean-code-1/</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Apple meluncurkan prosesor M1</title>
-        <description>&lt;p&gt;Andrei Frumusanu menulis untuk AnandTech:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apple claims the M1 to be the fastest CPU in the world. Given our data on the A14, beating all of Intel’s designs, and just falling short of AMD’s newest Zen3 chips – a higher clocked Firestorm above 3GHz, the 50% larger L2 cache, and an unleashed TDP, we can certainly believe Apple and the M1 to be able to achieve that claim.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Intel menghitung hari.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Nov 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/apple-m1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/apple-m1/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Apple bertarung dengan Epic Games mempertaruhkan masa depan App Store</title>
-        <description>&lt;p&gt;Ben Thompson menulis untuk Stratechery:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Indeed, this is the most frustrating aspect of this debate: Apple consistently acts like a company peeved it is not getting its fair share, somehow ignoring the fact it is worth nearly $2 trillion precisely because the iPhone matters more than anything.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pertarungan di sekitar App Store makin lama makin besar. Akankah berakhir dengan keputusan antitrust bagi Apple.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Aug 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/apple-epic/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/apple-epic/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Apple akan menggunakan prosesor berbasis ARM untuk Mac masa depan</title>
-        <description>&lt;p&gt;Tom Warren menulis untuk The Verge:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apple is officially moving to its own silicon chips for some of its Mac hardware. Calling it a “historic day for the Mac,” Apple CEO Tim Cook detailed the transitions to PowerPC, Mac OS X, and the move to Intel chips before unveiling its plans to use Apple’s own ARM-powered silicon in Macs in the future. It’s a big move that means macOS will support native iOS apps and macOS apps side by side on these new machines in the future.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Aku sangat menantikan langkah baru ini. Tim silikon Apple sudah terbukti kelas dunia. Intel mungkin dalam bahaya.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Jun 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/apple-mac-arm/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/apple-mac-arm/</guid>
-        
+        <category>essay</category>
         
       </item>
     
@@ -167,6 +119,8 @@
         <link>http://localhost:4000/2020/tiga-puluh-lima/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/tiga-puluh-lima/</guid>
         
+        
+        <category>essay</category>
         
       </item>
     
@@ -194,6 +148,8 @@
         <link>http://localhost:4000/2020/mudik/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/mudik/</guid>
         
+        
+        <category>essay</category>
         
       </item>
     
@@ -331,6 +287,8 @@
         <guid isPermaLink="true">http://localhost:4000/2020/sebagian-orang/</guid>
         
         
+        <category>essay</category>
+        
       </item>
     
       <item>
@@ -373,6 +331,8 @@
         <guid isPermaLink="true">http://localhost:4000/2020/pagebluk-dan-ramadan-di-rantau/</guid>
         
         
+        <category>essay</category>
+        
       </item>
     
       <item>
@@ -389,6 +349,8 @@
         <link>http://localhost:4000/2020/hello-world/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/hello-world/</guid>
         
+        
+        <category>essay</category>
         
       </item>
     

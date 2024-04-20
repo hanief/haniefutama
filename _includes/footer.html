@@ -1,17 +1,15 @@
 <footer class="site-footer">
 	<div class="container">
 		<ul class="navbar">
-			<li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-			<li><a href="{{ '/sitemap.xml' | prepend: site.baseurl }}">Sitemap</a></li>
-			{% if site.author.github %}<li><a href="{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>{% endif %}
-			{% if site.author.twitter %}<li><a href="{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>{% endif %}
-			{% if site.author.linkedin %}<li><a href="{{ site.author.linkedin }}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>{% endif %}
-			<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+			{% if site.author.github %}<li><a href="{{ site.author.github }}" target="_blank"><img class="icon" src="{{ '/assets/icons/github.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
+			{% if site.author.twitter %}<li><a href="{{ site.author.twitter }}" target="_blank"><img class="icon" src="{{ '/assets/icons/twitter.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
+			{% if site.author.instagram %}<li><a href="{{ site.author.instagram }}" target="_blank"><img  class="icon" src="{{ '/assets/icons/instagram.svg' | prepend: site.baseurl }}"/></a></li>{% endif %}
+			{% if site.author.linkedin %}<li><a href="{{ site.author.linkedin }}" target="_blank"><img class="icon" src="{{ '/assets/icons/linkedin.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
+			<li><a href="{{ '/sitemap.xml' | prepend: site.baseurl }}"><img class="icon" src="{{ '/assets/icons/github.svg' | prepend: site.baseurl }}" /></a></li>
+			<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><img class="icon" src="{{ '/assets/icons/rss.svg' | prepend: site.baseurl }}" /></a></li>
 		</ul>
 		<hr>
 		<br>
-		<small class="block">All contents licensed with <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>.</small>
-		<small class="block">Made with <i class="fa fa-heart" aria-hidden="true" style="color:#DD3D36"></i> using <a href="https://jekyllrb.com/">Jekyll</a>. Typeface by <a href="https://www.fontsquirrel.com/fonts/dejavu-sans-mono">DejaVu Sans Mono</a> and <a href="http://fontawesome.io/">Font Awesome</a>.</small>
-		<small><a href="https://github.com/heiswayi/thinkspace">Thinkspace</a> theme by <a href="https://heiswayi.github.io/">Heiswayi Nrird</a>.</small>
-	</div>
+		<small class="block">Contents licensed with <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>. Made using <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/thinkspace">Thinkspace</a> theme.</small>
+	</div> 
 </footer>

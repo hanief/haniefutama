@@ -6,6 +6,7 @@ lang: id
 description: "Berbagi pengalaman menjalani ramadan di perantauan."
 comments: false
 keywords: "ramadan, rantau, pandemi, pagebluk, bahasa indonesia"
+category: essay
 ---
 
 Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin saya menginjakkan kaki di Nottingham, Inggris. Saya tiba di sini bulan Maret 2017, mendarat di bandara internasional Birmingham setelah menempuh perjalanan lebih dari 16 jam dari Jakarta via Amsterdam.

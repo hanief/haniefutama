@@ -3,25 +3,51 @@ layout: default
 title: Home
 ---
 
-{% include intro.html %}
-
 <section class="post-list">
   <div class="container">
-    {% for post in site.posts %}
-      {% unless post.next %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% endif %}
-      {% endunless %}
+    <div class="flex">
+      <h2 class="category-title">Essays</h2>
+      <a href="/essays">View all ></a>
+    </div>
+    {% for post in site.posts limit:5 %}
+      {% if post.category == "essay" %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
+      {% endif %}
     {% endfor %}
   </div>
-
 </section>
+<!-- <section class="post-list">
+  <div class="container">
+    <div class="flex">
+      <h2 class="category-title">Projects</h2>
+      <a href="/projects">View all ></a>
+    </div>
+    {% for post in site.posts limit:5 %}
+      {% if post.category == "project" %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+<section class="post-list">
+  <div class="container">
+    <div class="flex">
+      <h2 class="category-title">Codes</h2>
+      <a href="/codes">View all ></a>
+    </div>
+    {% for post in site.posts limit:5 %}
+      {% if post.category == "code" %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section> -->
