@@ -3,13 +3,27 @@ layout: default
 title: Home
 ---
 
+{% assign essays = "" | split: ',' %}
+{% assign projects = "" | split: ',' %}
+{% assign codes = "" | split: ',' %}
+
+{% for post in site.posts %}
+  {% if post.category == "essay" %}
+    {% assign essays = essays | push: post %}
+  {% elsif post.category == "project" %}
+    {% assign projects = projects | push: post %}
+  {% elsif post.category == "code" %}
+    {% assign codes = codes | push: post %}
+  {% endif %}
+{% endfor %}
+
 <section class="post-list">
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Essays</h2>
       <a href="/essays">View all ></a>
     </div>
-    {% for post in site.posts limit:5 %}
+    {% for post in essays limit:5 %}
       {% if post.category == "essay" %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
@@ -19,17 +33,17 @@ title: Home
     {% endfor %}
   </div>
 </section>
-<!-- <section class="post-list">
+<section class="post-list">
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Projects</h2>
       <a href="/projects">View all ></a>
     </div>
-    {% for post in site.posts limit:5 %}
+    {% for post in projects limit:5 %}
       {% if post.category == "project" %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+        <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/open-external.svg" /></a></span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block">{{ post.description }}</small></a></div>
       </article>
       {% endif %}
     {% endfor %}
@@ -41,13 +55,13 @@ title: Home
       <h2 class="category-title">Codes</h2>
       <a href="/codes">View all ></a>
     </div>
-    {% for post in site.posts limit:5 %}
+    {% for post in codes limit:5 %}
       {% if post.category == "code" %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+        <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/code.svg" /></a></span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block">{{ post.description }}</small></a></div>
       </article>
       {% endif %}
     {% endfor %}
   </div>
-</section> -->
+</section>

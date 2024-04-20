@@ -5,9 +5,63 @@
     <description>essays and codes</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Apr 2024 07:44:09 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Apr 2024 07:44:09 +0700</lastBuildDate>
+    <pubDate>Sat, 20 Apr 2024 08:29:46 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Apr 2024 08:29:46 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Ummuhabibah</title>
+        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2024/ummuhabibah/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/ummuhabibah/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Task</title>
+        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2024/task/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/task/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>PSB Balqis</title>
+        <description>&lt;p&gt;This is a simple todo app I made as a demo for my &lt;a href=&quot;https://utama.app&quot;&gt;Utama&lt;/a&gt; project. This app is made using Nuxt and Vue.js.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2024/psb-balqis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/psb-balqis/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Prostudy</title>
+        <description>&lt;p&gt;A Decision Support System for Project Feasibility Study using Analytic Hierarchy Process&lt;/p&gt;
+
+&lt;p&gt;This is the source code for my &lt;a href=&quot;http://etd.repository.ugm.ac.id/penelitian/detail/71789&quot;&gt;bachelor thesis&lt;/a&gt; at &lt;a href=&quot;https://ugm.ac.id/&quot;&gt;Universitas Gadjah Mada&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2024/prostudy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/prostudy/</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
     
       <item>
         <title>Mengapa saya memilih Anies</title>
@@ -329,25 +383,6 @@
         <pubDate>Sun, 17 May 2020 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2020/pagebluk-dan-ramadan-di-rantau/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/pagebluk-dan-ramadan-di-rantau/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Hello, world!</title>
-        <description>&lt;p&gt;I’ve had multiple blog since the beginning of my introduction to Internet. I have accounts on Blogger, Wordpress, and Tumblr. Yet, here I am writing the very first blog entry on my new personal blog.&lt;/p&gt;
-
-&lt;p&gt;I have this domain for a long time. I consider it a nice domain for my personal blog. It has my full name on it with possibilities for another subdomains when there are another cahya utama family that want to blog.&lt;/p&gt;
-
-&lt;p&gt;I intend to write regularly in English and Indonesian here. I am working on practicing my English and this is one of my tools for it. I hope I can consistently wrote two entries for each week.&lt;/p&gt;
-
-&lt;p&gt;This is exciting times for blogging. Hope you agree with me. :)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 May 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/hello-world/</guid>
         
         
         <category>essay</category>

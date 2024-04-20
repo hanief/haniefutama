@@ -1,0 +1,13 @@
+---
+layout: post
+title: "PSB Balqis"
+#date: 2020-05-15 14:00:00
+lang: en
+description: "A school admission app"
+link: https://psb.balqisjogja.com
+comments: false
+keywords: "todo, task"
+category: project
+---
+
+This is a simple todo app I made as a demo for my [Utama](https://utama.app) project. This app is made using Nuxt and Vue.js. 
