@@ -37,7 +37,7 @@ title: Home
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Projects</h2>
-      <a href="/projects">View all ></a>
+      {% if projects.length > 5 %}<a href="/projects">View all ></a>{% endif %}
     </div>
     {% for post in projects limit:5 %}
       {% if post.category == "project" %}
@@ -53,7 +53,7 @@ title: Home
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Codes</h2>
-      <a href="/codes">View all ></a>
+      {% if codes.length > 5 %}<a href="/codes">View all ></a>{% endif %}
     </div>
     {% for post in codes limit:5 %}
       {% if post.category == "code" %}
