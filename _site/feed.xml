@@ -5,8 +5,8 @@
     <description>essays and codes</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Apr 2024 20:21:15 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Apr 2024 20:21:15 +0700</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 20:50:15 +0700</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 20:50:15 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -114,6 +114,63 @@
       </item>
     
       <item>
+        <title>Itikaf</title>
+        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Bulan puasa ini istimewa karena saya harus “itikaf” di rumah sakit. Sakit di perut bagian bawah kanan yang didiagnosa sebagai appendicitis kronis, alias penyakit usus buntu. Jadinya si jabang usus mesti dikeluarkan.&lt;/p&gt;
+
+&lt;p&gt;Ini kali pertama saya menginap di rumah sakit sebagai pasien. Ini juga pengalaman perdana saya dioperasi waktu dewasa. Perasaan yang campur aduk. Saya jadi mencicipi apa yang dirasakan ibunya anak-anak saat caesarean, walaupun dalam skala yang lebih kecil.&lt;/p&gt;
+
+&lt;p&gt;Terima kasih pada dr. Suharto yang sudah melakukan operasi. Pasca op baru tau ternyata beliau adalah ayahanda dari dr. Dodot, tetangga kos di Karanggayam dulu. Dunia yang kecil.&lt;/p&gt;
+
+&lt;p&gt;Bulan puasa ini terpaksa saya libur beberapa hari sambil pemulihan. Posisi saya di pole position jumlah hari puasa di rumah akhirnya diambil alih oleh si sulung yang penuh sebulan. Mungkin memang saatnya harus pitstop sebentar sebelum lanjut tancap gas lagi.&lt;/p&gt;
+
+&lt;p&gt;Mohon doanya. 🙏&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Apr 2023 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2023/itikaf/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/itikaf/</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Hard Headed Woman</title>
+        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I’m looking for a hard headed woman
+One who will take me for myself
+And if I find my hard headed woman
+I won’t need nobody else, no, no, no&lt;/p&gt;
+
+&lt;p&gt;Yusuf Islam, atau Cat Stevens sebelum ia memeluk Islam, adalah salah satu musisi favorit saya. Lagu-lagu seperti Where Do the Children Play dan Father and Son terkesan sederhana tapi memiliki makna dalam. Salah satu lagu Yusuf favorit saya adalah Hard Headed Woman, karena ia selalu mengingatkan kepada Mifta.&lt;/p&gt;
+
+&lt;p&gt;Mifta is a hard headed woman. Kami memiliki karakter yang berbeda 180 derajat. Saya pendiam, malas berkonflik, dan berfilosofi hidup mengalir seperti air. Sementara Mifta senang mengobrol, tegas berprinsip, dan memiliki cita-cita kuat.&lt;/p&gt;
+
+&lt;p&gt;Saat kami pertama kali berkenalan, syarat ia mau menikah dengan saya adalah kalau saya mau menemani dia sekolah S3, dimana pun itu. Bulan ini genap sepuluh tahun sejak pertemuan itu. Bulan ini pula akhirnya Mifta berhasil mempertahankan tesis doktoralnya di depan tim penguji University of Nottingham. Alhamdulillah.&lt;/p&gt;
+
+&lt;p&gt;Tesis ini lahir bukan tanpa kesulitan, bahkan sebaliknya. Mifta harus berjibaku belajar, meneliti, dan menulis sambil hamil dan melahirkan. Belum lagi kesulitan akademik seperti kekurangan data, drama kampus, dan pergantian supervisor. Di tengah-tengah seabrek aktivitasnya, ia juga masih berbaik hati memasak untuk keluarga.&lt;/p&gt;
+
+&lt;p&gt;Puncaknya adalah 2021-2022: &lt;em&gt;lockdown&lt;/em&gt; pandemi, beasiswa selesai kontraknya, dan visa yang sudah habis masa berlakunya membuat kami memutuskan untuk pulang ke tanah air padahal tesisnya belum selesai. Ia harus membawa serta tugasnya 12000 kilometer dari Nottingham ke Jogja. Teknologi membantu, tapi 6-7 jam perbedaan zona waktu tentu berpengaruh. Studi yang harusnya selesai dalam waktu 4 tahun, terpaksa harus diperpanjang hingga lebih dari 5 tahun.&lt;/p&gt;
+
+&lt;p&gt;Mifta is a hard headed woman. Berbagai macam kesulitan itu ia lakoni untuk mencapai cita-citanya. Pada masa-masa tertentu tentu ada saatnya ia merasa hampir putus asa, dan saya cuma bisa mendengarkan, menggenggam tangan dan memeluknya. Kemudian ia bangkit lagi, dan maju lagi.&lt;/p&gt;
+
+&lt;p&gt;Yusuf, I think I’ve found my own hard headed woman, her name is Mifta Pratiwi Rachman, Ph.D.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Oct 2022 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2022/hard-headed-woman/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/hard-headed-woman/</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
         <title>Prostudy</title>
         <description>&lt;p&gt;A Mobile Decision Support System for Project Feasibility Study using Analytic Hierarchy Process. This app is for iOS platform, built using Objective-C.&lt;/p&gt;
 
@@ -155,6 +212,34 @@
 &lt;p&gt;Martin sendiri mendorong pembaca buku agar mempelajari &lt;em&gt;Clean Code&lt;/em&gt; dengan membaca secara utuh bukunya agar mendapatkan pemahaman yang baik akan konsepnya. Ia menyediakan ide, alat dan teknik untuk mencapai &lt;em&gt;Clean Code&lt;/em&gt; menurut pendapatnya. Namun, aplikasinya tentu saja tergantung pada pembaca.&lt;/p&gt;
 
 &lt;p&gt;Akhirnya, secara sederhana &lt;em&gt;Clean Code&lt;/em&gt; pada dasarnya seperti prinsip seorang pandu, &lt;em&gt;leave the campground cleaner than you found it&lt;/em&gt;, tinggalkan tempat berkemah anda lebih bersih daripada ketika anda datang. Perbaiki kode yang kita tulis sedikit demi sedikit sehingga orang yang datang setelah anda pergi bisa memahaminya lebih baik.&lt;/p&gt;
+
+&lt;h2 id=&quot;terjemahan-bahasa-inggris&quot;&gt;Terjemahan Bahasa Inggris&lt;/h2&gt;
+
+&lt;p&gt;Taylor Otwell, pioneer of Laravel (a web programming framework for PHP), labeled his framework as “The PHP Framework for Web Artisans”. He emphasizes the word artisan, which more or less means craftsman. An artisan/craftsman is someone who has the skills to create a work. An artisan really pays attention to the process and methods of work so that he can produce a work that he can be proud of. An artisan can also mean an artist, in the sense that he has artistic intuition and can produce beautiful products.&lt;/p&gt;
+
+&lt;p&gt;A programmer is often also referred to as an engineer.&lt;/p&gt;
+
+&lt;p&gt;Engineers are often associated with work that is rough, dirty and physical. However, I think an engineer can also be an artist if the work he produces comes from deep attention to the process and quality so that it results in work that is pleasing to the eye.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, a good software engineer is someone who cares about the quality of the code they create so that they want the product they build to be proud of as a work that is not only useful, but also beautiful.&lt;/p&gt;
+
+&lt;p&gt;From an engineering perspective, the age of software engineering is still relatively new compared to other engineering fields such as: civil engineering or electrical engineering. So the field discipline and software development techniques are still quite young and not as mature as other fields.&lt;/p&gt;
+
+&lt;p&gt;Robert C. Martin believes that poorly written code can have a big impact on an organization/company. He still remembers a software company in the late 80s that had a very popular app. However, the code release process is getting longer and longer. Bugs and issues are not fixed over time. App loading times take longer and more crashes occur. The company closed shortly thereafter.&lt;/p&gt;
+
+&lt;p&gt;Several years later, Martin met an employee of the company and asked him what happened. The person’s answer confirmed Martin’s suspicion that they rushed the product even though the code they had was a mess. The more features added, the messier the code becomes. It’s messy code that destroys companies.&lt;/p&gt;
+
+&lt;p&gt;Martin then tried to answer these problems by writing the book &lt;a href=&quot;https://www.oreilly.com/library/view/clean-code-a/9780136083238/&quot;&gt;&lt;em&gt;”Clean Code: A Handbook of Agile Software Craftmanship”&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why is learning Clean Code important? Because according to Martin, programmers will always write code according to the specifications of business people.&lt;/p&gt;
+
+&lt;p&gt;Indeed, currently the tools that help write code are developing quite rapidly. In addition to the &lt;a href=&quot;https://en.wikipedia.org/wiki/No-code_development_platform&quot;&gt;&lt;em&gt;No Code&lt;/em&gt;&lt;/a&gt; movement which is gaining strength, there are also tools like Github Copilot that help programmers write code using AI&lt;/p&gt;
+
+&lt;p&gt;What is Clean Code? Martin proposed a principle called Clean Code. Martin tried to define it based on the opinions of other programmers. Bjarne Stroustrup, the inventor of C++, used the word elegant. Grady Booch, author of Object Oriented Analysis and Design with Applications uses a readability perspective. Ward Cunningham, the inventor of Wiki, emphasized conforming to the expectations of code readers.&lt;/p&gt;
+
+&lt;p&gt;Martin himself encourages book readers to study Clean Code by reading the book in its entirety to gain a good understanding of the concept. He provides ideas, tools and techniques to achieve Clean Code in his opinion. However, the application of course depends on the reader.&lt;/p&gt;
+
+&lt;p&gt;Finally, in simple terms, the Clean Code is basically like a guide’s principle, leave the campground cleaner than you found it, leave your camping spot cleaner than when you came. Improve the code we write little by little so that people who come after you leave can understand it better.&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Mar 2022 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2022/clean-code-1/</link>
@@ -201,188 +286,6 @@
         <pubDate>Tue, 26 May 2020 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2020/mudik/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/mudik/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Sebagian orang</title>
-        <description>&lt;p&gt;Sebagian orang merasa tidak berdaya &amp;amp; cemas.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang merasa bosan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang dikarantina sendiri dan kesepian.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang benar-benar menikmati waktu lebih dengan anak-anak mereka dan akan merindukannya ketika sudah selesai.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang baru saja selesai dari &lt;em&gt;shift&lt;/em&gt; dobel berturut-turut di rumah sakit dan tidak bisa memeluk keluarga mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang mengunjungi restoran favorit mereka untuk terakhir kalinya dan tidak menyadarinya.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang meninggal karena COVID-19.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat berhenti membaca berita.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak mampu membeli sabun.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang sedang belajar cara memasak sendiri.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang harus bekerja dari rumah sambil secara mencoba mengajari anak-anak mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang adalah orang tua tunggal yang berusaha untuk bekerja dari rumah sambil mengajari anak-anak mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang hidup dari gaji ke gaji dan gaji berikutnya tak akan tiba.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak layak menjadi pemimpin.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang muncul jadi pemimpin-pemimpin baru.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang pulang kampung menggunakan truk.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak bisa mudik.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat pergi ke toko karena berisiko kesehatan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang kehilangan pekerjaan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak bisa tidur.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang menonton opera online gratis.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang telah dikarantina selama berminggu-minggu.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat bekerja dari jarak jauh.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang telah terkena COVID-19 dan belum mengetahuinya.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat fokus pada pekerjaan karena cemas.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak mampu membayar sewa rumah bulan depan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang masih berkumpul rame-rame.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang menjaga kita tetap hidup dengan mengambil risiko besar.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tetap salat tarawih berjamaah.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang puasa tanpa ada makanan berbuka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak membeli cukup sabun cuci tangan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang membeli terlalu banyak sabun cuci tangan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang kehilangan terapis mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak bisa pergi bekerja tetapi masih dibayar oleh bos mereka. Untuk sekarang.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang terutama khawatir tentang apa yang harus ditonton selanjutnya di Netflix.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang menjadi relawan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang akan kehilangan bisnis mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang menyadari bahwa guru sekolah itu luar biasa.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang memesan makanan dari restoran lokal.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang merindukan pelukan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat meyakinkan orang tua mereka bahwa wabah ini serius.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang khawatir tentang uang pensiun mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak pernah memiliki tabungan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang akan menghadapi peningkatan KDRT.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang membeli baju baru di mall.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang harus tidur di jalan karena tidak dapat membayar kos.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak akan berhenti berpesta.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang kehilangan hak pengasuhan anak mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang melakukan segala yang mereka bisa untuk tetap tenang dan itu tidak berhasil.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang menonton Outbreak &amp;amp; Contagion dan bermain Pandemic.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak tahu apa yang akan mereka lakukan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang kewalahan dengan saran tentang cara bekerja dari rumah.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang terlalu banyak minum atau makan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang berpikir tentang masa depan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang kesal karena mereka tidak bisa jalan-jalan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang jatuh cinta lagi pada pasangan mereka.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak akan melihat keluarga mereka selama berbulan-bulan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak dapat melihat cahaya di ujung terowongan.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang akan menyadari bahwa mereka perlu berpisah dengan pasangannya.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang bernyanyi bersama.&lt;/p&gt;
-
-&lt;p&gt;Sebagian orang tidak ada dalam daftar ini.&lt;/p&gt;
-
-&lt;p&gt;Ini semua didasarkan pada pengalaman orang-orang nyata yang diambil dari berita, media sosial, dan teman. Jangan khawatir: Anda bukan satu-satunya orang yang mengalami apa yang Anda alami. Tapi sadarlah: tidak semua orang memiliki pengalaman yang sama dengan Anda. Namun pada akhirnya, kita semua menghadapi ini bersama-sama.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Tulisan ini diadaptasi dari &lt;a href=&quot;https://kottke.org/20/03/some-people&quot;&gt;kottke.org&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 May 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/sebagian-orang/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/sebagian-orang/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Pagebluk dan Ramadan di rantau</title>
-        <description>&lt;p&gt;Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin saya menginjakkan kaki di Nottingham, Inggris. Saya tiba di sini bulan Maret 2017, mendarat di bandara internasional Birmingham setelah menempuh perjalanan lebih dari 16 jam dari Jakarta via Amsterdam.&lt;/p&gt;
-
-&lt;p&gt;Dibandingkan dengan tiga tahun lalu, ada beberapa perubahan dalam kehidupan saya. Anggota keluarga kami bertambah seorang dengan kelahiran putra kedua pada tahun 2018. Kami juga pindah rumah kontrakan dari wilayah Dunkirk ke daerah Radford. Harga sewa rumah di daerah ini lebih murah dan lokasinya lebih dekat dengan komunitas orang Indonesia dan komunitas Muslim. Alhamdulillah.&lt;/p&gt;
-
-&lt;p&gt;Selain perbedaan kondisi keluarga, Ramadan tahun ini diwarnai dengan sebuah peristiwa global yang akan tercatat di sejarah umat manusia modern. Sebuah pandemi, alias &lt;a href=&quot;https://kbbi.web.id/pagebluk&quot;&gt;pagebluk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Seperti halnya negara-negara lain, Britania Raya tidak bebas dari penyebaran SARS-CoV-2 dan penyakit Covid-19. Bahkan per 17 Mei 2020, menurut &lt;a href=&quot;https://ourworldindata.org/coronavirus-uk?country=GBR&quot;&gt;data terbaru&lt;/a&gt;, total kasus terkonfirmasi di Britania Raya mencapai lebih dari 240.000. Korban meninggal sudah melebihi 30.000 orang. Secara global, jumlah ini hanya kalah dari Amerika Serikat.&lt;/p&gt;
-
-&lt;p&gt;Untuk mengatasi penyebaran virus ini, pemerintah Britania Raya mengeluarkan kebijakan &lt;em&gt;lockdown&lt;/em&gt; seperti halnya banyak negara lain. Pesan yang disampaikan oleh Perdana Menteri Boris Johnson adalah &lt;em&gt;Stay Home, Protect NHS, Save Lives&lt;/em&gt;. Tetap di rumah, lindungi NHS, selamatkan nyawa. Selama beberapa minggu, warga non pekerja kunci tidak boleh keluar rumah kecuali untuk: belanja kebutuhan sehari-hari dan obat ke apotek, olahraga sendirian, atau pergi ke rumah sakit. Pekerja kunci adalah mereka yang bekerja sebagai dokter, perawat, kurir, kasir supermarket, dan lainnya.&lt;/p&gt;
-
-&lt;p&gt;Semua bisnis non-esensial harus ditutup. Pekerja disarankan bekerja dari rumah. Sekolah ditutup kecuali untuk anak pekerja kunci. Rumah-rumah ibadah ditutup.&lt;/p&gt;
-
-&lt;p&gt;Minggu lalu, kebijakan ini agak dilonggarkan. Sekarang, warga bisa olahraga barengan dengan anggota keluarga. Selain itu, kami boleh jalan-jalan atau piknik ke taman dan ruang terbuka luar. Pekerja yang tidak mungkin bekerja dari rumah, seperti di bidang konstruksi, didorong untuk bekerja kembali. Seiring dengan penurunan jumlah infeksi, kebijakan ini kemungkinan akan terus diperlonggar.&lt;/p&gt;
-
-&lt;p&gt;Walaupun tanpa pagebluk, pengalaman Ramadan di sini berbeda dengan kebiasaan di tanah air. Tidak ada azan menggunakan pengeras suara. Tak ada &lt;em&gt;ngabuburit&lt;/em&gt; membeli es kelapa muda di pinggir jalan. Tidak ada pemuda yang membangunkan sahur keliling kampung. Tak ada acara buka bersama alumni SD angkatan 1999.&lt;/p&gt;
-
-&lt;p&gt;Selain itu, durasi puasa di daerah lintang utara seperti Inggris bisa berubah banyak bergantung musim. Tahun 2017 lalu saat pertama kali saya mengalami puasa di sini, waktu subuh kira-kira pukul 3 pagi, dan magrib sekitar pukul 21.30. Jadi, durasi puasa bisa lebih dari 18 jam. Tahun ini agak lebih pendek, tapi tetap lebih dari 17 jam. Ini adalah tantangan tersendiri.&lt;/p&gt;
-
-&lt;p&gt;Dengan adanya kebijakan lockdown dan situasi pagebluk, masjid pun ditutup. Muslim Council of Britain mengeluarkan &lt;a href=&quot;https://mcb.org.uk/general/ramadan2020_guidance/&quot;&gt;panduan Ramadan di Rumah&lt;/a&gt;. Tak ada salat lima waktu berjamaah. Tak ada iftar bersama. Tak ada tarawih. Tak ada iktikaf di masjid.&lt;/p&gt;
-
-&lt;p&gt;Tanpa ibadah yang bersifat berjamaah di masjid, Ramadan kali ini terasa lebih hening. Lebih banyak fokus pada diri sendiri dan keluarga. Kegiatan ramadan tetap bisa dilakukan di rumah. Saya dan istri mengusahakan agar suasananya tetap terasa normal. Kami tetap tadarus. Kami berusaha tarawih tiap hari. Istri saya tetap masak kolak pisang dan ubi.&lt;/p&gt;
-
-&lt;p&gt;Aspek sosial Ramadan yang kami lakukan paling tidak ada dua hal: saling berbalas kirim makanan buka puasa dengan tetangga kami yang baik sekali dan tadarus &lt;a href=&quot;https://kbbi.web.id/daring&quot;&gt;daring&lt;/a&gt; tiga kali sepekan, ibu-ibu dan bapak-bapak terpisah.&lt;/p&gt;
-
-&lt;p&gt;Alhamdulillah, dengan kemajuan teknologi, banyak rutinitas yang biasa dilakukan Ramadan bisa dilakukan secara daring. Teknologi streaming dan panggilan video sangat membantu kami untuk mendengarkan ceramah, tadarus, dan silaturahim dengan teman dan keluarga. Tahun lalu, kami tidak mudik ke Indonesia dan setelah salat Idul Fitri kami sungkem virtual via panggilan video kepada orang tua kami. Tahun ini pun akan sama. Insya Allah.&lt;/p&gt;
-
-&lt;p&gt;Saya sadar bahwa pagebluk, pembatasan sosial (&lt;em&gt;social distancing&lt;/em&gt;), dan kebijakan &lt;em&gt;lockdown&lt;/em&gt; sangat berpengaruh terhadap penghidupan banyak masyarakat dan ekonomi secara umum. Kami bersyukur bahwa Allah masih memberikan nikmat sehat dan rezeki makan tiap hari. Puasa, dengan atribut menahan nafsunya, mudah-mudahan membuat kami bisa lebih peka terhadap kondisi warga yang lemah, kekurangan, dhuafa. Zakat, dengan atribut filantropinya, semoga menjadikan kami lebih ringan berbagi rezeki dari Allah.&lt;/p&gt;
-
-&lt;p&gt;Saya bukan epidemiolog, bukan dokter, bukan ekonom, bukan pula pengambil kebijakan. Saya hanya bisa diam di rumah. Saya hanya bisa membantu tetangga semampu saya. Saya hanya bisa berdoa. Doa yang saya panjatkan adalah agar Allah tidak membebankan kepada kami beban berat seperti yang dibebankan kepada orang-orang sebelum kami dan agar Allah tidak memikulkan pada kami apa yang tak sanggup kami memikulnya.&lt;/p&gt;
-
-&lt;p&gt;Allahumma innaka ‘afuwwun, tuhibbul ‘afwa fa’fuanni.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 17 May 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/pagebluk-dan-ramadan-di-rantau/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/pagebluk-dan-ramadan-di-rantau/</guid>
         
         
         <category>essay</category>
