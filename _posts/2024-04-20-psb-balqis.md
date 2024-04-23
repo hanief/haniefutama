@@ -10,4 +10,8 @@ keywords: "todo, task"
 category: project
 ---
 
+![PSB Balqis](/assets/images/psb.png)
+
 A school admission app built using React and Next.js. Backed by Supabase in the backend.
+
+Demo: [https://psb.balqisjogja.com](https://psb.balqisjogja.com)
