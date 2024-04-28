@@ -51,11 +51,6 @@ plugins:
   - bourbon
   - jekyll-paginate
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-
 exclude:
   - "gulp"
   - "node_modules"
