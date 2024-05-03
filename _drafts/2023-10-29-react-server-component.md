@@ -50,6 +50,8 @@ So I am now trying to make sense of it, and put it in a blog post as my own note
 
 I feel the best explanation on RSC out there is from Josh Comeau in his [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/) post. I urge you to read it from there. It has cool illustration and really easy to understand break down.
 
+Its so good, my own post will be heavily inspired from it and use some of his illustration.
+
 # JS rendering methods
 
 To be able to understand RSC, first we have to understand React rendering methods.
@@ -58,17 +60,26 @@ To be able to understand RSC, first we have to understand React rendering method
 
 The OG React rendering method is of course Client Side rendering. You have to download all of JS files to be able to see the content.
 
+![Client Side Rendering](/assets/images/rsc-2.png)
+Chart adapted from [Josh W Comeau](https://www.joshwcomeau.com/react/server-components/)
+
 This approach is simple and has been used for some time. But, this means the first paint and page interactive is quite far away from the first request. This has implication on SEO and performance. It has to wait for script download, shell render, API roundback, database query, and content render to be able to display real content on web page.
 
 This approach is not suitable for content heavy apps such as e-commerce sites or blogs. But its still ok for non-public non-heavy-traffic app such as internal dashboard.
 
 ## Server Side Rendering
 
+![Server Side Rendering](/assets/images/rsc-4.png)
+Chart adapted from [Josh W Comeau](https://www.joshwcomeau.com/react/server-components/)
+
 To fix the SEO problem, React and framework such as Next.js added new method of rendering called Server Side Rendering. This method put the rendering of initial shell to the server, so when the initial request came it can respond with default/initial content to the browser. 
 
 Once the shell arrived at the browser, it will download the real content using a method called hydration. Hydration basically works like it is named. Imagine an empty bottle, hydration is filling the bottle with water from the tap. The container/shell already there and can be seen / interacted by user, but it needs to be filled for user to be able to drink.
 
 ## Server Component
+
+![Server Component](/assets/images/rsc-5.png)
+Chart adapted from [Josh W Comeau](https://www.joshwcomeau.com/react/server-components/)
 
 SSR is already helping with performance and SEO. But we can go further. Why should we receive initial shell on first response? Why do we not get the whole content? Especially if we have access to the underlying database in the server. We also still get a huge bundle everytime we download the JS script.
 
@@ -78,6 +89,8 @@ Server Component basically enables React component to be rendered and interactin
 
 
 # The difference between Server Component and Client Component
+
+![Server Side Rendering](/assets/images/rsc-3.png)
 
 What's the difference between Server and Client Component? The first thing that you notice is the "use client" directive at the top of the Client Component. That's because in the RSC paradigm, default component type is Server Component.
 
@@ -94,6 +107,17 @@ Here are the summary of the differences:
 | Default component                             | "use client"                             |
 | No state                                      | Can use state                            |
 | Can import Client Component                   | Can **ONLY** import Client Component     |
+
+
+# Useful visualisation for client boundary
+
+The most helpful way to think about separation of client and server component is if we use the concept of client boundary. 
+
+In this boundary, when we make a component became a client component, all of its children components became client component too.
+
+Let's look at the component tree below, here the App and Header is Server Components since its default. But the Article and all its children are client because we put directive "use client" on the Article component. This assignment created an imaginary client boundary for the Article component and its descendants.
+
+![client boundary](/assets/images/rsc-6.png)
 
 # Next.js is the only framework that offer full support of RSC
 
