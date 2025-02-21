@@ -23,7 +23,7 @@ title: Home
       <h2 class="category-title">Essays</h2>
       <a href="/essays">View all ></a>
     </div>
-    {% for post in essays limit:5 %}
+    {% for post in essays limit:10 %}
       {% if post.category == "essay" %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
