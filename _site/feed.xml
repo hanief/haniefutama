@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanief Utama</title>
-    <description>essays and codes</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jan 2026 15:10:09 +0700</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 15:10:09 +0700</lastBuildDate>
+    <description>essays and projects</description>
+    <link>https://haniefutama.com/</link>
+    <atom:link href="https://haniefutama.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Jan 2026 18:50:22 +0700</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 18:50:22 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://algoritama.com&quot;&gt;https://algoritama.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/algoritama/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/algoritama/</guid>
+        <link>https://haniefutama.com/2025/algoritama/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/algoritama/</guid>
         
         
         <category>project</category>
@@ -31,8 +31,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://booraaq.com&quot;&gt;https://booraaq.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/booraaq/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/booraaq/</guid>
+        <link>https://haniefutama.com/2025/booraaq/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/booraaq/</guid>
         
         
         <category>project</category>
@@ -46,8 +46,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://quranicarabic.id&quot;&gt;https://quranicarabic.id&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Oct 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/quranicarabic/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/quranicarabic/</guid>
+        <link>https://haniefutama.com/2025/quranicarabic/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/quranicarabic/</guid>
         
         
         <category>project</category>
@@ -61,8 +61,8 @@
 &lt;p&gt;Instagram: &lt;a href=&quot;https://instagram.com/lingkarkecil&quot;&gt;https://instagram.com/lingkarkecil&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/lingkarkecil/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/lingkarkecil/</guid>
+        <link>https://haniefutama.com/2025/lingkarkecil/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/lingkarkecil/</guid>
         
         
         <category>project</category>
@@ -76,8 +76,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://mahirjavascript.net/&quot;&gt;https://mahirjavascript.net/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/mahirjavascript/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/mahirjavascript/</guid>
+        <link>https://haniefutama.com/2025/mahirjavascript/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/mahirjavascript/</guid>
         
         
         <category>project</category>
@@ -224,8 +224,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/linkhub/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/linkhub/</guid>
+        <link>https://haniefutama.com/2025/linkhub/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2025/linkhub/</guid>
         
         
         <category>project</category>
@@ -243,8 +243,8 @@
 &lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/tasks&quot;&gt;https://github.com/hanief/tasks&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/task/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/task/</guid>
+        <link>https://haniefutama.com/2024/task/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2024/task/</guid>
         
         
         <category>project</category>
@@ -290,8 +290,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 10 Feb 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/haniefutama/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/haniefutama/</guid>
+        <link>https://haniefutama.com/2024/haniefutama/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2024/haniefutama/</guid>
         
         
         <category>project</category>
@@ -355,8 +355,8 @@
 &lt;p&gt;Presiden Joko Widodo telah memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Feb 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/mengapa-anies/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/mengapa-anies/</guid>
+        <link>https://haniefutama.com/2024/mengapa-anies/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2024/mengapa-anies/</guid>
         
         
         <category>essay</category>
@@ -585,8 +585,8 @@
 &lt;p&gt;Also, you need to be already in Next.js environment, since the only frawework supporting this feature is them.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Oct 2023 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2023/react-server-component/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/react-server-component/</guid>
+        <link>https://haniefutama.com/2023/react-server-component/</link>
+        <guid isPermaLink="true">https://haniefutama.com/2023/react-server-component/</guid>
         
         
         <category>essay</category>
