@@ -1,13 +1,12 @@
-
 # SEO settings
-title       : "Hanief Utama"
-title_left  : "hanief"
-title_right : "utama"
-description : "essays and codes"
-keywords    : "hanief, haniefutama, cahyautama, cahya, utama, blog, personal blog, software engineer, writer, essays, codes"
-url         : https://haniefutama.com
-baseurl     : null
-cover       : /public/logo_social.png
+title: "Hanief Utama"
+title_left: "hanief"
+title_right: "utama"
+description: "essays and projects"
+keywords: "hanief, haniefutama, cahyautama, cahya, utama, blog, personal blog, software engineer, writer, essays, codes"
+url: https://haniefutama.com
+baseurl: null
+cover: /public/logo_social.png
 
 repo: https://github.com/hanief/haniefutama
 disqus_shortname: "haniefutama"
@@ -15,9 +14,9 @@ twitter_username: "hnfutama"
 comments: false
 
 # Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
 source: ./
 destination: ./_site
@@ -29,17 +28,17 @@ sass:
 
 # Author settings
 author:
-  name     : "Hanief Utama"
-  job      : "writer"
-  bio      : "essays and codes"
-  thumb    : images/logo.png
-  email    : halo@haniefutama.com
-  url      : https://haniefutama.com
-  github   : https://github.com/hanief
-  twitter  : https://twitter.com/hnfutama
-  facebook : https://www.facebook.com/haniefcutama
-  instagram : https://www.instagram.com/haniefutama
-  linkedin : https://linkedin.com/in/haniefutama
+  name: "Hanief Utama"
+  job: "writer"
+  bio: "essays and projects"
+  thumb: images/logo.png
+  email: halo@haniefutama.com
+  url: https://haniefutama.com
+  github: https://github.com/hanief
+  twitter: https://twitter.com/hnfutama
+  facebook: https://www.facebook.com/haniefcutama
+  instagram: https://www.instagram.com/haniefutama
+  linkedin: https://linkedin.com/in/haniefutama
 
 # social settings
 og_locale: "id_ID"

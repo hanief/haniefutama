@@ -5,26 +5,230 @@
     <description>essays and codes</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Apr 2024 02:10:28 +0700</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2024 02:10:28 +0700</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 15:10:09 +0700</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 15:10:09 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
-        <title>Tasks</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/task.png&quot; alt=&quot;task&quot; /&gt;&lt;/p&gt;
+        <title>Algoritama</title>
+        <description>&lt;p&gt;I made a software house company to build website and mobile app with love.&lt;/p&gt;
 
-&lt;p&gt;This is a simple todo app made using Nuxt and Vue.js.&lt;/p&gt;
-
-&lt;p&gt;Demo: &lt;a href=&quot;https://task.utama.app&quot;&gt;https://task.utama.app&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/tasks&quot;&gt;https://github.com/hanief/tasks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://algoritama.com&quot;&gt;https://algoritama.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/tasks/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/tasks/</guid>
+        <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/algoritama/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/algoritama/</guid>
         
         
-        <category>code</category>
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Booraaq</title>
+        <description>&lt;p&gt;I made a software house islamic apps.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://booraaq.com&quot;&gt;https://booraaq.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Nov 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/booraaq/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/booraaq/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Quranic Arabic</title>
+        <description>&lt;p&gt;I helped establish Quranic Arabic Indonesia. A community of people teaching and learning to read arabic to learn the Quran.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://quranicarabic.id&quot;&gt;https://quranicarabic.id&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Oct 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/quranicarabic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/quranicarabic/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Lingkar Kecil</title>
+        <description>&lt;p&gt;I founded Lingkar Kecil. A study group to learn about islamic concepts and knowledge.&lt;/p&gt;
+
+&lt;p&gt;Instagram: &lt;a href=&quot;https://instagram.com/lingkarkecil&quot;&gt;https://instagram.com/lingkarkecil&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/lingkarkecil/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/lingkarkecil/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Mahir Javascript</title>
+        <description>&lt;p&gt;I made Mahir Javascript. An Indonesian translation of Eloquent Javascript book&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://mahirjavascript.net/&quot;&gt;https://mahirjavascript.net/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Aug 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/mahirjavascript/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/mahirjavascript/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>LinkHub</title>
+        <description>&lt;h2 id=&quot;code&quot;&gt;Code:&lt;/h2&gt;
+
+&lt;p&gt;https://github.com/hanief/LinkHub&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;LinkHub&lt;/strong&gt; is an open-source project designed to help users create a personalized landing page for their most important links. Whether you’re a creator, professional, or community manager, LinkHub provides a simple, elegant way to share all your key destinations—social profiles, blogs, products, and more—in one place.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-linkhub&quot;&gt;What is LinkHub?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;LinkHub&lt;/strong&gt; is a “Simple links website”. Its main goal is to let users display a collection of links on a single, visually appealing page. The project is public and written primarily in TypeScript. The UI is modern, responsive, and customizable, making it perfect for sharing on social media or as a digital business card.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example use cases:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Creators sharing social media, YouTube, and blog links&lt;/li&gt;
+  &lt;li&gt;Businesses aggregating product, contact, and portfolio links&lt;/li&gt;
+  &lt;li&gt;Communities offering quick access to resources and channels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;/h2&gt;
+
+&lt;p&gt;LinkHub is built using a modern web stack, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;TypeScript:&lt;/strong&gt; Used across the client, server, and shared schema files for static typing and reliability.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;React:&lt;/strong&gt; Powers the frontend interface and dynamic components.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Express.js:&lt;/strong&gt; Serves the backend API (&lt;code class=&quot;highlighter-rouge&quot;&gt;server/index.ts&lt;/code&gt;), handling requests and managing link/profile data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Radix UI &amp;amp; Lucide React:&lt;/strong&gt; For accessible, customizable UI primitives (dialogs, menubars, icons).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vite:&lt;/strong&gt; Development and bundling tool for fast builds and hot reloading.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;React Icons:&lt;/strong&gt; Provides scalable social and web icons for links.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tailwind CSS (style classes):&lt;/strong&gt; Utility-first CSS for rapid UI development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code-structure-overview&quot;&gt;Code Structure Overview&lt;/h2&gt;
+
+&lt;p&gt;The repository is organized as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/&lt;/code&gt; – Frontend code (React, UI components, pages)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/&lt;/code&gt; – Backend/Express API and server logic&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shared/&lt;/code&gt; – Schema definitions shared between client and server&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;key-files--components&quot;&gt;Key Files &amp;amp; Components&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-frontend&quot;&gt;1. Frontend&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/index.html&lt;/code&gt;&lt;/strong&gt;: Entry HTML file, loads fonts and scripts, sets up the root React mounting point.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/src/pages/home.tsx&lt;/code&gt;&lt;/strong&gt;: Main landing page. Loads profile info and an array of links—each with a title, URL, icon, and priority.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/src/components/ui/link-card.tsx&lt;/code&gt;&lt;/strong&gt;: Renders each link as a card with icon, title, and URL. Uses React Icons for social/media branding.&lt;/p&gt;
+
+    &lt;div class=&quot;language-tsx highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;LinkCard&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;isPrimary&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;LinkCardProps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getIconComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;UI Components&lt;/strong&gt;: Includes sidebar, pagination, dialog, menubar, navigation menu, and context menu, all built with Radix UI and styled with Tailwind utility classes for a polished look.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-backend&quot;&gt;2. Backend&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/index.ts&lt;/code&gt;&lt;/strong&gt;: Sets up Express.js server, registers API routes, and serves static assets via Vite.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/routes.ts&lt;/code&gt;&lt;/strong&gt;: Defines API endpoints like &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/profile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/links&lt;/code&gt;; returns static or stored user profile and links data.&lt;/p&gt;
+
+    &lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/api/profile&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;profileData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/api/links&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;linksData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/storage.ts&lt;/code&gt;&lt;/strong&gt;: (In-memory) storage for user data, providing CRUD operations for users.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-shared-schema&quot;&gt;3. Shared Schema&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shared/schema.ts&lt;/code&gt;&lt;/strong&gt;: TypeScript definitions for profile and link data.
+    &lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;links&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pgTable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Link&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$inferSelect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;how-users-interact-with-linkhub&quot;&gt;How Users Interact with LinkHub&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Landing Page&lt;/strong&gt;: Users visit the LinkHub page and see the owner’s profile (name, avatar, bio) along with a list of clickable cards for each link.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt;: Each card is styled, features an appropriate icon, and links out to social media, products, portfolios, or other destinations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sidebar &amp;amp; Navigation&lt;/strong&gt;: Advanced UI components for navigation and additional actions, providing a seamless user experience.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;API&lt;/strong&gt;: The backend APIs (&lt;code class=&quot;highlighter-rouge&quot;&gt;/api/profile&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/links&lt;/code&gt;) supply profile and link data, which the frontend fetches and displays.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;example-adding-a-link&quot;&gt;Example: Adding a Link&lt;/h2&gt;
+
+&lt;p&gt;To add a new link, you would update the links array in the backend or in the static data for development. Each link includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt;: Display name&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt;: Destination URL&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;icon&lt;/code&gt;: Icon identifier (e.g., “fa-twitter”)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;isPrimary&lt;/code&gt;: Marks the link as highlighted&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Tue, 04 Mar 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/linkhub/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/linkhub/</guid>
+        
+        
+        <category>project</category>
         
       </item>
     
@@ -48,16 +252,46 @@
       </item>
     
       <item>
-        <title>PSB Balqis</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/psb.png&quot; alt=&quot;PSB Balqis&quot; /&gt;&lt;/p&gt;
+        <title>HaniefUtama</title>
+        <description>&lt;h2 id=&quot;code&quot;&gt;Code:&lt;/h2&gt;
 
-&lt;p&gt;A school admission app built using React and Next.js. Backed by Supabase in the backend.&lt;/p&gt;
+&lt;p&gt;https://github.com/hanief/haniefutama&lt;/p&gt;
 
-&lt;p&gt;Demo: &lt;a href=&quot;https://psb.balqisjogja.com&quot;&gt;https://psb.balqisjogja.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;It is a public personal blog project. Designed primarily as a static site, it leverages modern web technologies and showcases a clean structure ideal for personal blogging.&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-stack&quot;&gt;Technology Stack&lt;/h2&gt;
+
+&lt;p&gt;The codebase mainly employs front-end web technologies, along with a touch of backend scripting:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;HTML:&lt;/strong&gt; The backbone of the repository, used to structure the blog’s pages and content.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CSS &amp;amp; SCSS:&lt;/strong&gt; For styling and layout, enabling responsive and visually appealing blog posts. SCSS (Sassy CSS) is a preprocessor that brings variables, nesting, and more advanced features to CSS, making styles easier to manage.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby:&lt;/strong&gt; Likely used for static site generation or scripting tasks (possibly Jekyll, a common blog generator for GitHub Pages, though not explicitly mentioned). Ruby scripts can help manage blog posts, automate publishing, or customize build processes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shell:&lt;/strong&gt; Minimal shell scripting, probably for deployment, build automation, or local development tasks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;features-and-workflow&quot;&gt;Features and Workflow&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Static Blog:&lt;/strong&gt; The project is designed as a static blog, which means all content is pre-rendered and served as-is, resulting in fast load times and minimal hosting requirements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Customization:&lt;/strong&gt; The use of SCSS allows for easy customization of themes and layouts, making the blog visually distinct and easy to manage.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Ruby and shell scripts likely automate repetitive tasks, such as generating new posts, building the site, or deploying updates.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open Source:&lt;/strong&gt; As a public repository, others can clone, fork, and learn from the project, making it a useful reference for budding web developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-use-this-approach&quot;&gt;Why Use This Approach?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simplicity and Speed:&lt;/strong&gt; Static blogs are fast, secure, and easy to host, especially on platforms like GitHub Pages.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Maintainability:&lt;/strong&gt; Separating structure (HTML), style (CSS/SCSS), and automation (Ruby/Shell) ensures the codebase remains clean and maintainable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Learning Opportunity:&lt;/strong&gt; Mixing multiple technologies in a personal project is an excellent way for developers to learn and showcase their skills.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2024/psb-balqis/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/psb-balqis/</guid>
+        <pubDate>Sat, 10 Feb 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2024/haniefutama/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/haniefutama/</guid>
         
         
         <category>project</category>
@@ -136,11 +370,11 @@
 &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Here is the slides from my talk:&lt;/p&gt;
+&lt;p&gt;Here is the recording of me delivering the talk:&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/mJu6HGvCuJuTlZ?hostedIn=slideshare&amp;amp;page=upload&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RsiNvvj0PZQ?si=FZVagYGJUgqQIgMO&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;tldr-only-use-react-server-component-if-you-need-performanceseo-optimisation-and-you-are-already-in-nextjs&quot;&gt;TL;DR, Only use React Server Component if you need performance/SEO optimisation and you are already in Next.js.&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;, Only use React Server Component if you need performance/SEO optimisation and you are already in Next.js.&lt;/p&gt;
 
 &lt;h1 id=&quot;history-of-web-technologies&quot;&gt;History of web technologies&lt;/h1&gt;
 
@@ -168,8 +402,6 @@
 
 &lt;p&gt;I feel the best explanation on RSC out there is from Josh Comeau in his &lt;a href=&quot;https://www.joshwcomeau.com/react/server-components/&quot;&gt;Making Sense of React Server Components&lt;/a&gt; post. I urge you to read it from there. It has cool illustration and really easy to understand break down.&lt;/p&gt;
 
-&lt;p&gt;Its so good, my own post will be heavily inspired from it and use some of his illustration.&lt;/p&gt;
-
 &lt;h1 id=&quot;js-rendering-methods&quot;&gt;JS rendering methods&lt;/h1&gt;
 
 &lt;p&gt;To be able to understand RSC, first we have to understand React rendering methods.&lt;/p&gt;
@@ -178,26 +410,17 @@
 
 &lt;p&gt;The OG React rendering method is of course Client Side rendering. You have to download all of JS files to be able to see the content.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-2.png&quot; alt=&quot;Client Side Rendering&quot; /&gt;
-Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-components/&quot;&gt;Josh W Comeau&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;This approach is simple and has been used for some time. But, this means the first paint and page interactive is quite far away from the first request. This has implication on SEO and performance. It has to wait for script download, shell render, API roundback, database query, and content render to be able to display real content on web page.&lt;/p&gt;
 
 &lt;p&gt;This approach is not suitable for content heavy apps such as e-commerce sites or blogs. But its still ok for non-public non-heavy-traffic app such as internal dashboard.&lt;/p&gt;
 
 &lt;h2 id=&quot;server-side-rendering&quot;&gt;Server Side Rendering&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-4.png&quot; alt=&quot;Server Side Rendering&quot; /&gt;
-Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-components/&quot;&gt;Josh W Comeau&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;To fix the SEO problem, React and framework such as Next.js added new method of rendering called Server Side Rendering. This method put the rendering of initial shell to the server, so when the initial request came it can respond with default/initial content to the browser.&lt;/p&gt;
 
 &lt;p&gt;Once the shell arrived at the browser, it will download the real content using a method called hydration. Hydration basically works like it is named. Imagine an empty bottle, hydration is filling the bottle with water from the tap. The container/shell already there and can be seen / interacted by user, but it needs to be filled for user to be able to drink.&lt;/p&gt;
 
 &lt;h2 id=&quot;server-component&quot;&gt;Server Component&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-5.png&quot; alt=&quot;Server Component&quot; /&gt;
-Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-components/&quot;&gt;Josh W Comeau&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;SSR is already helping with performance and SEO. But we can go further. Why should we receive initial shell on first response? Why do we not get the whole content? Especially if we have access to the underlying database in the server. We also still get a huge bundle everytime we download the JS script.&lt;/p&gt;
 
@@ -206,8 +429,6 @@ Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-com
 &lt;p&gt;Server Component basically enables React component to be rendered and interacting with server code via Node.js. This unlocked powerful capabilities such as direct DB access. We can also compartmentalize the code downloaded to browser since we don’t need JS to render the content. Hence the smaller bundle size. We only download what we need.&lt;/p&gt;
 
 &lt;h1 id=&quot;the-difference-between-server-component-and-client-component&quot;&gt;The difference between Server Component and Client Component&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-3.png&quot; alt=&quot;Server Side Rendering&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;What’s the difference between Server and Client Component? The first thing that you notice is the “use client” directive at the top of the Client Component. That’s because in the RSC paradigm, default component type is Server Component.&lt;/p&gt;
 
@@ -247,16 +468,6 @@ Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-com
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h1 id=&quot;useful-visualisation-for-client-boundary&quot;&gt;Useful visualisation for client boundary&lt;/h1&gt;
-
-&lt;p&gt;The most helpful way to think about separation of client and server component is if we use the concept of client boundary.&lt;/p&gt;
-
-&lt;p&gt;In this boundary, when we make a component became a client component, all of its children components became client component too.&lt;/p&gt;
-
-&lt;p&gt;Let’s look at the component tree below, here the App and Header is Server Components since its default. But the Article and all its children are client because we put directive “use client” on the Article component. This assignment created an imaginary client boundary for the Article component and its descendants.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-6.png&quot; alt=&quot;client boundary&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;nextjs-is-the-only-framework-that-offer-full-support-of-rsc&quot;&gt;Next.js is the only framework that offer full support of RSC&lt;/h1&gt;
 
@@ -376,161 +587,6 @@ Chart adapted from &lt;a href=&quot;https://www.joshwcomeau.com/react/server-com
         <pubDate>Sun, 29 Oct 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2023/react-server-component/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/react-server-component/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Itikaf</title>
-        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/CrQP-WcrEB2/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Bulan puasa ini istimewa karena saya harus “itikaf” di rumah sakit. Sakit di perut bagian bawah kanan yang didiagnosa sebagai appendicitis kronis, alias penyakit usus buntu. Jadinya si jabang usus mesti dikeluarkan.&lt;/p&gt;
-
-&lt;p&gt;Ini kali pertama saya menginap di rumah sakit sebagai pasien. Ini juga pengalaman perdana saya dioperasi waktu dewasa. Perasaan yang campur aduk. Saya jadi mencicipi apa yang dirasakan ibunya anak-anak saat caesarean, walaupun dalam skala yang lebih kecil.&lt;/p&gt;
-
-&lt;p&gt;Terima kasih pada dr. Suharto yang sudah melakukan operasi. Pasca op baru tau ternyata beliau adalah ayahanda dari dr. Dodot, tetangga kos di Karanggayam dulu. Dunia yang kecil.&lt;/p&gt;
-
-&lt;p&gt;Bulan puasa ini terpaksa saya libur beberapa hari sambil pemulihan. Posisi saya di pole position jumlah hari puasa di rumah akhirnya diambil alih oleh si sulung yang penuh sebulan. Mungkin memang saatnya harus pitstop sebentar sebelum lanjut tancap gas lagi.&lt;/p&gt;
-
-&lt;p&gt;Mohon doanya. 🙏&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Apr 2023 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2023/itikaf/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/itikaf/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Hard Headed Woman</title>
-        <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/CkNpQwcLlyv/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I’m looking for a hard headed woman&lt;/p&gt;
-
-&lt;p&gt;One who will take me for myself&lt;/p&gt;
-
-&lt;p&gt;And if I find my hard headed woman&lt;/p&gt;
-
-&lt;p&gt;I won’t need nobody else, no, no, no&lt;/p&gt;
-
-&lt;p&gt;Yusuf Islam, atau Cat Stevens sebelum ia memeluk Islam, adalah salah satu musisi favorit saya. Lagu-lagu seperti Where Do the Children Play dan Father and Son terkesan sederhana tapi memiliki makna dalam. Salah satu lagu Yusuf favorit saya adalah Hard Headed Woman, karena ia selalu mengingatkan kepada Mifta.&lt;/p&gt;
-
-&lt;p&gt;Mifta is a hard headed woman. Kami memiliki karakter yang berbeda 180 derajat. Saya pendiam, malas berkonflik, dan berfilosofi hidup mengalir seperti air. Sementara Mifta senang mengobrol, tegas berprinsip, dan memiliki cita-cita kuat.&lt;/p&gt;
-
-&lt;p&gt;Saat kami pertama kali berkenalan, syarat ia mau menikah dengan saya adalah kalau saya mau menemani dia sekolah S3, dimana pun itu. Bulan ini genap sepuluh tahun sejak pertemuan itu. Bulan ini pula akhirnya Mifta berhasil mempertahankan tesis doktoralnya di depan tim penguji University of Nottingham. Alhamdulillah.&lt;/p&gt;
-
-&lt;p&gt;Tesis ini lahir bukan tanpa kesulitan, bahkan sebaliknya. Mifta harus berjibaku belajar, meneliti, dan menulis sambil hamil dan melahirkan. Belum lagi kesulitan akademik seperti kekurangan data, drama kampus, dan pergantian supervisor. Di tengah-tengah seabrek aktivitasnya, ia juga masih berbaik hati memasak untuk keluarga.&lt;/p&gt;
-
-&lt;p&gt;Puncaknya adalah 2021-2022: &lt;em&gt;lockdown&lt;/em&gt; pandemi, beasiswa selesai kontraknya, dan visa yang sudah habis masa berlakunya membuat kami memutuskan untuk pulang ke tanah air padahal tesisnya belum selesai. Ia harus membawa serta tugasnya 12000 kilometer dari Nottingham ke Jogja. Teknologi membantu, tapi 6-7 jam perbedaan zona waktu tentu berpengaruh. Studi yang harusnya selesai dalam waktu 4 tahun, terpaksa harus diperpanjang hingga lebih dari 5 tahun.&lt;/p&gt;
-
-&lt;p&gt;Mifta is a hard headed woman. Berbagai macam kesulitan itu ia lakoni untuk mencapai cita-citanya. Pada masa-masa tertentu tentu ada saatnya ia merasa hampir putus asa, dan saya cuma bisa mendengarkan, menggenggam tangan dan memeluknya. Kemudian ia bangkit lagi, dan maju lagi.&lt;/p&gt;
-
-&lt;p&gt;Yusuf, I think I’ve found my own hard headed woman, her name is Mifta Pratiwi Rachman, Ph.D.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Oct 2022 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2022/hard-headed-woman/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/hard-headed-woman/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Prostudy</title>
-        <description>&lt;p&gt;A Mobile Decision Support System for Project Feasibility Study using Analytic Hierarchy Process. This app is for iOS platform, built using Objective-C.&lt;/p&gt;
-
-&lt;p&gt;This is the source code for my &lt;a href=&quot;http://etd.repository.ugm.ac.id/penelitian/detail/71789&quot;&gt;bachelor thesis&lt;/a&gt; at &lt;a href=&quot;https://ugm.ac.id/&quot;&gt;Universitas Gadjah Mada&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Apr 2022 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2022/prostudy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/prostudy/</guid>
-        
-        
-        <category>code</category>
-        
-      </item>
-    
-      <item>
-        <title>Clean Code</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/cleancode.jpg&quot; alt=&quot;Clean Code&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Taylor Otwell, perintis Laravel (sebuah &lt;em&gt;framework&lt;/em&gt; pemrograman web untuk PHP), memberi label bagi &lt;em&gt;framework&lt;/em&gt;-nya sebagai “&lt;em&gt;The PHP Framework for Web Artisans&lt;/em&gt;”. Ia memberikan penekanan pada kata &lt;em&gt;artisan&lt;/em&gt;, yang kurang-lebih berarti perajin. &lt;em&gt;Artisan&lt;/em&gt; / perajin adalah seorang yang memiliki keahlian untuk membuat sebuah karya. Seorang &lt;em&gt;artisan&lt;/em&gt; sangat memperhatikan proses dan metode pengerjaannya sehingga ia dapat menghasilkan sebuah karya yang dapat ia banggakan. Seorang &lt;em&gt;artisan&lt;/em&gt; bisa juga berarti seniman, dalam arti bahwa ia memiliki intuisi seni dan dapat menghasilkan produk yang indah.&lt;/p&gt;
-
-&lt;p&gt;Seorang &lt;em&gt;programmer&lt;/em&gt; sering juga disebut sebagai seorang &lt;em&gt;engineer&lt;/em&gt;. Seorang insinyur.&lt;/p&gt;
-
-&lt;p&gt;Insinyur sering diasosiasikan dengan pekerjaan yang bersifat kasar, kotor dan fisik. Namun, saya berpendapat seorang insinyur juga bisa menjadi seniman jika karya yang ia lahirkan datang dari perhatian yang dalam terhadap proses dan kualitasnya sehingga berbuah karya yang enak dipandang.&lt;/p&gt;
-
-&lt;p&gt;Menurut saya, seorang &lt;em&gt;software engineer&lt;/em&gt;  / insinyur perangkat lunak yang baik adalah mereka yang peduli terhadap kualitas kode yang mereka buat sehingga mereka ingin agar produk yang mereka bangun bisa mereka banggakan sebagai sebuah hasil karya yang bukan hanya berguna, tapi juga indah.&lt;/p&gt;
-
-&lt;p&gt;Dari perspektif rekayasa teknik, usia teknik rekayasa perangkat lunak relatif masih baru dibandingkan dengan bidang teknik lain seperti: teknik sipil atau teknik elektro. Sehingga disiplin bidang dan teknik pengembangan software nya juga masih cukup muda dan tidak sematang bidang yang lain.&lt;/p&gt;
-
-&lt;p&gt;Robert C. Martin menilai bahwa kode yang ditulis dengan buruk bisa berdampak besar terhadap sebuah organisasi / perusahaan. Ia masih ingat dengan sebuah perusahaan perangkat lunak di era akhir 80-an yang memiliki app yang sangat populer. Akan tetapi, proses rilis kodenya makin lama makin lama. &lt;em&gt;Bug&lt;/em&gt; dan masalah-masalah tidak diperbaiki dari waktu ke waktu. Waktu memuat app makin lama dan banyak terjadi &lt;em&gt;crash&lt;/em&gt;. Perusahaan itu kemudian ditutup tidak lama kemudian.&lt;/p&gt;
-
-&lt;p&gt;Beberapa tahun kemudian, Martin bertemu dengan pegawai perusahaan tersebut dan bertanya padanya apa yang terjadi. Jawaban orang tersebut mengkonfirmasi dugaan Martin bahwa mereka terburu-buru meluncurkan produknya meskipun kode yang mereka miliki sangat berantakan. Makin banyak fitur ditambahkan, makin berantakan kodenya. Kode yang berantakan itulah yang menghancurkan perusahaan.&lt;/p&gt;
-
-&lt;p&gt;Martin kemudian mencoba menjawab persoalan-persoalan tersebut dengan mengarang buku &lt;a href=&quot;https://www.oreilly.com/library/view/clean-code-a/9780136083238/&quot;&gt;&lt;em&gt;”Clean Code: A Handbook of Agile Software Craftmanship”&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Mengapa mempelajari &lt;em&gt;Clean Code&lt;/em&gt; penting? Karena menurut Martin sampai kapan pun kode akan ditulis &lt;em&gt;programmer&lt;/em&gt; sesuai dengan spesifikasi dari orang-orang bisnis.&lt;/p&gt;
-
-&lt;p&gt;Memang saat ini alat-alat yang membantu penulisan kode cukup berkembang pesat. Selain gerakan &lt;a href=&quot;https://en.wikipedia.org/wiki/No-code_development_platform&quot;&gt;&lt;em&gt;No Code&lt;/em&gt;&lt;/a&gt; yang sedang menguat, ada juga alat seperti &lt;a href=&quot;https://copilot.github.com&quot;&gt;Github Copilot&lt;/a&gt; yang membantu programmer menuliskan kode menggunakan AI&lt;/p&gt;
-
-&lt;p&gt;Apa itu &lt;em&gt;Clean Code&lt;/em&gt;? Martin mengusulkan sebuah prinsip bernama &lt;em&gt;Clean Code&lt;/em&gt;. Martin mencoba mendefinisikannya berdasarkan dari pendapat para programmer lainnya. Bjarne Stroustrup, penemu C++, menggunakan kata &lt;strong&gt;elegan&lt;/strong&gt;. Grady Booch, penulis &lt;em&gt;Object Oriented Analysis and Design with Applications&lt;/em&gt; menggunakan perspektif &lt;strong&gt;kemudahan dibaca&lt;/strong&gt;. Ward Cunningham, penemu Wiki, menekankan pada &lt;strong&gt;kesesuaian ekspektasi&lt;/strong&gt; dari pembaca kode.&lt;/p&gt;
-
-&lt;p&gt;Martin sendiri mendorong pembaca buku agar mempelajari &lt;em&gt;Clean Code&lt;/em&gt; dengan membaca secara utuh bukunya agar mendapatkan pemahaman yang baik akan konsepnya. Ia menyediakan ide, alat dan teknik untuk mencapai &lt;em&gt;Clean Code&lt;/em&gt; menurut pendapatnya. Namun, aplikasinya tentu saja tergantung pada pembaca.&lt;/p&gt;
-
-&lt;p&gt;Akhirnya, secara sederhana &lt;em&gt;Clean Code&lt;/em&gt; pada dasarnya seperti prinsip seorang pandu, &lt;em&gt;leave the campground cleaner than you found it&lt;/em&gt;, tinggalkan tempat berkemah anda lebih bersih daripada ketika anda datang. Perbaiki kode yang kita tulis sedikit demi sedikit sehingga orang yang datang setelah anda pergi bisa memahaminya lebih baik.&lt;/p&gt;
-
-&lt;h2 id=&quot;terjemahan-bahasa-inggris&quot;&gt;Terjemahan Bahasa Inggris&lt;/h2&gt;
-
-&lt;p&gt;Taylor Otwell, pioneer of Laravel (a web programming framework for PHP), labeled his framework as “The PHP Framework for Web Artisans”. He emphasizes the word artisan, which more or less means craftsman. An artisan/craftsman is someone who has the skills to create a work. An artisan really pays attention to the process and methods of work so that he can produce a work that he can be proud of. An artisan can also mean an artist, in the sense that he has artistic intuition and can produce beautiful products.&lt;/p&gt;
-
-&lt;p&gt;A programmer is often also referred to as an engineer.&lt;/p&gt;
-
-&lt;p&gt;Engineers are often associated with work that is rough, dirty and physical. However, I think an engineer can also be an artist if the work he produces comes from deep attention to the process and quality so that it results in work that is pleasing to the eye.&lt;/p&gt;
-
-&lt;p&gt;In my opinion, a good software engineer is someone who cares about the quality of the code they create so that they want the product they build to be proud of as a work that is not only useful, but also beautiful.&lt;/p&gt;
-
-&lt;p&gt;From an engineering perspective, the age of software engineering is still relatively new compared to other engineering fields such as: civil engineering or electrical engineering. So the field discipline and software development techniques are still quite young and not as mature as other fields.&lt;/p&gt;
-
-&lt;p&gt;Robert C. Martin believes that poorly written code can have a big impact on an organization/company. He still remembers a software company in the late 80s that had a very popular app. However, the code release process is getting longer and longer. Bugs and issues are not fixed over time. App loading times take longer and more crashes occur. The company closed shortly thereafter.&lt;/p&gt;
-
-&lt;p&gt;Several years later, Martin met an employee of the company and asked him what happened. The person’s answer confirmed Martin’s suspicion that they rushed the product even though the code they had was a mess. The more features added, the messier the code becomes. It’s messy code that destroys companies.&lt;/p&gt;
-
-&lt;p&gt;Martin then tried to answer these problems by writing the book &lt;a href=&quot;https://www.oreilly.com/library/view/clean-code-a/9780136083238/&quot;&gt;&lt;em&gt;”Clean Code: A Handbook of Agile Software Craftmanship”&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Why is learning Clean Code important? Because according to Martin, programmers will always write code according to the specifications of business people.&lt;/p&gt;
-
-&lt;p&gt;Indeed, currently the tools that help write code are developing quite rapidly. In addition to the &lt;a href=&quot;https://en.wikipedia.org/wiki/No-code_development_platform&quot;&gt;&lt;em&gt;No Code&lt;/em&gt;&lt;/a&gt; movement which is gaining strength, there are also tools like Github Copilot that help programmers write code using AI&lt;/p&gt;
-
-&lt;p&gt;What is Clean Code? Martin proposed a principle called Clean Code. Martin tried to define it based on the opinions of other programmers. Bjarne Stroustrup, the inventor of C++, used the word elegant. Grady Booch, author of Object Oriented Analysis and Design with Applications uses a readability perspective. Ward Cunningham, the inventor of Wiki, emphasized conforming to the expectations of code readers.&lt;/p&gt;
-
-&lt;p&gt;Martin himself encourages book readers to study Clean Code by reading the book in its entirety to gain a good understanding of the concept. He provides ideas, tools and techniques to achieve Clean Code in his opinion. However, the application of course depends on the reader.&lt;/p&gt;
-
-&lt;p&gt;Finally, in simple terms, the Clean Code is basically like a guide’s principle, leave the campground cleaner than you found it, leave your camping spot cleaner than when you came. Improve the code we write little by little so that people who come after you leave can understand it better.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Mar 2022 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2022/clean-code-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/clean-code-1/</guid>
-        
-        
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>Tiga puluh lima</title>
-        <description>&lt;p&gt;Tiga puluh lima tahun adalah waktu yang cukup panjang bagi seorang manusia. Setara dengan 1825 minggu, atau setara 12775 hari, atau setara 306600 jam, atau setara 18396000 menit atau setara 1103760000 detik. Tapi tetap saja rasanya tiga puluh lima tahun terasa sangat singkat.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Jun 2020 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2020/tiga-puluh-lima/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/tiga-puluh-lima/</guid>
         
         
         <category>essay</category>

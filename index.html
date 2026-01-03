@@ -3,19 +3,11 @@ layout: default
 title: Home
 ---
 
-{% assign essays = "" | split: ',' %}
-{% assign projects = "" | split: ',' %}
-{% assign codes = "" | split: ',' %}
-
-{% for post in site.posts %}
-  {% if post.category == "essay" %}
-    {% assign essays = essays | push: post %}
-  {% elsif post.category == "project" %}
-    {% assign projects = projects | push: post %}
-  {% elsif post.category == "code" %}
-    {% assign codes = codes | push: post %}
-  {% endif %}
-{% endfor %}
+{% assign essays = "" | split: ',' %} {% assign projects = "" | split: ',' %} {%
+assign codes = "" | split: ',' %} {% for post in site.posts %} {% if
+post.category == "essay" %} {% assign essays = essays | push: post %} {% elsif
+post.category == "project" %} {% assign projects = projects | push: post %} {%
+endif %} {% endfor %}
 
 <section class="post-list">
   <div class="container">
@@ -23,45 +15,43 @@ title: Home
       <h2 class="category-title">Essays</h2>
       <a href="/essays">View all ></a>
     </div>
-    {% for post in essays limit:10 %}
-      {% if post.category == "essay" %}
-      <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%d/%m/%y" }}</span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
-      </article>
-      {% endif %}
-    {% endfor %}
+    {% for post in essays limit:10 %} {% if post.category == "essay" %}
+    <article class="post-item">
+      <span class="post-meta date-label"
+        >{{ post.date | date: "%d/%m/%y" }}</span
+      >
+      <div class="article-title">
+        <a
+          class="post-link"
+          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
+          >{{ post.title }}</a
+        >
+      </div>
+    </article>
+    {% endif %} {% endfor %}
   </div>
 </section>
 <section class="post-list">
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Projects</h2>
-      {% if projects.length > 5 %}<a href="/projects">View all ></a>{% endif %}
+      {% if projects.length > 10 %}<a href="/projects">View all ></a>{% endif %}
     </div>
-    {% for post in projects limit:5 %}
-      {% if post.category == "project" %}
-      <article class="post-item">
-        <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/open-external.svg" /></a></span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block post-meta">{{ post.description }}</small></a></div>
-      </article>
-      {% endif %}
-    {% endfor %}
-  </div>
-</section>
-<section class="post-list">
-  <div class="container">
-    <div class="flex">
-      <h2 class="category-title">Codes</h2>
-      {% if codes.length > 5 %}<a href="/codes">View all ></a>{% endif %}
-    </div>
-    {% for post in codes limit:5 %}
-      {% if post.category == "code" %}
-      <article class="post-item">
-        <span class="post-meta date-label"><a href="{{ post.link }}" target="_blank"><img class="icon" src="/assets/icons/code.svg" /></a></span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }} - <small class="block post-meta">{{ post.description }}</small></a></div>
-      </article>
-      {% endif %}
-    {% endfor %}
+    {% for post in projects limit:10 %} {% if post.category == "project" %}
+    <article class="post-item">
+      <span class="post-meta date-label"
+        ><a href="{{ post.link }}" target="_blank"
+          ><img class="icon" src="/assets/icons/open-external.svg" /></a
+      ></span>
+      <div class="article-title">
+        <a
+          class="post-link"
+          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
+          >{{ post.title }} -
+          <small class="block post-meta">{{ post.description }}</small></a
+        >
+      </div>
+    </article>
+    {% endif %} {% endfor %}
   </div>
 </section>
