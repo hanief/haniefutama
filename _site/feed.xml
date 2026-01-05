@@ -5,8 +5,8 @@
     <description>essays and projects</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jan 2026 20:31:01 +0700</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2026 20:31:01 +0700</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 20:33:36 +0700</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 20:33:36 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -48,6 +48,21 @@
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2025/booraaq/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/booraaq/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Pagi Petang</title>
+        <description>&lt;p&gt;I made a Morning/Evening prayer app.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://pagipetang.id&quot;&gt;https://pagipetang.id&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/pagipetang/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/pagipetang/</guid>
         
         
         <category>project</category>
@@ -138,21 +153,6 @@
         <pubDate>Mon, 30 Jun 2025 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2025/spinner/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/spinner/</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Journai</title>
-        <description>&lt;p&gt;I made an AI-powered journalling app.&lt;/p&gt;
-
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/journai&quot;&gt;https://github.com/hanief/journai&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 May 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/journai/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/journai/</guid>
         
         
         <category>project</category>
