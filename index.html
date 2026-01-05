@@ -11,7 +11,7 @@ endif %} {% endfor %}
 
 <section class="post-list">
   <div class="container">
-    <a href="/essays"><h1>Essays</h1></a>
+    <a href="/essays"><h1 class="page-title">Essays</h1></a>
     {% for post in essays limit:10 %} {% if post.category == "essay" %}
     <article class="post-item">
       <span class="post-meta date-label"
@@ -33,7 +33,7 @@ endif %} {% endfor %}
 </section>
 <section class="post-list">
   <div class="container">
-    <a href="/projects"><h1>Projects</h1></a>
+    <a href="/projects"><h1 class="page-title">Projects</h1></a>
     {% for post in projects limit:10 %} {% if post.category == "project" %}
     <article class="post-item">
       <h5 class="article-title">
