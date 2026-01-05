@@ -3,10 +3,10 @@
   <channel>
     <title>Hanief Utama</title>
     <description>essays and projects</description>
-    <link>https://haniefutama.com/</link>
-    <atom:link href="https://haniefutama.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jan 2026 18:50:22 +0700</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 18:50:22 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 05 Jan 2026 14:40:01 +0700</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 14:40:01 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -16,8 +16,23 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://algoritama.com&quot;&gt;https://algoritama.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/algoritama/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/algoritama/</guid>
+        <link>http://localhost:4000/2025/algoritama/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/algoritama/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Algorisme</title>
+        <description>&lt;p&gt;I made a Youtube channel to share my journey on learning programming.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://youtube.com/@algorisme&quot;&gt;https://youtube.com/@algorisme&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/algorisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/algorisme/</guid>
         
         
         <category>project</category>
@@ -31,8 +46,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://booraaq.com&quot;&gt;https://booraaq.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/booraaq/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/booraaq/</guid>
+        <link>http://localhost:4000/2025/booraaq/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/booraaq/</guid>
         
         
         <category>project</category>
@@ -46,8 +61,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://quranicarabic.id&quot;&gt;https://quranicarabic.id&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Oct 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/quranicarabic/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/quranicarabic/</guid>
+        <link>http://localhost:4000/2025/quranicarabic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/quranicarabic/</guid>
         
         
         <category>project</category>
@@ -61,8 +76,8 @@
 &lt;p&gt;Instagram: &lt;a href=&quot;https://instagram.com/lingkarkecil&quot;&gt;https://instagram.com/lingkarkecil&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Sep 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/lingkarkecil/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/lingkarkecil/</guid>
+        <link>http://localhost:4000/2025/lingkarkecil/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/lingkarkecil/</guid>
         
         
         <category>project</category>
@@ -76,8 +91,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://mahirjavascript.net/&quot;&gt;https://mahirjavascript.net/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/mahirjavascript/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/mahirjavascript/</guid>
+        <link>http://localhost:4000/2025/mahirjavascript/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/mahirjavascript/</guid>
         
         
         <category>project</category>
@@ -85,147 +100,14 @@
       </item>
     
       <item>
-        <title>LinkHub</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code:&lt;/h2&gt;
+        <title>Arsipin</title>
+        <description>&lt;p&gt;I made a Safari extension to archive web page.&lt;/p&gt;
 
-&lt;p&gt;https://github.com/hanief/LinkHub&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;LinkHub&lt;/strong&gt; is an open-source project designed to help users create a personalized landing page for their most important links. Whether you’re a creator, professional, or community manager, LinkHub provides a simple, elegant way to share all your key destinations—social profiles, blogs, products, and more—in one place.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;what-is-linkhub&quot;&gt;What is LinkHub?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;LinkHub&lt;/strong&gt; is a “Simple links website”. Its main goal is to let users display a collection of links on a single, visually appealing page. The project is public and written primarily in TypeScript. The UI is modern, responsive, and customizable, making it perfect for sharing on social media or as a digital business card.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example use cases:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Creators sharing social media, YouTube, and blog links&lt;/li&gt;
-  &lt;li&gt;Businesses aggregating product, contact, and portfolio links&lt;/li&gt;
-  &lt;li&gt;Communities offering quick access to resources and channels&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;/h2&gt;
-
-&lt;p&gt;LinkHub is built using a modern web stack, including:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;TypeScript:&lt;/strong&gt; Used across the client, server, and shared schema files for static typing and reliability.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;React:&lt;/strong&gt; Powers the frontend interface and dynamic components.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Express.js:&lt;/strong&gt; Serves the backend API (&lt;code class=&quot;highlighter-rouge&quot;&gt;server/index.ts&lt;/code&gt;), handling requests and managing link/profile data.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Radix UI &amp;amp; Lucide React:&lt;/strong&gt; For accessible, customizable UI primitives (dialogs, menubars, icons).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vite:&lt;/strong&gt; Development and bundling tool for fast builds and hot reloading.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;React Icons:&lt;/strong&gt; Provides scalable social and web icons for links.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tailwind CSS (style classes):&lt;/strong&gt; Utility-first CSS for rapid UI development.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;code-structure-overview&quot;&gt;Code Structure Overview&lt;/h2&gt;
-
-&lt;p&gt;The repository is organized as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/&lt;/code&gt; – Frontend code (React, UI components, pages)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/&lt;/code&gt; – Backend/Express API and server logic&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shared/&lt;/code&gt; – Schema definitions shared between client and server&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;key-files--components&quot;&gt;Key Files &amp;amp; Components&lt;/h3&gt;
-
-&lt;h4 id=&quot;1-frontend&quot;&gt;1. Frontend&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/index.html&lt;/code&gt;&lt;/strong&gt;: Entry HTML file, loads fonts and scripts, sets up the root React mounting point.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/src/pages/home.tsx&lt;/code&gt;&lt;/strong&gt;: Main landing page. Loads profile info and an array of links—each with a title, URL, icon, and priority.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;client/src/components/ui/link-card.tsx&lt;/code&gt;&lt;/strong&gt;: Renders each link as a card with icon, title, and URL. Uses React Icons for social/media branding.&lt;/p&gt;
-
-    &lt;div class=&quot;language-tsx highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;LinkCard&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;isPrimary&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;LinkCardProps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getIconComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;UI Components&lt;/strong&gt;: Includes sidebar, pagination, dialog, menubar, navigation menu, and context menu, all built with Radix UI and styled with Tailwind utility classes for a polished look.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;2-backend&quot;&gt;2. Backend&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/index.ts&lt;/code&gt;&lt;/strong&gt;: Sets up Express.js server, registers API routes, and serves static assets via Vite.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/routes.ts&lt;/code&gt;&lt;/strong&gt;: Defines API endpoints like &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/profile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/links&lt;/code&gt;; returns static or stored user profile and links data.&lt;/p&gt;
-
-    &lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/api/profile&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;profileData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/api/links&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;linksData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;server/storage.ts&lt;/code&gt;&lt;/strong&gt;: (In-memory) storage for user data, providing CRUD operations for users.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;3-shared-schema&quot;&gt;3. Shared Schema&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shared/schema.ts&lt;/code&gt;&lt;/strong&gt;: TypeScript definitions for profile and link data.
-    &lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;links&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pgTable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Link&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$inferSelect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;how-users-interact-with-linkhub&quot;&gt;How Users Interact with LinkHub&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Landing Page&lt;/strong&gt;: Users visit the LinkHub page and see the owner’s profile (name, avatar, bio) along with a list of clickable cards for each link.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt;: Each card is styled, features an appropriate icon, and links out to social media, products, portfolios, or other destinations.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sidebar &amp;amp; Navigation&lt;/strong&gt;: Advanced UI components for navigation and additional actions, providing a seamless user experience.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;API&lt;/strong&gt;: The backend APIs (&lt;code class=&quot;highlighter-rouge&quot;&gt;/api/profile&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;/api/links&lt;/code&gt;) supply profile and link data, which the frontend fetches and displays.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;example-adding-a-link&quot;&gt;Example: Adding a Link&lt;/h2&gt;
-
-&lt;p&gt;To add a new link, you would update the links array in the backend or in the static data for development. Each link includes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt;: Display name&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt;: Destination URL&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;icon&lt;/code&gt;: Icon identifier (e.g., “fa-twitter”)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;isPrimary&lt;/code&gt;: Marks the link as highlighted&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/arsipin&quot;&gt;https://github.com/hanief/arsipin&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Mar 2025 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2025/linkhub/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2025/linkhub/</guid>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/arsipin/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/arsipin/</guid>
         
         
         <category>project</category>
@@ -233,18 +115,14 @@
       </item>
     
       <item>
-        <title>Task</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/task.png&quot; alt=&quot;task&quot; /&gt;&lt;/p&gt;
+        <title>Archivist</title>
+        <description>&lt;p&gt;I made a chrome extension to archive web page.&lt;/p&gt;
 
-&lt;p&gt;This is a simple todo app made using Nuxt and Vue.js.&lt;/p&gt;
-
-&lt;p&gt;Demo: &lt;a href=&quot;https://task.utama.app&quot;&gt;https://task.utama.app&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/tasks&quot;&gt;https://github.com/hanief/tasks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/archivist&quot;&gt;https://github.com/hanief/archivist&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Apr 2024 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2024/task/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2024/task/</guid>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/archivist/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/archivist/</guid>
         
         
         <category>project</category>
@@ -252,46 +130,14 @@
       </item>
     
       <item>
-        <title>HaniefUtama</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code:&lt;/h2&gt;
+        <title>Spinner</title>
+        <description>&lt;p&gt;I made a wheel of names style roulette.&lt;/p&gt;
 
-&lt;p&gt;https://github.com/hanief/haniefutama&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;It is a public personal blog project. Designed primarily as a static site, it leverages modern web technologies and showcases a clean structure ideal for personal blogging.&lt;/p&gt;
-
-&lt;h2 id=&quot;technology-stack&quot;&gt;Technology Stack&lt;/h2&gt;
-
-&lt;p&gt;The codebase mainly employs front-end web technologies, along with a touch of backend scripting:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;HTML:&lt;/strong&gt; The backbone of the repository, used to structure the blog’s pages and content.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;CSS &amp;amp; SCSS:&lt;/strong&gt; For styling and layout, enabling responsive and visually appealing blog posts. SCSS (Sassy CSS) is a preprocessor that brings variables, nesting, and more advanced features to CSS, making styles easier to manage.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby:&lt;/strong&gt; Likely used for static site generation or scripting tasks (possibly Jekyll, a common blog generator for GitHub Pages, though not explicitly mentioned). Ruby scripts can help manage blog posts, automate publishing, or customize build processes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shell:&lt;/strong&gt; Minimal shell scripting, probably for deployment, build automation, or local development tasks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;features-and-workflow&quot;&gt;Features and Workflow&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Static Blog:&lt;/strong&gt; The project is designed as a static blog, which means all content is pre-rendered and served as-is, resulting in fast load times and minimal hosting requirements.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Customization:&lt;/strong&gt; The use of SCSS allows for easy customization of themes and layouts, making the blog visually distinct and easy to manage.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Ruby and shell scripts likely automate repetitive tasks, such as generating new posts, building the site, or deploying updates.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open Source:&lt;/strong&gt; As a public repository, others can clone, fork, and learn from the project, making it a useful reference for budding web developers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-use-this-approach&quot;&gt;Why Use This Approach?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Simplicity and Speed:&lt;/strong&gt; Static blogs are fast, secure, and easy to host, especially on platforms like GitHub Pages.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Maintainability:&lt;/strong&gt; Separating structure (HTML), style (CSS/SCSS), and automation (Ruby/Shell) ensures the codebase remains clean and maintainable.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Learning Opportunity:&lt;/strong&gt; Mixing multiple technologies in a personal project is an excellent way for developers to learn and showcase their skills.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/spinner&quot;&gt;https://github.com/hanief/spinner&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Feb 2024 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2024/haniefutama/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2024/haniefutama/</guid>
+        <pubDate>Mon, 30 Jun 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/spinner/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/spinner/</guid>
         
         
         <category>project</category>
@@ -299,297 +145,17 @@
       </item>
     
       <item>
-        <title>Mengapa saya memilih Anies</title>
-        <description>&lt;p&gt;Empat belas Februari 2024, saya akan menitipkan suara saya pada &lt;a href=&quot;https://www.youtube.com/@aniesbaswedan&quot;&gt;Anies&lt;/a&gt;. Insya Allah.&lt;/p&gt;
+        <title>Journai</title>
+        <description>&lt;p&gt;I made an AI-powered journalling app.&lt;/p&gt;
 
-&lt;p&gt;Ada beberapa alasan mengapa saya memilih &lt;a href=&quot;https://twitter.com/aniesbaswedan&quot;&gt;Anies&lt;/a&gt;. Alasan pertama adalah reputasi dan rekam jejak yang baik.&lt;/p&gt;
-
-&lt;p&gt;Waktu saya masih kecil, Presiden Habibie adalah ikon orang pintar. Ibu saya sering berujar, “Nak, nanti kalo sudah besar kamu jadi orang pintar seperti Pak Habibie ya?”. Mau tidak mau, presiden adalah contoh. Foto Presiden terpajang di kelas sekolah di seantero Indonesia. Gerak-geriknya terekam tiap hari dan tersebar di berbagai media.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://tiktok.com/@aniesbaswedan&quot;&gt;Anies&lt;/a&gt; berasal dari &lt;a href=&quot;https://aniesbaswedan.com/kenali-anies/&quot;&gt;keluarga pejuang dan pendidik&lt;/a&gt;. Ia lahir di Kuningan, besar di Jogja, dan &lt;a href=&quot;https://id.wikipedia.org/wiki/Anies_Baswedan#Masa_muda&quot;&gt;sekolah tinggi hingga ke Amerika&lt;/a&gt;. Bakat kepemimpinannya sudah terlihat sejak masih belia. Ia pernah menjadi rektor universitas dalam usia muda. Ia merintis &lt;a href=&quot;https://id.wikipedia.org/wiki/Indonesia_Mengajar&quot;&gt;Indonesia Mengajar&lt;/a&gt;, mengirim lebih dari 1000 pemuda-pemudi mengajar di berbagai pelosok Indonesia. &lt;a href=&quot;https://instagram.com/aniesbaswedan&quot;&gt;Anies&lt;/a&gt; pro pemberantasan korupsi dan &lt;a href=&quot;https://news.detik.com/pemilu/d-7147244/anies-mau-kembalikan-orang-orang-berintegritas-ke-kpk-bukan-orang-lama&quot;&gt;KPK berintegritas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sebagai pejabat publik, rekam jejaknya terbukti. Saat ia menjadi &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/?filter=1#track-record&quot;&gt;menteri pendidikan&lt;/a&gt;, ia &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/hapus-masa-orientasi-siswa-dan-perploncoan/&quot;&gt;menghapus MOS dan perploncoan&lt;/a&gt;, &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/ujian-nasional-tidak-jadi-standar-kelulusan/&quot;&gt;Ujian Nasional tak lagi standar kelulusan&lt;/a&gt;. Sebagai &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/?filter=2#track-record&quot;&gt;Gubernur&lt;/a&gt;, ia merintis &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/jaklingko/&quot;&gt;Jaklingko&lt;/a&gt;, membangun &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/tebet-eco-park/&quot;&gt;taman-taman&lt;/a&gt; &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/taman-literasi-martha-christina-tiahahu/&quot;&gt;publik&lt;/a&gt;, membangun &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/jakarta-international-stadium/&quot;&gt;JIS&lt;/a&gt;, meluncurkan aplikasi &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/aplikasi-jakarta-kini-jaki/&quot;&gt;JAKI&lt;/a&gt;, membangun &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/memprioritaskan-pejalan-kaki-dan-peseped/&quot;&gt;trotoar dan jalur sepeda&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Saya punya dua anak usia sekolah. Mereka ikut menonton debat presiden di televisi. Anak saya yang besar bertanya, “Ayah, orang-orang itu siapa sih? Kenapa mereka tampil di TV?”. Jika Anies terpilih, saya bisa menjawab kepada mereka, “Nak, nanti kalau sudah besar kamu juga jadi pintar dan baik seperti presiden kita ya”.&lt;/p&gt;
-
-&lt;p&gt;Alasan kedua adalah Anies memanusiakan warga.&lt;/p&gt;
-
-&lt;p&gt;Anies mendudukkan kembali posisi rakyat sebagai pemberi mandat. &lt;a href=&quot;https://www.youtube.com/results?search_query=desak+anies&quot;&gt;Desak Anies&lt;/a&gt; adalah inovasi baru di pentas politik nusantara. Di forum ini Anies menjadi obyek, dengan warga sebagai subyeknya. Berbagai kalangan ramai-ramai datang tanpa bayaran. Masyarakat bisa berkeluh-kesah, protes, mengusulkan kebijakan dan Anies mendengarkan. Tanpa sekat. Ini adalah inisiatif positif dalam kampanye politik Indonesia yang seringkali hanya berisi rapat akbar yang hanya penuh dengan monolog, yel-yel bising dan joget penghibur. Anies menghargai warga sebagai manusia yang berdaya, bukan tong kosong yang dijejali suapan nina bobo.&lt;/p&gt;
-
-&lt;p&gt;Anies juga memiliki rasa keadilan. Saat membangun JIS, Anies tetap memperhatikan warga &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/kampung-akuarium-jakarta/&quot;&gt;Kampung Akuarium&lt;/a&gt;. Saat merintis Jaklingko, ia mengajak perusahaan angkot &lt;a href=&quot;https://www.youtube.com/watch?v=dmUMyBvhzjY&amp;amp;pp=ygUPYW5pZXMgamFrbGluZ2tv&quot;&gt;berdiskusi puluhan kali&lt;/a&gt;. Anies &lt;a href=&quot;https://aniesbaswedan.com/rekam-jejak/kenyamanan-beribadah-di-jakarta/&quot;&gt;mengeluarkan puluhan izin untuk pembangunan gereja&lt;/a&gt;. Anies mendengarkan dan mewujudkan &lt;a href=&quot;https://m.beritajakarta.id/read/77048/hadirkan-keadilan-sosial-di-jakarta-anies-pimpin-peletakan-batu-pertama-rumah-ibadah-hindu-tamil&quot;&gt;aspirasi warga Hindu Tamil yang belum memiliki tempat ibadah&lt;/a&gt;. Anies merangkul seluruh warga dari berbagai spektrum dan &lt;a href=&quot;https://www.cnnindonesia.com/nasional/20230927213438-617-1004627/anies-dan-cak-imin-bertemu-rizieq-shihab-di-petamburan&quot;&gt;warna ideologi&lt;/a&gt;. Slogan &lt;a href=&quot;https://www.instagram.com/plusjakarta/&quot;&gt;Jakarta&lt;/a&gt; di masa kepemimpinannya adalah &lt;a href=&quot;https://www.youtube.com/watch?v=VwtNP9UAgIU&quot;&gt;Kota Kolaborasi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jika saya mengkritik Anies, saya tidak takut akan terancam ketenangan, harta, atau jiwa saya. Kalau ada demonstrasi, saya menduga Anies akan berani &lt;a href=&quot;https://www.youtube.com/watch?v=voLyl7s6DOs&quot;&gt;turun langsung&lt;/a&gt; untuk menghadapi dan &lt;a href=&quot;https://www.youtube.com/watch?v=blzl7dDC0oI&quot;&gt;berbicara&lt;/a&gt; kepada demonstran bertemu muka. Lagipula, dialah yang dulu sering berdemo sewaktu masih menjadi &lt;a href=&quot;https://kbanews.com/resonansi/kisah-anies-pimpin-demo-mahasiswa-ugm-menentang-sdsb/&quot;&gt;ketua senat mahasiswa&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Anies mau menandatangani &lt;a href=&quot;https://news.detik.com/pemilu/d-7166933/anies-teken-kontrak-politik-bersama-jejaring-rakyat-miskin-ini-isinya&quot;&gt;kontrak politik&lt;/a&gt; dengan kelompok masyarakat dan organisasi. Anies tidak takut mengadopsi kebijakan yang &lt;a href=&quot;https://www.youtube.com/watch?v=ZCAgiqFx-Bk&quot;&gt;datang dari bawah&lt;/a&gt;. Anies masih punya kerendahan hati untuk &lt;a href=&quot;https://www.youtube.com/watch?v=P5NFeDGMmRI&quot;&gt;mengakui&lt;/a&gt; bahwa dia tidak tahu sesuatu.&lt;/p&gt;
-
-&lt;p&gt;Salah satu momen yang cukup berkesan dari perjalanan kampanye Anies adalah ketika ada &lt;a href=&quot;https://www.youtube.com/watch?v=Hd8hn5p831A&quot;&gt;warga Kampung Bayam datang ke forum kampanye&lt;/a&gt;. Mereka datang lalu memeluk, menangis dan mengeluh kepada Anies bahwa mereka tidak boleh masuk ke rumah susun yang sudah dibangun untuk mereka. Tangisan, pelukan, dan keluhan itu adalah tanda kepercayaan.&lt;/p&gt;
-
-&lt;p&gt;Alasan selanjutnya saya memilih Anies adalah wawasannya luas, kebijakannya ilmiah, dan pikirannya mandiri.&lt;/p&gt;
-
-&lt;p&gt;Sebelum masuk dunia politik, ia adalah akademisi dan peneliti. &lt;a href=&quot;https://www.instagram.com/p/CrlReyeMNGC/&quot;&gt;Bacaannya&lt;/a&gt; luas. Cara berpikirnya runtut. Ia bisa menuangkan ide-ide itu ke dalam &lt;a href=&quot;https://blog.aniesbaswedan.com/tulisan/&quot;&gt;tulisan bernas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Anies juga berani bertindak atas pikirannya. Sebagai Gubernur, ia &lt;a href=&quot;https://metro.tempo.co/read/1639954/5-fakta-pulau-reklamasi-di-era-anies-baswedan&quot;&gt;mencabut izin reklamasi&lt;/a&gt;, walaupun kemudian dibatalkan pengadilan. Ketika COVID-19 melanda Indonesia, &lt;a href=&quot;https://www.cnbcindonesia.com/news/20211111155558-4-290819/luhut-puji-anies-baswedan-sukses-tangani-covid-19-di-jakarta&quot;&gt;Anies&lt;/a&gt; melandaskan &lt;a href=&quot;https://fokus.tempo.co/read/1322190/langkah-anies-baswedan-tangani-wabah-virus-corona&quot;&gt;kebijakannya&lt;/a&gt; dengan dasar ilmiah.&lt;/p&gt;
-
-&lt;p&gt;Saya lebih sering setuju dengan pikiran-pikiran Anies. Anies ingin menjadikan pemerintah sebagai &lt;a href=&quot;https://www.youtube.com/watch?v=dfY1Uv-3Ml4&quot;&gt;regulator&lt;/a&gt;, bukan pelaku bisnis. Anies ingin melakukan pemerataan pembangunan di &lt;a href=&quot;https://www.youtube.com/watch?v=8JRnAbaFYtE&quot;&gt;40 kota&lt;/a&gt; seluruh Indonesia. Anies memahami bahwa &lt;a href=&quot;https://www.youtube.com/watch?v=Mtf3dtmZSco&amp;amp;pp=ygUJYW5pZXMgdG9s&quot;&gt;tol&lt;/a&gt; bukan solusi utama transportasi. Anies &lt;a href=&quot;https://www.youtube.com/watch?v=tZM-qMiaNg4&amp;amp;t=193s&amp;amp;pp=ygUPYW5pZXMgamFrbGluZ2tv&quot;&gt;pro transportasi publik untuk semua kalangan&lt;/a&gt;. Anies mengkritik pembangunan &lt;a href=&quot;https://www.youtube.com/watch?v=he8WY0J50Lw&amp;amp;pp=ygUJYW5pZXMgaWtu&quot;&gt;IKN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ketika pun berbeda pendapat, warga bisa &lt;a href=&quot;https://www.youtube.com/results?search_query=desak+anies&quot;&gt;mendebat&lt;/a&gt; kebijakan Anies dengan argumen yang baik, bukan dengan takhayul, atau adu kuat kuasa.&lt;/p&gt;
-
-&lt;p&gt;Alasan terakhir adalah Anies bisa menginspirasi warga.&lt;/p&gt;
-
-&lt;p&gt;Kemampuan &lt;a href=&quot;https://www.youtube.com/watch?v=kiaKPHMABuc&amp;amp;pp=ygUMYW5pZXMgcGlkYXRv&quot;&gt;komunikasi&lt;/a&gt; dan persuasi Anies di atas rata-rata. Ia bisa &lt;a href=&quot;https://www.youtube.com/watch?v=w2trA2XY8hM&amp;amp;pp=ygUMYW5pZXMgcGlkYXRv&quot;&gt;pidato&lt;/a&gt; di depan publik dengan atau tanpa teks. Ia bisa &lt;a href=&quot;https://twitter.com/imanlagi/status/1754130053146046541&quot;&gt;menulis&lt;/a&gt; pidatonya sendiri. Kata-katanya &lt;a href=&quot;https://www.youtube.com/watch?v=nDrOnbDRMME&amp;amp;pp=ygUMYW5pZXMgcGlkYXRv&quot;&gt;dipilih&lt;/a&gt; dengan cermat. Gesturnya sengaja dibuat &lt;a href=&quot;https://www.youtube.com/watch?v=vrlfHYnCv0o&amp;amp;pp=ygUMYW5pZXMgZ2VzdHVy&quot;&gt;bermakna&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Anies menarik warga menjadi &lt;a href=&quot;https://twitter.com/aniesbubble&quot;&gt;relawan&lt;/a&gt;. Warga datang sukarela ke acara kampanye. Warga membuat &lt;a href=&quot;https://twitter.com/olpproject&quot;&gt;stiker&lt;/a&gt;, poster, bahkan &lt;a href=&quot;https://haveaniesday.com&quot;&gt;website&lt;/a&gt; tanpa diminta. Warga &lt;a href=&quot;https://www.youtube.com/watch?v=LmdG_GeOvuw&quot;&gt;bersepeda&lt;/a&gt; ratusan kilometer untuk menghadiri kampanyenya di Jakarta.&lt;/p&gt;
-
-&lt;p&gt;Ia bisa &lt;a href=&quot;https://www.youtube.com/watch?v=NEnOKuOW-To&quot;&gt;berdiplomasi&lt;/a&gt; langsung kepada negara sahabat. Ia memiliki &lt;a href=&quot;https://www.youtube.com/watch?v=NJ_bFTSSP6E&quot;&gt;jejaring luas&lt;/a&gt; di &lt;a href=&quot;https://www.youtube.com/watch?v=GTyAbzrw9XM&quot;&gt;manca negara&lt;/a&gt;. Ia dapat menjawab sendiri &lt;a href=&quot;https://www.youtube.com/watch?v=9vtGruN4wvY&quot;&gt;pertanyaan&lt;/a&gt; orang yang ingin tahu isi kepalanya. Ia bahkan bisa meyakinkan organisasi dunia untuk &lt;a href=&quot;https://www.youtube.com/watch?v=7nLXG1H0OAo&quot;&gt;mengadopsi&lt;/a&gt; sarannya.&lt;/p&gt;
-
-&lt;p&gt;Indonesia adalah negara besar dengan banyak kepala. Jalan untuk menyatukannya hanya ada dua: kata atau senjata. Saya tahu saya akan pilih yang mana.&lt;/p&gt;
-
-&lt;p&gt;Anies tentu punya kelemahan, ada banyak kritik baik yang &lt;a href=&quot;https://www.bijakmemilih.id/profil-kandidat/anies-baswedan&quot;&gt;valid&lt;/a&gt; maupun yang berupa &lt;a href=&quot;https://fitnahlagi.com&quot;&gt;fitnah&lt;/a&gt;. Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan &lt;a href=&quot;https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya&quot;&gt;orang kaya&lt;/a&gt;, bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang &lt;a href=&quot;https://id.wikipedia.org/wiki/Abdurrahman_Baswedan&quot;&gt;pejuang kemerdekaan&lt;/a&gt;, tapi ia tak punya jejaring keluarga ningrat politik. Anies juga tidak pandai &lt;a href=&quot;https://twitter.com/Yurissa_Samosir/status/1755046219507024352&quot;&gt;bernyanyi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Alasan-alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi.&lt;/p&gt;
-
-&lt;p&gt;Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari bawah. Anies pernah menjadi menteri kabinet Presiden Jokowi. Anies juga berhasil melanjutkan tugas Presiden Jokowi sebagai gubernur Jakarta. Mereka memiliki sejarah yang berkelindan.&lt;/p&gt;
-
-&lt;p&gt;Anies tentu bukan Presiden Jokowi. Seringkali ide mereka berbeda: tentang pendidikan, ibukota, dan tata kelola negara. Saya senang ada yang berani mengatakan tidak kepada Presiden.&lt;/p&gt;
-
-&lt;p&gt;Presiden Joko Widodo telah memimpin stabilitas dan membangun infrastruktur Indonesia. Kini saatnya Anies Baswedan untuk melanjutkannya ke arah yang lebih baik.&lt;/p&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/journai&quot;&gt;https://github.com/hanief/journai&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 07 Feb 2024 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2024/mengapa-anies/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2024/mengapa-anies/</guid>
+        <pubDate>Fri, 30 May 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2025/journai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/journai/</guid>
         
         
-        <category>essay</category>
-        
-      </item>
-    
-      <item>
-        <title>React Server Component in Next.js</title>
-        <description>&lt;p&gt;This is written form of my talk in a JogjaJS forum, on 28 October 2023.&lt;/p&gt;
-
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;14&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/Cy9oCyhS3eL/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Hanief Utama (@haniefutama)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Here is the recording of me delivering the talk:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RsiNvvj0PZQ?si=FZVagYGJUgqQIgMO&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;, Only use React Server Component if you need performance/SEO optimisation and you are already in Next.js.&lt;/p&gt;
-
-&lt;h1 id=&quot;history-of-web-technologies&quot;&gt;History of web technologies&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/First_Web_Server.jpg&quot; alt=&quot;Image of first web server&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Web has been here for more than 30 years. When &lt;a href=&quot;https://en.wikipedia.org/wiki/Tim_Berners-Lee&quot;&gt;Sir Tim Berners-Lee&lt;/a&gt; proposed a system for CERN researchers to use and share documents, he not only built the &lt;a href=&quot;https://en.wikipedia.org/wiki/HTML&quot;&gt;specification&lt;/a&gt;, but also the browser and server software for demo purposes. Thus born the first web server.&lt;/p&gt;
-
-&lt;p&gt;2 years later, &lt;a href=&quot;https://en.wikipedia.org/wiki/PHP&quot;&gt;PHP&lt;/a&gt; was born from the hand of Rasmus Lerdorf so we can create dynamic response for web request. Only 6 months after that, Brendan Eich invented &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript&lt;/a&gt; as a way to manipulate the web page after they are loaded on the browser. Thus born dynamic web application that enables giant modern software and services like google and facebook.&lt;/p&gt;
-
-&lt;p&gt;Javascript is a little bit younger than PHP. It has been historically used in a different place. But, since V8 JS engine and Node.js, JavaScript has reached even wider use case. Not only it has been used in browser, but now it can be used in server environment too, like PHP.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/React_(JavaScript_library)&quot;&gt;React.js&lt;/a&gt;, is JavaScript library built inside Facebook/Meta. It is replacing jQuery as arguably the &lt;a href=&quot;https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190&quot;&gt;world’s number 1 JS library&lt;/a&gt; for frontend development. It has changed a lot since its conception. It has also spawned many other libraries and frameworks supporting its ecosystem.&lt;/p&gt;
-
-&lt;p&gt;One of the most recent and popular framework for React.js is Next.js. It aims to take React to the next level by providing technologies and optimisation so it can be used for production level app.&lt;/p&gt;
-
-&lt;p&gt;The most recent technology developed for React and supported by Next.js is a feature called React Server Component (RSC). It has created a lot of chatter in the web dev sphere because of its funny syntax and supposedly its transformation into PHP. The OG server scripting language.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-1.png&quot; alt=&quot;React transformation into PHP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But what is React Server Component?&lt;/p&gt;
-
-&lt;p&gt;Ironically, eventhough its actually a React feature, there’s &lt;a href=&quot;https://legacy.reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html&quot;&gt;not&lt;/a&gt; &lt;a href=&quot;https://react.dev/reference/react/use-server&quot;&gt;much&lt;/a&gt; documentation explaining it in the &lt;a href=&quot;https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components&quot;&gt;React docs&lt;/a&gt;. Next.js has better &lt;a href=&quot;https://nextjs.org/docs/app/building-your-application/rendering&quot;&gt;documentation&lt;/a&gt; about it.&lt;/p&gt;
-
-&lt;p&gt;So I am now trying to make sense of it, and put it in a blog post as my own notes and hopefully can be useful for any FE dev out there.&lt;/p&gt;
-
-&lt;p&gt;I feel the best explanation on RSC out there is from Josh Comeau in his &lt;a href=&quot;https://www.joshwcomeau.com/react/server-components/&quot;&gt;Making Sense of React Server Components&lt;/a&gt; post. I urge you to read it from there. It has cool illustration and really easy to understand break down.&lt;/p&gt;
-
-&lt;h1 id=&quot;js-rendering-methods&quot;&gt;JS rendering methods&lt;/h1&gt;
-
-&lt;p&gt;To be able to understand RSC, first we have to understand React rendering methods.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-client-side-rendering&quot;&gt;What is Client Side Rendering&lt;/h2&gt;
-
-&lt;p&gt;The OG React rendering method is of course Client Side rendering. You have to download all of JS files to be able to see the content.&lt;/p&gt;
-
-&lt;p&gt;This approach is simple and has been used for some time. But, this means the first paint and page interactive is quite far away from the first request. This has implication on SEO and performance. It has to wait for script download, shell render, API roundback, database query, and content render to be able to display real content on web page.&lt;/p&gt;
-
-&lt;p&gt;This approach is not suitable for content heavy apps such as e-commerce sites or blogs. But its still ok for non-public non-heavy-traffic app such as internal dashboard.&lt;/p&gt;
-
-&lt;h2 id=&quot;server-side-rendering&quot;&gt;Server Side Rendering&lt;/h2&gt;
-
-&lt;p&gt;To fix the SEO problem, React and framework such as Next.js added new method of rendering called Server Side Rendering. This method put the rendering of initial shell to the server, so when the initial request came it can respond with default/initial content to the browser.&lt;/p&gt;
-
-&lt;p&gt;Once the shell arrived at the browser, it will download the real content using a method called hydration. Hydration basically works like it is named. Imagine an empty bottle, hydration is filling the bottle with water from the tap. The container/shell already there and can be seen / interacted by user, but it needs to be filled for user to be able to drink.&lt;/p&gt;
-
-&lt;h2 id=&quot;server-component&quot;&gt;Server Component&lt;/h2&gt;
-
-&lt;p&gt;SSR is already helping with performance and SEO. But we can go further. Why should we receive initial shell on first response? Why do we not get the whole content? Especially if we have access to the underlying database in the server. We also still get a huge bundle everytime we download the JS script.&lt;/p&gt;
-
-&lt;p&gt;If you thought about this, then Server Component is for you.&lt;/p&gt;
-
-&lt;p&gt;Server Component basically enables React component to be rendered and interacting with server code via Node.js. This unlocked powerful capabilities such as direct DB access. We can also compartmentalize the code downloaded to browser since we don’t need JS to render the content. Hence the smaller bundle size. We only download what we need.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-difference-between-server-component-and-client-component&quot;&gt;The difference between Server Component and Client Component&lt;/h1&gt;
-
-&lt;p&gt;What’s the difference between Server and Client Component? The first thing that you notice is the “use client” directive at the top of the Client Component. That’s because in the RSC paradigm, default component type is Server Component.&lt;/p&gt;
-
-&lt;p&gt;Only when we need the component to be client component, we explicitly changed it to client.&lt;/p&gt;
-
-&lt;p&gt;The other thing that we notice is we can directly connect to the DB from the component. 🤯 That is crazy! It feels that it should be illegal.&lt;/p&gt;
-
-&lt;p&gt;Here are the summary of the differences:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Server Component&lt;/th&gt;
-      &lt;th&gt;Client Component&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Render only on server&lt;/td&gt;
-      &lt;td&gt;Render on server and client&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;New kind of component&lt;/td&gt;
-      &lt;td&gt;The component that we already know&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Default component&lt;/td&gt;
-      &lt;td&gt;“use client”&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;No state&lt;/td&gt;
-      &lt;td&gt;Can use state&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Can import Client Component&lt;/td&gt;
-      &lt;td&gt;Can &lt;strong&gt;ONLY&lt;/strong&gt; import Client Component&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;nextjs-is-the-only-framework-that-offer-full-support-of-rsc&quot;&gt;Next.js is the only framework that offer full support of RSC&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rsc-7.png&quot; alt=&quot;RSC Meme&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Strangely, even though RSC is an official React feature, since it has to have server implementation, they need to collaborate with framework teams that can support it. As of October 2023, the only framework that support it is Next.js. If you use other framework like Remix, well though luck. RSC is not for you yet.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-to-use-server-components-in-nextjs&quot;&gt;How to use Server Components in Next.js?&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use Next.js version 13.4+&lt;/p&gt;
-
-    &lt;p&gt;You need to be on the latest version of Next.js. The RSC support doesn’t ship before version 13.4.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use App Router&lt;/p&gt;
-
-    &lt;p&gt;You need to use the App router paradigm. You need to migrate the Pages router to App router.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Server Components is default.&lt;/p&gt;
-
-    &lt;p&gt;By default all components is Server Components. If you want to make it Client Components you need to add “use client” directive explicitly.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;pros-and-cons-of-using-rsc&quot;&gt;Pros and Cons of using RSC&lt;/h1&gt;
-
-&lt;p&gt;Before you decide if you want to use RSC, these are some of the pros and cons of RSC:&lt;/p&gt;
-
-&lt;h3 id=&quot;pros&quot;&gt;Pros&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Smaller bundle size&lt;/li&gt;
-  &lt;li&gt;Faster rendering&lt;/li&gt;
-  &lt;li&gt;Server is controllable vs different kind of browser&lt;/li&gt;
-  &lt;li&gt;Hydrate only what is needed&lt;/li&gt;
-  &lt;li&gt;Keep sensitive data on the server&lt;/li&gt;
-  &lt;li&gt;Caching&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cons&quot;&gt;Cons&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;No CSS-in-JS&lt;/li&gt;
-  &lt;li&gt;React Context doesn’t work&lt;/li&gt;
-  &lt;li&gt;More things to think about&lt;/li&gt;
-  &lt;li&gt;More work on server&lt;/li&gt;
-  &lt;li&gt;Need to control which part will hydrate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;should-i-use-rsc&quot;&gt;Should I use RSC?&lt;/h1&gt;
-
-&lt;p&gt;The big question is, should I use it? This table will probably help your decision making:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Yes&lt;/th&gt;
-      &lt;th&gt;No&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;You are already deeply invested in React + Next.js&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;You have control of the server&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Performance is very important to you&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Your bundle size is too big&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Your life is complex enough already&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Adding React Server Components will only make your app more complex, since you have to take care the server logic as well. I recommend only use it when you have to.&lt;/p&gt;
-
-&lt;h1 id=&quot;adoption-strategy&quot;&gt;Adoption Strategy&lt;/h1&gt;
-
-&lt;p&gt;So, with all the asterisks and headache listed above, you still decided that you want to adopt RSC. Then I recommend that you use this strategy:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add the “use client” directive to the root of your app.&lt;/p&gt;
-
-    &lt;p&gt;This way all your application becomes client component by default. This will prevent some headache with the mix between server and client components along the component tree.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Move the directive as low as possible in the rendering tree.&lt;/p&gt;
-
-    &lt;p&gt;When you are ready, try move the “use client” directive one level at a time. If there’s no broken parts, continue move down. When you find a problem, try rearrange your component to separate the interactive parts. When you can’t move it further down, you found your final directive position.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Adopt advanced pattern when performance issues arise.&lt;/p&gt;
-
-    &lt;p&gt;Only use advanced tricks when the default/standard way is not enough anymore to handle your needs. Don’t do premature optimization.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;If you need more performance from your app, or you need to have better SEO, React Server Components is for you.&lt;/p&gt;
-
-&lt;p&gt;Also, you need to be already in Next.js environment, since the only frawework supporting this feature is them.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 29 Oct 2023 00:00:00 +0700</pubDate>
-        <link>https://haniefutama.com/2023/react-server-component/</link>
-        <guid isPermaLink="true">https://haniefutama.com/2023/react-server-component/</guid>
-        
-        
-        <category>essay</category>
+        <category>project</category>
         
       </item>
     

@@ -3,7 +3,7 @@ layout: post
 title: "Lingkar Kecil"
 #date: 2020-05-15 14:00:00
 lang: en
-description: "A religion study group"
+description: "A study group"
 link: https://instagram.com/lingkarkecil
 comments: false
 keywords: "islamic, study group"

@@ -13,7 +13,7 @@ endif %} {% endfor %}
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Essays</h2>
-      <a href="/essays">View all ></a>
+      <a href="/essays">See all ></a>
     </div>
     {% for post in essays limit:10 %} {% if post.category == "essay" %}
     <article class="post-item">
@@ -35,22 +35,16 @@ endif %} {% endfor %}
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Projects</h2>
-      {% if projects.length > 10 %}<a href="/projects">View all ></a>{% endif %}
+      {% if projects.length > 10 %}<a href="/projects">See all ></a>{% endif %}
     </div>
     {% for post in projects limit:10 %} {% if post.category == "project" %}
     <article class="post-item">
-      <span class="post-meta date-label"
-        ><a href="{{ post.link }}" target="_blank"
-          ><img class="icon" src="/assets/icons/open-external.svg" /></a
-      ></span>
       <div class="article-title">
-        <a
-          class="post-link"
-          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
-          >{{ post.title }} -
-          <small class="block post-meta">{{ post.description }}</small></a
-        >
+        <a class="post-link" target="_blank" href="{{ post.link }}"
+          >{{ post.title }}
+        </a>
       </div>
+      <span class="post-meta">{{ post.description }}</span>
     </article>
     {% endif %} {% endfor %}
   </div>

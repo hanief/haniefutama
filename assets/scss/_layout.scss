@@ -56,7 +56,7 @@ hr {
 
 .link {
   color: $blue-color;
-  padding-bottom: .05em;
+  padding-bottom: 0.05em;
   border-bottom: 2px solid transparent;
 
   @include transition(border 300ms linear);
@@ -77,8 +77,8 @@ hr {
 .intro {
   .author-name {
     display: inline-block;
-    padding: 0 .2em;
-    background: lighten($light-gray-color, 15%)
+    padding: 0 0.2em;
+    background: lighten($light-gray-color, 15%);
   }
 
   a {
@@ -104,8 +104,8 @@ hr {
 }
 
 .flex {
-  display: flex; 
-  align-items: center; 
+  display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
@@ -123,7 +123,7 @@ hr {
 
   li {
     display: inline-block;
-    padding: 0 .6em;
+    padding: 0 0.6em;
   }
 
   a {
@@ -132,27 +132,21 @@ hr {
 }
 
 .post-item {
-  margin-bottom: 0.2em;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid lighten($light-gray-color, 10%);
 
   a {
     color: $action-color;
   }
 
   .article-title {
-    display: inline-block;
-    width: 85%;
-    //border-bottom: 1px dashed lighten($light-gray-color, 10%);
+    display: inline;
+    margin-right: auto;
   }
-
-  .date-label {
-    //border: 1px solid lighten($light-gray-color, 10%);
-    padding: 0 0.2em;
-    margin-left: 1em;
-    margin-top: 2px;
-    @extend .pull-right;
-  }
-
 }
 
 .post-meta {
@@ -181,16 +175,20 @@ hr {
 }
 
 .pagination {
-  li, a, span {
+  li,
+  a,
+  span {
     display: inline-block;
   }
 
-  a, span {
+  a,
+  span {
     font-size: rem(12);
-    padding: .5em;
+    padding: 0.5em;
   }
 
-  .prev, .next {
+  .prev,
+  .next {
     @extend .link;
   }
 }
@@ -237,20 +235,20 @@ hr {
 }
 
 .video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
 
   iframe,
   object,
   embed {
-    position:absolute;
-  	top:0;
-  	left:0;
-  	width:100%;
-  	height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 
@@ -262,22 +260,23 @@ hr {
 
 // This applies from 0px to 600px
 @media (max-width: 600px) {
-  .date-label {
-    float: left !important;
-    border: 0 !important;
-    margin-left: -2px !important;
-    margin-top: 2px;
-    margin-right: 1em;
+  .post-item {
+    border-bottom: 1px solid lighten($light-gray-color, 10%);
+    display: block;
   }
 
-  .post-item {
-    border: 1px solid lighten($light-gray-color, 10%);
-    padding: 0 0.5em;
-    background: lighten($light-gray-color, 15%);
+  .date-label {
+    float: left !important;
+    width: 100%;
+    border: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
   .article-title {
+    display: block !important;
     border-bottom: none !important;
+    width: 100% !important;
   }
 
   .post-link {
