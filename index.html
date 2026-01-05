@@ -35,7 +35,7 @@ endif %} {% endfor %}
   <div class="container">
     <div class="flex">
       <h2 class="category-title">Projects</h2>
-      {% if projects.length > 10 %}<a href="/projects">See all ></a>{% endif %}
+      <a href="/projects">See all ></a>
     </div>
     {% for post in projects limit:10 %} {% if post.category == "project" %}
     <article class="post-item">
