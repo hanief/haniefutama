@@ -69,3 +69,8 @@ exclude:
   - "script"
   - "vendor"
   - "thinkspace.gemspec"
+  - ".travis.yml"
+  - ".gitignore"
+  - ".DS_Store"
+  - "LICENSE"
+  - "haniefutama.code-workspace"

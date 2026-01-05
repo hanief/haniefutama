@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Sebagian orang"
+title: "Sebagian Orang"
 # date: 2020-05-21 12:00:00
 lang: id
 description: "Sebagian orang baru membaca tulisan ini"
 comments: false
 keywords: "covid, coronavirus, terjemahan, rantau, bahasa indonesia"
 category: essay
---- 
+---
 
 Sebagian orang merasa tidak berdaya & cemas.
 
@@ -133,7 +133,6 @@ Sebagian orang tidak ada dalam daftar ini.
 
 Ini semua didasarkan pada pengalaman orang-orang nyata yang diambil dari berita, media sosial, dan teman. Jangan khawatir: Anda bukan satu-satunya orang yang mengalami apa yang Anda alami. Tapi sadarlah: tidak semua orang memiliki pengalaman yang sama dengan Anda. Namun pada akhirnya, kita semua menghadapi ini bersama-sama.
 
-
 _Tulisan ini diadaptasi dari [kottke.org][1]_
 
-[1]:	https://kottke.org/20/03/some-people
+[1]: https://kottke.org/20/03/some-people

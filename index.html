@@ -11,41 +11,41 @@ endif %} {% endfor %}
 
 <section class="post-list">
   <div class="container">
-    <div class="flex">
-      <h2 class="category-title">Essays</h2>
-      <a href="/essays">See all ></a>
-    </div>
+    <a href="/essays"><h1>Essays</h1></a>
     {% for post in essays limit:10 %} {% if post.category == "essay" %}
     <article class="post-item">
       <span class="post-meta date-label"
         >{{ post.date | date: "%d/%m/%y" }}</span
       >
-      <div class="article-title">
+      <h5 class="article-title">
         <a
           class="post-link"
           href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
           >{{ post.title }}</a
         >
-      </div>
+      </h5>
     </article>
     {% endif %} {% endfor %}
+    <a href="/essays" class="see-more"
+      ><p>see {{ essays.size | minus:10 }} more essays...</p></a
+    >
   </div>
 </section>
 <section class="post-list">
   <div class="container">
-    <div class="flex">
-      <h2 class="category-title">Projects</h2>
-      <a href="/projects">See all ></a>
-    </div>
+    <a href="/projects"><h1>Projects</h1></a>
     {% for post in projects limit:10 %} {% if post.category == "project" %}
     <article class="post-item">
-      <div class="article-title">
+      <h5 class="article-title">
         <a class="post-link" target="_blank" href="{{ post.link }}"
           >{{ post.title }}
         </a>
-      </div>
+      </h5>
       <span class="post-meta">{{ post.description }}</span>
     </article>
     {% endif %} {% endfor %}
+    <a href="/projects" class="see-more"
+      ><p>see {{ projects.size | minus:10 }} more projects...</p></a
+    >
   </div>
 </section>

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me and my blog
+title: About Me
 permalink: /about/
 ---
 
-Hello there, my name is Hanief.
+Hello there, I am Hanief Utama.
 
-I love to write code and prose. This blog is a collection of my [essays](/essays) and [projects](/projects).
+I love to write. This blog is a collection of my [essays](/essays) and [projects](/projects).
 
-My interests including but not limited to: software, computer, family, books, comics, video games, movies and tv shows, religion, history, philosophy, diy tools, computer hardware, poetry, comedy and standups, politics, science and technology, leadership, football.
+My interests including but not limited to: family, software, technology, science, books, comics, games, movies, religion, poetry, politics, football.
 
-Thank you for coming here. Hope you enjoy the visit.
+Thank you for reading. Hope you enjoy the visit.

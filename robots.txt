@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hnf.uta.ma/sitemap.xml
+Sitemap: https://haniefutama.com/sitemap.xml

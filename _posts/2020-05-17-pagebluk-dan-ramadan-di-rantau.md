@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pagebluk dan Ramadan di rantau"
+title: "Pagebluk dan Ramadan di Rantau"
 #date: 2020-05-17 12:00:00
 lang: id
 description: "Berbagi pengalaman menjalani ramadan di perantauan."
@@ -15,9 +15,9 @@ Tahun ini adalah Ramadan keempat saya jauh dari tanah air. Rasanya baru kemarin 
 
 Dibandingkan dengan tiga tahun lalu, ada beberapa perubahan dalam kehidupan saya. Anggota keluarga kami bertambah seorang dengan kelahiran putra kedua pada tahun 2018. Kami juga pindah rumah kontrakan dari wilayah Dunkirk ke daerah Radford. Harga sewa rumah di daerah ini lebih murah dan lokasinya lebih dekat dengan komunitas orang Indonesia dan komunitas Muslim. Alhamdulillah.
 
-Selain perbedaan kondisi keluarga, Ramadan tahun ini diwarnai dengan sebuah peristiwa global yang akan tercatat di sejarah umat manusia modern. Sebuah pandemi, alias [pagebluk](https://kbbi.web.id/pagebluk). 
+Selain perbedaan kondisi keluarga, Ramadan tahun ini diwarnai dengan sebuah peristiwa global yang akan tercatat di sejarah umat manusia modern. Sebuah pandemi, alias [pagebluk](https://kbbi.web.id/pagebluk).
 
-Seperti halnya negara-negara lain, Britania Raya tidak bebas dari penyebaran SARS-CoV-2 dan penyakit Covid-19. Bahkan per 17 Mei 2020, menurut [data terbaru](https://ourworldindata.org/coronavirus-uk?country=GBR), total kasus terkonfirmasi di Britania Raya mencapai lebih dari 240.000. Korban meninggal sudah melebihi 30.000 orang. Secara global, jumlah ini hanya kalah dari Amerika Serikat. 
+Seperti halnya negara-negara lain, Britania Raya tidak bebas dari penyebaran SARS-CoV-2 dan penyakit Covid-19. Bahkan per 17 Mei 2020, menurut [data terbaru](https://ourworldindata.org/coronavirus-uk?country=GBR), total kasus terkonfirmasi di Britania Raya mencapai lebih dari 240.000. Korban meninggal sudah melebihi 30.000 orang. Secara global, jumlah ini hanya kalah dari Amerika Serikat.
 
 Untuk mengatasi penyebaran virus ini, pemerintah Britania Raya mengeluarkan kebijakan _lockdown_ seperti halnya banyak negara lain. Pesan yang disampaikan oleh Perdana Menteri Boris Johnson adalah _Stay Home, Protect NHS, Save Lives_. Tetap di rumah, lindungi NHS, selamatkan nyawa. Selama beberapa minggu, warga non pekerja kunci tidak boleh keluar rumah kecuali untuk: belanja kebutuhan sehari-hari dan obat ke apotek, olahraga sendirian, atau pergi ke rumah sakit. Pekerja kunci adalah mereka yang bekerja sebagai dokter, perawat, kurir, kasir supermarket, dan lainnya.
 
@@ -37,9 +37,8 @@ Aspek sosial Ramadan yang kami lakukan paling tidak ada dua hal: saling berbalas
 
 Alhamdulillah, dengan kemajuan teknologi, banyak rutinitas yang biasa dilakukan Ramadan bisa dilakukan secara daring. Teknologi streaming dan panggilan video sangat membantu kami untuk mendengarkan ceramah, tadarus, dan silaturahim dengan teman dan keluarga. Tahun lalu, kami tidak mudik ke Indonesia dan setelah salat Idul Fitri kami sungkem virtual via panggilan video kepada orang tua kami. Tahun ini pun akan sama. Insya Allah.
 
-Saya sadar bahwa pagebluk, pembatasan sosial (_social distancing_), dan kebijakan _lockdown_ sangat berpengaruh terhadap penghidupan banyak masyarakat dan ekonomi secara umum. Kami bersyukur bahwa Allah masih memberikan nikmat sehat dan rezeki makan tiap hari. Puasa, dengan atribut menahan nafsunya, mudah-mudahan membuat kami bisa lebih peka terhadap kondisi warga yang lemah, kekurangan, dhuafa. Zakat, dengan atribut filantropinya, semoga menjadikan kami lebih ringan berbagi rezeki dari Allah. 
+Saya sadar bahwa pagebluk, pembatasan sosial (_social distancing_), dan kebijakan _lockdown_ sangat berpengaruh terhadap penghidupan banyak masyarakat dan ekonomi secara umum. Kami bersyukur bahwa Allah masih memberikan nikmat sehat dan rezeki makan tiap hari. Puasa, dengan atribut menahan nafsunya, mudah-mudahan membuat kami bisa lebih peka terhadap kondisi warga yang lemah, kekurangan, dhuafa. Zakat, dengan atribut filantropinya, semoga menjadikan kami lebih ringan berbagi rezeki dari Allah.
 
 Saya bukan epidemiolog, bukan dokter, bukan ekonom, bukan pula pengambil kebijakan. Saya hanya bisa diam di rumah. Saya hanya bisa membantu tetangga semampu saya. Saya hanya bisa berdoa. Doa yang saya panjatkan adalah agar Allah tidak membebankan kepada kami beban berat seperti yang dibebankan kepada orang-orang sebelum kami dan agar Allah tidak memikulkan pada kami apa yang tak sanggup kami memikulnya.
 
 Allahumma innaka 'afuwwun, tuhibbul 'afwa fa'fuanni.
-

@@ -1,16 +1,75 @@
 <footer class="site-footer">
-	<div class="container">
-		<ul class="navbar">
-			<li><a href="mailto:halo@haniefutama.com" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/mail.svg' | prepend: site.baseurl }}" /></a></li>
-			{% if site.author.github %}<li><a href="{{ site.author.github }}" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/github.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
-			{% if site.author.linkedin %}<li><a href="{{ site.author.linkedin }}" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/linkedin.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
-			{% if site.author.instagram %}<li><a href="{{ site.author.instagram }}" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/instagram.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
-			{% if site.author.twitter %}<li><a href="{{ site.author.twitter }}" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/twitter.svg' | prepend: site.baseurl }}" /></a></li>{% endif %}
-			<li><a href="{{ '/sitemap.xml' | prepend: site.baseurl }}"><img class="footer-icon" src="{{ '/assets/icons/sitemap.svg' | prepend: site.baseurl }}" /></a></li>
-			<li><a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank"><img class="footer-icon" src="{{ '/assets/icons/rss.svg' | prepend: site.baseurl }}" /></a></li>
-		</ul>
-		<hr>
-		<br>
-		<small class="block">Contents licensed with <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>. Made using <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/heiswayi/thinkspace">Thinkspace</a> theme.</small>
-	</div> 
+  <div class="container">
+    <ul class="navbar">
+      <li>
+        <a href="mailto:halo@haniefutama.com" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/mail.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      {% if site.author.github %}
+      <li>
+        <a href="{{ site.author.github }}" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/github.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      {% endif %} {% if site.author.linkedin %}
+      <li>
+        <a href="{{ site.author.linkedin }}" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/linkedin.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      {% endif %} {% if site.author.instagram %}
+      <li>
+        <a href="{{ site.author.instagram }}" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/instagram.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      {% endif %} {% if site.author.twitter %}
+      <li>
+        <a href="{{ site.author.twitter }}" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/twitter.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      {% endif %}
+      <li>
+        <a href="{{ '/sitemap.xml' | prepend: site.baseurl }}"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/sitemap.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+      <li>
+        <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank"
+          ><img
+            class="footer-icon"
+            src="{{ '/assets/icons/rss.svg' | prepend: site.baseurl }}"
+        /></a>
+      </li>
+    </ul>
+    <small class="block"
+      >Made with &#10084; in Jogja, Indonesia. Built via
+      <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with
+      <a href="https://github.com/heiswayi/thinkspace" target="_blank"
+        >Thinkspace</a
+      >
+      theme. Using
+      <a href="https://github.com/tokotype/PlusJakartaSans" target="_blank"
+        >Plus Jakarta Sans</a
+      >
+      font. Licensed with
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        >CC BY-NC</a
+      >.</small
+    >
+  </div>
 </footer>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mengapa saya memilih Anies"
+title: "Mengapa Saya Memilih Anies"
 #date: 2024-02-07 12:00:00
 lang: id
 description: "Mengapa saya memilih Anies Baswedan sebagai Presiden Indonesia"
@@ -21,13 +21,13 @@ Sebagai pejabat publik, rekam jejaknya terbukti. Saat ia menjadi [menteri pendid
 
 Saya punya dua anak usia sekolah. Mereka ikut menonton debat presiden di televisi. Anak saya yang besar bertanya, “Ayah, orang-orang itu siapa sih? Kenapa mereka tampil di TV?”. Jika Anies terpilih, saya bisa menjawab kepada mereka, “Nak, nanti kalau sudah besar kamu juga jadi pintar dan baik seperti presiden kita ya”.
 
-Alasan kedua adalah Anies memanusiakan warga. 
+Alasan kedua adalah Anies memanusiakan warga.
 
 Anies mendudukkan kembali posisi rakyat sebagai pemberi mandat. [Desak Anies](https://www.youtube.com/results?search_query=desak+anies) adalah inovasi baru di pentas politik nusantara. Di forum ini Anies menjadi obyek, dengan warga sebagai subyeknya. Berbagai kalangan ramai-ramai datang tanpa bayaran. Masyarakat bisa berkeluh-kesah, protes, mengusulkan kebijakan dan Anies mendengarkan. Tanpa sekat. Ini adalah inisiatif positif dalam kampanye politik Indonesia yang seringkali hanya berisi rapat akbar yang hanya penuh dengan monolog, yel-yel bising dan joget penghibur. Anies menghargai warga sebagai manusia yang berdaya, bukan tong kosong yang dijejali suapan nina bobo.
 
 Anies juga memiliki rasa keadilan. Saat membangun JIS, Anies tetap memperhatikan warga [Kampung Akuarium](https://aniesbaswedan.com/rekam-jejak/kampung-akuarium-jakarta/). Saat merintis Jaklingko, ia mengajak perusahaan angkot [berdiskusi puluhan kali](https://www.youtube.com/watch?v=dmUMyBvhzjY&pp=ygUPYW5pZXMgamFrbGluZ2tv). Anies [mengeluarkan puluhan izin untuk pembangunan gereja](https://aniesbaswedan.com/rekam-jejak/kenyamanan-beribadah-di-jakarta/). Anies mendengarkan dan mewujudkan [aspirasi warga Hindu Tamil yang belum memiliki tempat ibadah](https://m.beritajakarta.id/read/77048/hadirkan-keadilan-sosial-di-jakarta-anies-pimpin-peletakan-batu-pertama-rumah-ibadah-hindu-tamil). Anies merangkul seluruh warga dari berbagai spektrum dan [warna ideologi](https://www.cnnindonesia.com/nasional/20230927213438-617-1004627/anies-dan-cak-imin-bertemu-rizieq-shihab-di-petamburan). Slogan [Jakarta](https://www.instagram.com/plusjakarta/) di masa kepemimpinannya adalah [Kota Kolaborasi](https://www.youtube.com/watch?v=VwtNP9UAgIU).
 
-Jika saya mengkritik Anies, saya tidak takut akan terancam ketenangan, harta, atau jiwa saya. Kalau ada demonstrasi, saya menduga Anies akan berani [turun langsung](https://www.youtube.com/watch?v=voLyl7s6DOs) untuk menghadapi dan [berbicara](https://www.youtube.com/watch?v=blzl7dDC0oI) kepada demonstran bertemu muka. Lagipula, dialah yang dulu sering berdemo sewaktu masih menjadi [ketua senat mahasiswa](https://kbanews.com/resonansi/kisah-anies-pimpin-demo-mahasiswa-ugm-menentang-sdsb/). 
+Jika saya mengkritik Anies, saya tidak takut akan terancam ketenangan, harta, atau jiwa saya. Kalau ada demonstrasi, saya menduga Anies akan berani [turun langsung](https://www.youtube.com/watch?v=voLyl7s6DOs) untuk menghadapi dan [berbicara](https://www.youtube.com/watch?v=blzl7dDC0oI) kepada demonstran bertemu muka. Lagipula, dialah yang dulu sering berdemo sewaktu masih menjadi [ketua senat mahasiswa](https://kbanews.com/resonansi/kisah-anies-pimpin-demo-mahasiswa-ugm-menentang-sdsb/).
 
 Anies mau menandatangani [kontrak politik](https://news.detik.com/pemilu/d-7166933/anies-teken-kontrak-politik-bersama-jejaring-rakyat-miskin-ini-isinya) dengan kelompok masyarakat dan organisasi. Anies tidak takut mengadopsi kebijakan yang [datang dari bawah](https://www.youtube.com/watch?v=ZCAgiqFx-Bk). Anies masih punya kerendahan hati untuk [mengakui](https://www.youtube.com/watch?v=P5NFeDGMmRI) bahwa dia tidak tahu sesuatu.
 
@@ -47,7 +47,7 @@ Alasan terakhir adalah Anies bisa menginspirasi warga.
 
 Kemampuan [komunikasi](https://www.youtube.com/watch?v=kiaKPHMABuc&pp=ygUMYW5pZXMgcGlkYXRv) dan persuasi Anies di atas rata-rata. Ia bisa [pidato](https://www.youtube.com/watch?v=w2trA2XY8hM&pp=ygUMYW5pZXMgcGlkYXRv) di depan publik dengan atau tanpa teks. Ia bisa [menulis](https://twitter.com/imanlagi/status/1754130053146046541) pidatonya sendiri. Kata-katanya [dipilih](https://www.youtube.com/watch?v=nDrOnbDRMME&pp=ygUMYW5pZXMgcGlkYXRv) dengan cermat. Gesturnya sengaja dibuat [bermakna](https://www.youtube.com/watch?v=vrlfHYnCv0o&pp=ygUMYW5pZXMgZ2VzdHVy).
 
-Anies menarik warga menjadi [relawan](https://twitter.com/aniesbubble). Warga datang sukarela ke acara kampanye. Warga membuat [stiker](https://twitter.com/olpproject), poster, bahkan [website](https://haveaniesday.com) tanpa diminta. Warga [bersepeda](https://www.youtube.com/watch?v=LmdG_GeOvuw) ratusan kilometer untuk menghadiri kampanyenya di Jakarta. 
+Anies menarik warga menjadi [relawan](https://twitter.com/aniesbubble). Warga datang sukarela ke acara kampanye. Warga membuat [stiker](https://twitter.com/olpproject), poster, bahkan [website](https://haveaniesday.com) tanpa diminta. Warga [bersepeda](https://www.youtube.com/watch?v=LmdG_GeOvuw) ratusan kilometer untuk menghadiri kampanyenya di Jakarta.
 
 Ia bisa [berdiplomasi](https://www.youtube.com/watch?v=NEnOKuOW-To) langsung kepada negara sahabat. Ia memiliki [jejaring luas](https://www.youtube.com/watch?v=NJ_bFTSSP6E) di [manca negara](https://www.youtube.com/watch?v=GTyAbzrw9XM). Ia dapat menjawab sendiri [pertanyaan](https://www.youtube.com/watch?v=9vtGruN4wvY) orang yang ingin tahu isi kepalanya. Ia bahkan bisa meyakinkan organisasi dunia untuk [mengadopsi](https://www.youtube.com/watch?v=7nLXG1H0OAo) sarannya.
 
@@ -55,7 +55,7 @@ Indonesia adalah negara besar dengan banyak kepala. Jalan untuk menyatukannya ha
 
 Anies tentu punya kelemahan, ada banyak kritik baik yang [valid](https://www.bijakmemilih.id/profil-kandidat/anies-baswedan) maupun yang berupa [fitnah](https://fitnahlagi.com). Anies bukan pimpinan partai, sehingga akan bergantung pada koalisi pendukungnya di DPR. Anies bukan [orang kaya](https://www.cnbcindonesia.com/market/20231024072008-17-483064/adu-harta-3-pasangan-capres-cawapres-siapa-yang-paling-kaya), bukan pebisnis. Ia tak punya banyak sumber daya untuk mempengaruhi pendukungnya. Anies memang menyandang nama belakang [pejuang kemerdekaan](https://id.wikipedia.org/wiki/Abdurrahman_Baswedan), tapi ia tak punya jejaring keluarga ningrat politik. Anies juga tidak pandai [bernyanyi](https://twitter.com/Yurissa_Samosir/status/1755046219507024352).
 
-Alasan-alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi. 
+Alasan-alasan di atas adalah mengapa menurut saya Anies adalah capres yang paling cocok melanjutkan estafet kepemimpinan Presiden Jokowi.
 
 Latar belakang mereka mirip: warga sipil lulusan Gadjah Mada yang merintis dari bawah. Anies pernah menjadi menteri kabinet Presiden Jokowi. Anies juga berhasil melanjutkan tugas Presiden Jokowi sebagai gubernur Jakarta. Mereka memiliki sejarah yang berkelindan.
 

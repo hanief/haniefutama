@@ -70,7 +70,6 @@ hr {
 
 .site-header {
   border-bottom: 1px solid lighten($light-gray-color, 5%);
-  margin-bottom: $small-spacing;
   min-height: 80px;
 }
 
@@ -90,19 +89,6 @@ hr {
   }
 }
 
-.logo {
-  margin: 0 0 0 0;
-  cursor: pointer;
-  letter-spacing: 0.8px;
-  font-size: 20px;
-  line-height: 28px;
-  font-weight: 300;
-
-  span {
-    font-weight: 700;
-  }
-}
-
 .flex {
   display: flex;
   align-items: center;
@@ -114,11 +100,17 @@ hr {
 }
 
 .navbar {
-  float: right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
   margin: 0;
   position: relative;
   padding: 0;
   pointer-events: all;
+  border-bottom: 1px solid lighten($light-gray-color, 5%);
+  padding-bottom: $small-spacing;
+  margin-bottom: $small-spacing;
   cursor: pointer;
 
   li {
@@ -136,7 +128,6 @@ hr {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  margin-bottom: 0.5rem;
   border-bottom: 1px solid lighten($light-gray-color, 10%);
 
   a {
@@ -151,7 +142,6 @@ hr {
 
 .post-meta {
   color: $medium-gray-color;
-  text-transform: uppercase;
   display: inline-block;
   letter-spacing: 1px;
   font-size: rem(14);
@@ -231,6 +221,7 @@ hr {
 
   .block {
     display: block;
+    text-align: center;
   }
 }
 
@@ -258,19 +249,60 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
+.logo-image {
+  height: 40px;
+  width: 40px;
+  margin: auto;
+  vertical-align: bottom;
+  border-radius: 5%;
+}
+
+.logo {
+  margin: 0 0 0 0;
+  cursor: pointer;
+  letter-spacing: 0.8px;
+  font-size: 2rem;
+  line-height: 28px;
+  font-weight: 400;
+  font-feature-settings: "ss03";
+
+  strong {
+    font-feature-settings: "ss01";
+    font-weight: 700;
+  }
+}
+
+.logo:hover {
+  scale: 1.1;
+  // text-decoration: underline !important;
+}
+
+.date-label {
+  width: 80px;
+  text-align: right;
+}
+
+.see-more {
+  font-style: italic;
+  text-align: right;
+  padding: $small-spacing;
+}
+
 // This applies from 0px to 600px
 @media (max-width: 600px) {
   .post-item {
     border-bottom: 1px solid lighten($light-gray-color, 10%);
     display: block;
+    padding-bottom: 0.5rem;
+    margin-bottom: $small-spacing;
   }
 
   .date-label {
-    float: left !important;
     width: 100%;
     border: 0 !important;
     margin: 0 !important;
     padding: 0 !important;
+    text-align: left !important;
   }
 
   .article-title {
