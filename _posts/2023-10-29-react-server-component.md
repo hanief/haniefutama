@@ -17,7 +17,6 @@ Here is the recording of me delivering the talk:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RsiNvvj0PZQ?si=FZVagYGJUgqQIgMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 **TL;DR**, Only use React Server Component if you need performance/SEO optimisation and you are already in Next.js.
 
 # History of web technologies
@@ -30,15 +29,15 @@ Web has been here for more than 30 years. When [Sir Tim Berners-Lee](https://en.
 
 Javascript is a little bit younger than PHP. It has been historically used in a different place. But, since V8 JS engine and Node.js, JavaScript has reached even wider use case. Not only it has been used in browser, but now it can be used in server environment too, like PHP.
 
-[React.js](https://en.wikipedia.org/wiki/React_(JavaScript_library)), is JavaScript library built inside Facebook/Meta. It is replacing jQuery as arguably the [world's number 1 JS library](https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190) for frontend development. It has changed a lot since its conception. It has also spawned many other libraries and frameworks supporting its ecosystem. 
+[React.js](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>), is JavaScript library built inside Facebook/Meta. It is replacing jQuery as arguably the [world's number 1 JS library](https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190) for frontend development. It has changed a lot since its conception. It has also spawned many other libraries and frameworks supporting its ecosystem.
 
-One of the most recent and popular framework for React.js is Next.js. It aims to take React to the next level by providing technologies and optimisation so it can be used for production level app. 
+One of the most recent and popular framework for React.js is Next.js. It aims to take React to the next level by providing technologies and optimisation so it can be used for production level app.
 
 The most recent technology developed for React and supported by Next.js is a feature called React Server Component (RSC). It has created a lot of chatter in the web dev sphere because of its funny syntax and supposedly its transformation into PHP. The OG server scripting language.
 
 ![React transformation into PHP](/assets/images/rsc-1.png)
 
-But what is React Server Component? 
+But what is React Server Component?
 
 Ironically, eventhough its actually a React feature, there's [not](https://legacy.reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) [much](https://react.dev/reference/react/use-server) documentation explaining it in the [React docs](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components). Next.js has better [documentation](https://nextjs.org/docs/app/building-your-application/rendering) about it.
 
@@ -60,7 +59,7 @@ This approach is not suitable for content heavy apps such as e-commerce sites or
 
 ## Server Side Rendering
 
-To fix the SEO problem, React and framework such as Next.js added new method of rendering called Server Side Rendering. This method put the rendering of initial shell to the server, so when the initial request came it can respond with default/initial content to the browser. 
+To fix the SEO problem, React and framework such as Next.js added new method of rendering called Server Side Rendering. This method put the rendering of initial shell to the server, so when the initial request came it can respond with default/initial content to the browser.
 
 Once the shell arrived at the browser, it will download the real content using a method called hydration. Hydration basically works like it is named. Imagine an empty bottle, hydration is filling the bottle with water from the tap. The container/shell already there and can be seen / interacted by user, but it needs to be filled for user to be able to drink.
 
@@ -72,7 +71,6 @@ If you thought about this, then Server Component is for you.
 
 Server Component basically enables React component to be rendered and interacting with server code via Node.js. This unlocked powerful capabilities such as direct DB access. We can also compartmentalize the code downloaded to browser since we don't need JS to render the content. Hence the smaller bundle size. We only download what we need.
 
-
 # The difference between Server Component and Client Component
 
 What's the difference between Server and Client Component? The first thing that you notice is the "use client" directive at the top of the Client Component. That's because in the RSC paradigm, default component type is Server Component.
@@ -83,13 +81,13 @@ The other thing that we notice is we can directly connect to the DB from the com
 
 Here are the summary of the differences:
 
-|               Server Component                |              Client Component            |
-|-----------------------------------------------|------------------------------------------|
-| Render only on server                         | Render on server and client              |
-| New kind of component                         | The component that we already know       |
-| Default component                             | "use client"                             |
-| No state                                      | Can use state                            |
-| Can import Client Component                   | Can **ONLY** import Client Component     |
+| Server Component            | Client Component                     |
+| --------------------------- | ------------------------------------ |
+| Render only on server       | Render on server and client          |
+| New kind of component       | The component that we already know   |
+| Default component           | "use client"                         |
+| No state                    | Can use state                        |
+| Can import Client Component | Can **ONLY** import Client Component |
 
 # Next.js is the only framework that offer full support of RSC
 
@@ -108,7 +106,7 @@ Strangely, even though RSC is an official React feature, since it has to have se
   You need to use the App router paradigm. You need to migrate the Pages router to App router.
 
 - Server Components is default.
-  
+
   By default all components is Server Components. If you want to make it Client Components you need to add "use client" directive explicitly.
 
 # Pros and Cons of using RSC
@@ -125,6 +123,7 @@ Before you decide if you want to use RSC, these are some of the pros and cons of
 - Caching
 
 ### Cons
+
 - No CSS-in-JS
 - React Context doesn't work
 - More things to think about
@@ -135,8 +134,8 @@ Before you decide if you want to use RSC, these are some of the pros and cons of
 
 The big question is, should I use it? This table will probably help your decision making:
 
-|                        Yes                         |                  No                 |
-|----------------------------------------------------|-------------------------------------|
+| Yes                                                | No                                  |
+| -------------------------------------------------- | ----------------------------------- |
 | You are already deeply invested in React + Next.js |                                     |
 | You have control of the server                     |                                     |
 | Performance is very important to you               |                                     |
@@ -150,7 +149,7 @@ Adding React Server Components will only make your app more complex, since you h
 So, with all the asterisks and headache listed above, you still decided that you want to adopt RSC. Then I recommend that you use this strategy:
 
 1. Add the "use client" directive to the root of your app.
-   
+
    This way all your application becomes client component by default. This will prevent some headache with the mix between server and client components along the component tree.
 
 2. Move the directive as low as possible in the rendering tree.
@@ -163,6 +162,6 @@ So, with all the asterisks and headache listed above, you still decided that you
 
 # Conclusion
 
-If you need more performance from your app, or you need to have better SEO, React Server Components is for you. 
+If you need more performance from your app, or you need to have better SEO, React Server Components is for you.
 
 Also, you need to be already in Next.js environment, since the only frawework supporting this feature is them.
