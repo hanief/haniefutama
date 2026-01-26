@@ -10,7 +10,7 @@ cover: /public/logo_social.png
 
 repo: https://github.com/hanief/haniefutama
 disqus_shortname: "haniefutama"
-twitter_username: "hnfutama"
+twitter_username: "haniefutama"
 comments: false
 
 # Build settings
@@ -35,7 +35,7 @@ author:
   email: halo@haniefutama.com
   url: https://haniefutama.com
   github: https://github.com/hanief
-  twitter: https://twitter.com/hnfutama
+  twitter: https://twitter.com/haniefutama
   facebook: https://www.facebook.com/haniefcutama
   instagram: https://www.instagram.com/haniefutama
   linkedin: https://linkedin.com/in/haniefutama
@@ -43,7 +43,7 @@ author:
 # social settings
 og_locale: "id_ID"
 twitter_card: "summary"
-twitter_site: "@hnfutama"
+twitter_site: "@haniefutama"
 
 plugins:
   - jekyll-sitemap
