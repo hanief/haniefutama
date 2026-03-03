@@ -5,9 +5,55 @@
     <description>essays and projects</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jan 2026 03:45:35 +0700</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 03:45:35 +0700</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 13:41:56 +0700</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:41:56 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Public Speaking Fear</title>
+        <description>&lt;p&gt;Have you ever faced your fear?&lt;/p&gt;
+
+&lt;p&gt;One of my fear is speaking in public. I was a train wreck when it came to public speaking. My hands will be shaking and cold sweats coming down my forehead. I forget all my material and stumble clumsily through the presentation.&lt;/p&gt;
+
+&lt;p&gt;So, I decided to face my fear and be better by joining a public speaking course.&lt;/p&gt;
+
+&lt;p&gt;For the past month I’ve been going to public speaking class from &lt;a href=&quot;https://www.dialogika.co/&quot;&gt;Dialogika&lt;/a&gt;. The class is small and focused. The instructor is very competent, experienced and approachable. The curriculum is extensive and easy to follow.&lt;/p&gt;
+
+&lt;p&gt;The most important thing is they provide a safe space to practice my speaking in front of audience and get a constructive feedback every time. It’s so nice to have that real feedback loop.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow is my last class and the progress has been great. I feel calmer and more confident when talking. I am still not perfect and still have much to learn. But I have been growing and it makes me happy.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2026 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2026/public-speaking-class/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/public-speaking-class/</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
+    
+      <item>
+        <title>Agency</title>
+        <description>&lt;p&gt;Here’s what I learn today:&lt;/p&gt;
+
+&lt;p&gt;Everyone has a dream, but most are not strong enough to follow it. You need agency: initiative, bravery and strategy.&lt;/p&gt;
+
+&lt;p&gt;Initiative: start small. Get the ball rolling. It won’t be perfect. Learn and grow better.&lt;/p&gt;
+
+&lt;p&gt;Bravery: introduce yourself. Don’t hide behind the keyboard. Show what you offer. Embrace the criticism. Be honest and listen.&lt;/p&gt;
+
+&lt;p&gt;Strategy: think and do. Make plan. Produce something. Evaluate and adjust.&lt;/p&gt;
+
+&lt;p&gt;Success is not guaranteed. But without agency you don’t deserve it.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Feb 2026 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/2026/agency/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/agency/</guid>
+        
+        
+        <category>essay</category>
+        
+      </item>
     
       <item>
         <title>Algoritama</title>
@@ -123,36 +169,6 @@
         <pubDate>Wed, 30 Jul 2025 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/2025/arsipin/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/arsipin/</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Archivist</title>
-        <description>&lt;p&gt;I made a chrome extension to archive web page.&lt;/p&gt;
-
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/archivist&quot;&gt;https://github.com/hanief/archivist&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Jul 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/archivist/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/archivist/</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Spinner</title>
-        <description>&lt;p&gt;I made a wheel of names style roulette.&lt;/p&gt;
-
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/hanief/spinner&quot;&gt;https://github.com/hanief/spinner&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Jun 2025 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/2025/spinner/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/spinner/</guid>
         
         
         <category>project</category>
