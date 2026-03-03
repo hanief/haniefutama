@@ -73,11 +73,24 @@
     var header = document.getElementById("siteHeader");
     var toggle = document.getElementById("menuToggle");
     var panel = document.getElementById("commandPanel");
-    if (!header || !toggle || !panel) return;
+    if (!header || !toggle || !panel) return null;
 
     function closeMenu() {
       header.classList.remove("menu-open");
       toggle.setAttribute("aria-expanded", "false");
+    }
+
+    function openMenu() {
+      header.classList.add("menu-open");
+      toggle.setAttribute("aria-expanded", "true");
+    }
+
+    function setMenu(open) {
+      if (open) {
+        openMenu();
+      } else {
+        closeMenu();
+      }
     }
 
     toggle.addEventListener("click", function () {
@@ -94,23 +107,158 @@
     window.addEventListener("resize", function () {
       if (window.innerWidth > 960) closeMenu();
     });
+
+    return {
+      open: openMenu,
+      close: closeMenu,
+      set: setMenu
+    };
   }
 
-  function setupKeyboardShortcuts() {
+  function setupKeyboardShortcuts(commandInput, menuApi) {
     var links = {
       p: "/projects/",
       w: "/writing/",
-      a: "/about/"
+      a: "/about/",
+      h: "/",
+      n: "/now/",
+      c: "/contact/"
     };
 
     document.addEventListener("keydown", function (event) {
       var tag = (event.target && event.target.tagName || "").toLowerCase();
-      if (tag === "input" || tag === "textarea" || event.metaKey || event.ctrlKey || event.altKey) return;
+      var isTyping = tag === "input" || tag === "textarea";
+
+      if (!isTyping && event.key === "/") {
+        event.preventDefault();
+        if (commandInput) {
+          commandInput.focus();
+          commandInput.select();
+        }
+        return;
+      }
+
+      if (!isTyping && event.altKey && event.key.toLowerCase() === "m" && menuApi) {
+        event.preventDefault();
+        var expanded = document.getElementById("menuToggle").getAttribute("aria-expanded") === "true";
+        menuApi.set(!expanded);
+        return;
+      }
+
+      if (isTyping || event.metaKey || event.ctrlKey || event.altKey) return;
       var key = event.key.toLowerCase();
       if (links[key]) {
         window.location.href = links[key];
       }
     });
+  }
+
+  function setupCommandConsole(menuApi) {
+    var form = document.getElementById("commandConsole");
+    var input = document.getElementById("commandInput");
+    var feedback = document.getElementById("commandFeedback");
+    var themeToggle = document.getElementById("themeToggle");
+    if (!form || !input) return { input: null };
+
+    var routeMap = {
+      home: "/",
+      about: "/about/",
+      projects: "/projects/",
+      writing: "/writing/",
+      essays: "/writing/",
+      now: "/now/",
+      contact: "/contact/"
+    };
+
+    function setFeedback(message) {
+      if (!feedback) return;
+      feedback.textContent = message;
+      clearTimeout(setFeedback._timer);
+      setFeedback._timer = setTimeout(function () {
+        feedback.textContent = "";
+      }, 2400);
+    }
+
+    function executeRoute(path) {
+      setFeedback("navigating " + path);
+      window.location.href = path;
+    }
+
+    function parseCommand(raw) {
+      var command = (raw || "").trim();
+      if (!command) return;
+
+      var normalized = command.toLowerCase();
+      var tokens = normalized.split(/\s+/);
+      var head = tokens[0];
+      var tail = tokens.slice(1).join(" ");
+
+      if (head === "go" || head === "open" || head === "cd") {
+        normalized = tail;
+        head = (tail.split(/\s+/)[0] || "").toLowerCase();
+      }
+
+      if (!normalized) return;
+
+      if (normalized === "help" || normalized === "?") {
+        setFeedback("commands: home about projects writing now contact /path top bottom theme");
+        return;
+      }
+
+      if (normalized === "menu") {
+        if (menuApi) menuApi.open();
+        setFeedback("menu opened");
+        return;
+      }
+
+      if (normalized === "close") {
+        if (menuApi) menuApi.close();
+        setFeedback("menu closed");
+        return;
+      }
+
+      if (normalized === "top") {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        setFeedback("scrolling top");
+        return;
+      }
+
+      if (normalized === "bottom") {
+        window.scrollTo({ top: document.documentElement.scrollHeight, behavior: "smooth" });
+        setFeedback("scrolling bottom");
+        return;
+      }
+
+      if (normalized === "theme" || normalized === "cyber" || normalized === "crt") {
+        if (themeToggle) {
+          if (normalized === "cyber" && themeToggle.textContent !== "CYBER MODE") themeToggle.click();
+          if (normalized === "crt" && themeToggle.textContent !== "CRT MODE") themeToggle.click();
+          if (normalized === "theme") themeToggle.click();
+          setFeedback("theme switched");
+        }
+        return;
+      }
+
+      if (normalized.charAt(0) === "/") {
+        executeRoute(normalized);
+        return;
+      }
+
+      if (routeMap[head]) {
+        executeRoute(routeMap[head]);
+        return;
+      }
+
+      setFeedback("unknown command: " + command);
+    }
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      parseCommand(input.value);
+      input.value = "";
+    });
+
+    return { input: input };
   }
 
   function typeLine(el, text) {
@@ -285,10 +433,11 @@
     updateTimeTargets();
     setInterval(updateTimeTargets, 1000);
     setupHeaderAndProgress();
-    setupMobileMenu();
+    var menuApi = setupMobileMenu();
+    var commandApi = setupCommandConsole(menuApi);
     setupCursorDot();
     setupThemeToggle();
-    setupKeyboardShortcuts();
+    setupKeyboardShortcuts(commandApi.input, menuApi);
     setupMagneticButtons();
     setupProjectBlocks();
     setupGsapScroll();
