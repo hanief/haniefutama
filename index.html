@@ -4,8 +4,8 @@ title: Home
 description: "Digital command center of Hanief Utama"
 ---
 
-{% assign essays = site.posts | where: 'category', 'essay' %}
-{% assign projects = site.posts | where: 'category', 'project' %}
+{% assign essays = site.posts | where: 'category', 'essay' %} {% assign projects
+= site.posts | where: 'category', 'project' %}
 
 <section class="boot-hero" id="hero">
   <div class="container boot-panel">
@@ -20,8 +20,16 @@ description: "Digital command center of Hanief Utama"
       <h1 class="blink-caret">HANIEF UTAMA</h1>
       <p class="boot-subtitle">Senior Engineer / Builder / Systems Thinker</p>
       <div class="cta-row">
-        <a href="{{ '/projects/' | prepend: site.baseurl }}" class="terminal-button magnetic">[ View Projects ]</a>
-        <a href="{{ '/writing/' | prepend: site.baseurl }}" class="terminal-button magnetic">[ Read Writing ]</a>
+        <a
+          href="{{ '/projects/' | prepend: site.baseurl }}"
+          class="terminal-button magnetic"
+          >[ View Projects ]</a
+        >
+        <a
+          href="{{ '/writing/' | prepend: site.baseurl }}"
+          class="terminal-button magnetic"
+          >[ Read Writing ]</a
+        >
       </div>
     </div>
   </div>
@@ -33,10 +41,22 @@ description: "Digital command center of Hanief Utama"
     <h2 class="section-title">USER PROFILE</h2>
     <span class="ascii-divider">-------------</span>
     <div class="profile-card">
-      <div class="profile-row"><span class="profile-label">Role</span><span class="profile-value">Software Engineer</span></div>
-      <div class="profile-row"><span class="profile-label">Focus</span><span class="profile-value">Systems, Product, AI, Growth</span></div>
-      <div class="profile-row"><span class="profile-label">Location</span><span class="profile-value">Indonesia</span></div>
-      <div class="profile-row"><span class="profile-label">Status</span><span class="profile-value">Building</span></div>
+      <div class="profile-row">
+        <span class="profile-label">Role</span
+        ><span class="profile-value">Software Engineer</span>
+      </div>
+      <div class="profile-row">
+        <span class="profile-label">Focus</span
+        ><span class="profile-value">Systems, Product, AI, Growth</span>
+      </div>
+      <div class="profile-row">
+        <span class="profile-label">Location</span
+        ><span class="profile-value">Indonesia</span>
+      </div>
+      <div class="profile-row">
+        <span class="profile-label">Status</span
+        ><span class="profile-value">Building</span>
+      </div>
     </div>
   </div>
 </section>
@@ -47,19 +67,33 @@ description: "Digital command center of Hanief Utama"
     <h2 class="section-title">PROJECT DATA BLOCKS</h2>
     <div class="data-grid">
       {% for post in projects limit:6 %}
-      <article class="data-block project-block" data-title="{{ post.title | escape }}" data-status="Active" data-stack="{{ post.keywords | default: 'React / Node / AI' | escape }}" data-description="{{ post.description | default: post.excerpt | strip_html | strip_newlines | escape }}" data-link="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+      <article
+        class="data-block project-block"
+        data-title="{{ post.title | escape }}"
+        data-status="Active"
+        data-stack="{{ post.keywords | default: 'React / Node / AI' | escape }}"
+        data-description="{{ post.description | default: post.excerpt | strip_html | strip_newlines | escape }}"
+        data-link="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl | prepend: site.url }}{% endif %}"
+      >
         <div class="data-block-header">
           <span>[ PROJECT_{{ forloop.index | prepend: '0' }} ]</span>
           <span class="post-meta">Status: Active</span>
         </div>
-        <h3 class="glitch-hover" style="margin-bottom: .5rem;">{{ post.title }}</h3>
-        <p class="data-meta">Stack: {{ post.keywords | default: 'React / Node / AI' }}</p>
-        <button type="button" class="block-link project-open">Open terminal view →</button>
+        <h3 class="glitch-hover" style="margin-bottom: 0.5rem">
+          {{ post.title }}
+        </h3>
+        <button type="button" class="block-link project-open">
+          Open terminal view →
+        </button>
       </article>
       {% endfor %}
     </div>
-    <div style="margin-top: 1.2rem;">
-      <a class="terminal-button" href="{{ '/projects/' | prepend: site.baseurl }}">[ Access Full Archive ]</a>
+    <div style="margin-top: 1.2rem">
+      <a
+        class="terminal-button"
+        href="{{ '/projects/' | prepend: site.baseurl }}"
+        >[ Access Full Archive ]</a
+      >
     </div>
   </div>
 </section>
@@ -73,14 +107,25 @@ description: "Digital command center of Hanief Utama"
       <article class="log-row">
         <span class="log-date">[{{ post.date | date: "%Y-%m-%d" }}]</span>
         <div>
-          <a class="log-title glitch-hover" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-          <p class="log-excerpt">{{ post.description | default: post.excerpt | strip_html | strip_newlines | truncate: 140 }}</p>
+          <a
+            class="log-title glitch-hover"
+            href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
+            >{{ post.title }}</a
+          >
+          <p class="log-excerpt">
+            {{ post.description | default: post.excerpt | strip_html |
+            strip_newlines | truncate: 140 }}
+          </p>
         </div>
       </article>
       {% endfor %}
     </div>
-    <div style="margin-top: 1.2rem;">
-      <a class="terminal-button" href="{{ '/writing/' | prepend: site.baseurl }}">[ Read All Signals ]</a>
+    <div style="margin-top: 1.2rem">
+      <a
+        class="terminal-button"
+        href="{{ '/writing/' | prepend: site.baseurl }}"
+        >[ Read All Signals ]</a
+      >
     </div>
   </div>
 </section>
@@ -91,20 +136,44 @@ description: "Digital command center of Hanief Utama"
     <h2 class="section-title">OPERATIONS SNAPSHOT</h2>
     <div class="status-grid">
       <article class="status-tile">
-        <div class="status-header"><h3>Current Focus</h3><span class="status-line"></span></div>
-        <p>Building robust products, writing clear systems documentation, and shipping pragmatic improvements weekly.</p>
+        <div class="status-header">
+          <h3>Current Focus</h3>
+          <span class="status-line"></span>
+        </div>
+        <p>
+          Building robust products, writing clear systems documentation, and
+          shipping pragmatic improvements weekly.
+        </p>
       </article>
       <article class="status-tile">
-        <div class="status-header"><h3>Learning</h3><span class="status-line"></span></div>
-        <p>Applied AI architecture, developer tooling ergonomics, and performance-aware frontend animation systems.</p>
+        <div class="status-header">
+          <h3>Learning</h3>
+          <span class="status-line"></span>
+        </div>
+        <p>
+          Applied AI architecture, developer tooling ergonomics, and
+          performance-aware frontend animation systems.
+        </p>
       </article>
       <article class="status-tile">
-        <div class="status-header"><h3>Building</h3><span class="status-line"></span></div>
-        <p>Open-source utilities and products that blend engineering reliability with thoughtful user experience.</p>
+        <div class="status-header">
+          <h3>Building</h3>
+          <span class="status-line"></span>
+        </div>
+        <p>
+          Open-source utilities and products that blend engineering reliability
+          with thoughtful user experience.
+        </p>
       </article>
       <article class="status-tile">
-        <div class="status-header"><h3>Reading</h3><span class="status-line"></span></div>
-        <p>Technology, philosophy, and long-form reflections about agency, systems, and craftsmanship.</p>
+        <div class="status-header">
+          <h3>Reading</h3>
+          <span class="status-line"></span>
+        </div>
+        <p>
+          Technology, philosophy, and long-form reflections about agency,
+          systems, and craftsmanship.
+        </p>
       </article>
     </div>
     <p class="status-time">Last sync: <span id="statusTime">--:--:--</span></p>
