@@ -1,60 +1,43 @@
-@font-face {
-  font-family: "Plus Jakarta";
-  src: url("../fonts/PlusJakartaSans.woff2") format("woff2");
-  font-display: swap;
-  font-weight: 300 900;
-}
+$font-mono: "IBM Plex Mono", "JetBrains Mono", "SFMono-Regular", Menlo, monospace;
+$font-display: "Space Grotesk", "Sora", sans-serif;
 
-@font-face {
-  font-family: "Plus Jakarta";
-  src: url("../fonts/PlusJakartaSans-Italic.woff2") format("woff2");
-  font-display: swap;
-  font-weight: 300 900;
-  font-style: italic;
-}
+$base-font-family: $font-mono;
+$heading-font-family: $font-display;
 
-$base-font-family: "Plus Jakarta", sans-serif;
-$heading-font-family: $base-font-family;
+$base-font-size: 1rem;
+$base-line-height: 1.7;
+$heading-line-height: 1.15;
 
-// Font Sizes
-$base-font-size: 1em;
+$base-spacing: 1.25rem;
+$small-spacing: 0.625rem;
 
-// Line height
-$base-line-height: 1.5;
-$heading-line-height: 1.2;
+$bg-base: #0b0f0e;
+$terminal-green: #33ff99;
+$phosphor-muted: #1f4037;
+$cyber-purple: #9d4edd;
+$neon-cyan: #00f5ff;
+$warning-amber: #ffb703;
+$soft-white: #f8f9fa;
 
-// Other Sizes
-$base-border-radius: 0.52em;
-$base-spacing: $base-line-height * 1em;
-$small-spacing: $base-spacing / 2;
-$base-z-index: 0;
+$base-background-color: $bg-base;
+$secondary-background-color: #111816;
+$base-font-color: rgba($terminal-green, 0.9);
+$heading-color: $terminal-green;
+$action-color: $neon-cyan;
+$border-color: rgba($terminal-green, 0.18);
 
-// Colors
-$primary-color: #000;
-$action-color: $primary-color;
-$white-color: #fff;
-$black-color: #000;
-$blue-color: #0086b3;
-$dark-gray-color: #333;
-$medium-gray-color: #999;
-$light-gray-color: #ccc;
+$base-border-radius: 0.75rem;
+$base-duration: 240ms;
+$base-timing: cubic-bezier(0.19, 1, 0.22, 1);
 
-// Font Colors
-$base-font-color: rgba($dark-gray-color, 1);
-
-// Border
-$base-border-color: $light-gray-color;
+// Backward compatibility for legacy partials.
+$white-color: $soft-white;
+$black-color: #020605;
+$blue-color: $neon-cyan;
+$dark-gray-color: #0f1d18;
+$medium-gray-color: rgba($terminal-green, 0.7);
+$light-gray-color: rgba($terminal-green, 0.24);
+$base-border-color: $border-color;
 $base-border: 1px solid $base-border-color;
-
-// Background Colors
-$base-background-color: $white-color;
-$secondary-background-color: tint($base-border-color, 80%);
-
-// Forms
-$form-box-shadow: inset 0 1px 3px rgba($black-color, 0.06);
-$form-box-shadow-focus: $form-box-shadow,
-  0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
-
-// Animations
-$base-duration: 150ms;
-$base-timing: ease;
+$form-box-shadow: inset 0 1px 3px rgba($black-color, 0.14);
+$form-box-shadow-focus: $form-box-shadow, 0 0 0 2px rgba($neon-cyan, 0.25);

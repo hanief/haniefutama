@@ -1,19 +1,9 @@
-// @font-face {
-//   font-family: "Plus Jakarta Sans";
-//   src: url("/public/fonts/PlusJakartaSans-Italic[wght].woff2") format("woff2");
-//   font-style: italic;
-//   font-display: swap;
-//   font-weight: 300 900;
-// }
-
-// @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:300,800&display=swap");
-
 body {
   color: $base-font-color;
   font-family: $base-font-family;
-  //font-feature-settings: "kern", "liga", "pnum";
   font-size: $base-font-size;
   line-height: $base-line-height;
+  letter-spacing: 0.015em;
 }
 
 h1,
@@ -23,60 +13,53 @@ h4,
 h5,
 h6 {
   font-family: $heading-font-family;
-  font-size: $base-font-size;
   line-height: $heading-line-height;
-  margin: $small-spacing 0 $small-spacing 0;
+  margin: 0 0 1rem;
   font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $heading-color;
 }
 
 h1 {
-  font-size: rem(30);
+  font-size: 3.4rem;
 }
 
 h2 {
-  font-size: rem(26);
+  font-size: 1.85rem;
 }
 
 h3 {
-  font-size: rem(24);
+  font-size: 1.35rem;
 }
 
-h4 {
-  font-size: rem(20);
-}
-
+h4,
 h5,
 h6 {
-  font-size: rem(16);
+  font-size: 1rem;
 }
 
 p {
-  margin: 0 0 $small-spacing;
-
-  &.lead {
-    font-size: rem(22);
-    font-weight: 300;
-  }
+  margin: 0 0 1rem;
 }
 
 a {
   color: $action-color;
   text-decoration: none;
-  transition: color $base-duration $base-timing;
+  transition: color $base-duration $base-timing, text-shadow $base-duration $base-timing;
 
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    color: $neon-cyan;
+    text-shadow: 0 0 10px rgba($neon-cyan, 0.45);
   }
 }
 
 hr {
-  border-bottom: $base-border;
-  border-left: 0;
-  border-right: 0;
-  border-top: 0;
-  margin: $base-spacing 0;
+  border: 0;
+  border-bottom: 1px solid $border-color;
+  margin: 1.25rem 0;
 }
 
 img,
@@ -86,47 +69,45 @@ picture {
 }
 
 blockquote {
-  padding: $base-spacing 0 $base-spacing $base-spacing;
-  margin: $base-spacing 0;
-  color: $dark-gray-color;
-  line-height: 1.8;
-  border-left: $small-spacing solid $light-gray-color;
-  background-color: lighten($light-gray-color, 15%);
-  p {
-    margin: 0;
-  }
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid $neon-cyan;
+  background: rgba($phosphor-muted, 0.22);
+  color: rgba($terminal-green, 0.96);
 }
 
 code {
-  background: none;
   border-radius: 0;
-  border: none;
-  font-family: "SFMono-Regular", Menlo, Consolas, "Inconsolata", monospace;
-  font-size: 1em;
+  border: 1px solid rgba($terminal-green, 0.2);
+  font-family: $font-mono;
+  font-size: 0.94em;
   margin: 0;
-  padding: 0 5px;
-  background-color: lighten($light-gray-color, 13%);
+  padding: 0 0.35em;
+  background: rgba($phosphor-muted, 0.28);
 }
 
 pre {
   -webkit-overflow-scrolling: touch;
-  font-family: "SFMono-Regular", Menlo, Consolas, "Inconsolata", monospace;
-  font-size: 1em;
-  margin: 0;
-  padding: 5px 10px !important;
+  font-family: $font-mono;
+  font-size: 0.9rem;
+  margin: 1.2rem 0;
+  padding: 1rem !important;
   overflow: auto;
-  max-height: 60em;
   white-space: pre;
-  border: 1px solid $light-gray-color;
+  border: 1px solid rgba($neon-cyan, 0.35);
+  background: linear-gradient(180deg, rgba($phosphor-muted, 0.25) 0%, rgba($bg-base, 0.75) 100%);
+  box-shadow: inset 0 0 22px rgba($neon-cyan, 0.08);
 
   code {
-    line-height: 1.75em;
+    line-height: 1.65;
     padding: 0 !important;
+    border: 0;
+    background: transparent;
   }
 }
 
 strong {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 em {
@@ -137,9 +118,19 @@ ul,
 ol,
 dl {
   margin-top: 0;
-  margin-left: 1.2em;
+  margin-left: 1.1rem;
   margin-bottom: 1rem;
   list-style-type: square;
-  list-style-position: outside;
-  list-style-image: none;
+}
+
+@media (max-width: 960px) {
+  h1 { font-size: 2.8rem; }
+  h2 { font-size: 1.6rem; }
+  h3 { font-size: 1.2rem; }
+}
+
+@media (max-width: 640px) {
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.35rem; }
+  h3 { font-size: 1.08rem; }
 }

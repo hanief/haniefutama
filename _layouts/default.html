@@ -3,13 +3,28 @@ layout: compress
 published: true
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
   <body>
-    <main class="wrapper">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
-    </main>
+    <div class="scroll-progress" id="scrollProgress"></div>
+    <div class="cursor-dot" id="cursorDot"></div>
+    <div class="crt-noise"></div>
+    {% include header.html %}
+    <main class="wrapper">{{ content }}</main>
+    {% include footer.html %}
+
+    <div class="project-modal" id="projectModal" aria-hidden="true">
+      <div class="project-modal-panel">
+        <div class="flex" style="margin-bottom: 1rem;">
+          <div class="section-kicker">PROJECT CONSOLE</div>
+          <button class="modal-close" id="modalClose" type="button">Close</button>
+        </div>
+        <h2 id="modalTitle">Project</h2>
+        <p id="modalStatus" class="post-meta"></p>
+        <p id="modalStack"></p>
+        <p id="modalDescription"></p>
+        <a id="modalLink" class="terminal-button" href="#" target="_blank" rel="noopener noreferrer">Open Project</a>
+      </div>
+    </div>
   </body>
 </html>

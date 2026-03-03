@@ -1,51 +1,112 @@
 ---
 layout: default
 title: Home
+description: "Digital command center of Hanief Utama"
 ---
 
-{% assign essays = "" | split: ',' %} {% assign projects = "" | split: ',' %} {%
-assign codes = "" | split: ',' %} {% for post in site.posts %} {% if
-post.category == "essay" %} {% assign essays = essays | push: post %} {% elsif
-post.category == "project" %} {% assign projects = projects | push: post %} {%
-endif %} {% endfor %}
+{% assign essays = site.posts | where: 'category', 'essay' %}
+{% assign projects = site.posts | where: 'category', 'project' %}
 
-<section class="post-list">
-  <div class="container">
-    <a href="/essays"><h1 class="page-title">Essays</h1></a>
-    {% for post in essays limit:10 %} {% if post.category == "essay" %}
-    <article class="post-item">
-      <span class="post-meta date-label"
-        >{{ post.date | date: "%d/%m/%y" }}</span
-      >
-      <h5 class="article-title">
-        <a
-          class="post-link"
-          href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
-          >{{ post.title }}</a
-        >
-      </h5>
-    </article>
-    {% endif %} {% endfor %}
-    <a href="/essays" class="see-more"
-      ><p>see {{ essays.size | minus:10 }} more essays...</p></a
-    >
+<section class="boot-hero" id="hero">
+  <div class="container boot-panel">
+    <div class="boot-log" id="bootLog">
+      <p class="boot-line" data-text="Initializing system..."></p>
+      <p class="boot-line" data-text="Loading modules..."></p>
+      <p class="boot-line" data-text="Authenticating identity..."></p>
+      <p class="boot-line" data-text="Welcome, Hanief."></p>
+    </div>
+
+    <div class="boot-heading" id="bootHeading">
+      <h1 class="blink-caret">HANIEF UTAMA</h1>
+      <p class="boot-subtitle">Senior Engineer / Builder / Systems Thinker</p>
+      <div class="cta-row">
+        <a href="{{ '/projects/' | prepend: site.baseurl }}" class="terminal-button magnetic">[ View Projects ]</a>
+        <a href="{{ '/writing/' | prepend: site.baseurl }}" class="terminal-button magnetic">[ Read Writing ]</a>
+      </div>
+    </div>
   </div>
 </section>
-<section class="post-list">
+
+<section class="system-profile" id="about-preview">
   <div class="container">
-    <a href="/projects"><h1 class="page-title">Projects</h1></a>
-    {% for post in projects limit:10 %} {% if post.category == "project" %}
-    <article class="post-item">
-      <h5 class="article-title">
-        <a class="post-link" target="_blank" href="{{ post.link }}"
-          >{{ post.title }}
-        </a>
-      </h5>
-      <span class="post-meta">{{ post.description }}</span>
-    </article>
-    {% endif %} {% endfor %}
-    <a href="/projects" class="see-more"
-      ><p>see {{ projects.size | minus:10 }} more projects...</p></a
-    >
+    <p class="section-kicker">SYSTEM PROFILE</p>
+    <h2 class="section-title">USER PROFILE</h2>
+    <span class="ascii-divider">-------------</span>
+    <div class="profile-card">
+      <div class="profile-row"><span class="profile-label">Role</span><span class="profile-value">Software Engineer</span></div>
+      <div class="profile-row"><span class="profile-label">Focus</span><span class="profile-value">Systems, Product, AI, Growth</span></div>
+      <div class="profile-row"><span class="profile-label">Location</span><span class="profile-value">Indonesia</span></div>
+      <div class="profile-row"><span class="profile-label">Status</span><span class="profile-value">Building</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="project-archive" id="projects-preview">
+  <div class="container">
+    <p class="section-kicker">ENCRYPTED ARCHIVE</p>
+    <h2 class="section-title">PROJECT DATA BLOCKS</h2>
+    <div class="data-grid">
+      {% for post in projects limit:6 %}
+      <article class="data-block project-block" data-title="{{ post.title | escape }}" data-status="Active" data-stack="{{ post.keywords | default: 'React / Node / AI' | escape }}" data-description="{{ post.description | default: post.excerpt | strip_html | strip_newlines | escape }}" data-link="{{ post.link | default: post.url | prepend: site.baseurl | prepend: site.url }}">
+        <div class="data-block-header">
+          <span>[ PROJECT_{{ forloop.index | prepend: '0' }} ]</span>
+          <span class="post-meta">Status: Active</span>
+        </div>
+        <h3 class="glitch-hover" style="margin-bottom: .5rem;">{{ post.title }}</h3>
+        <p class="data-meta">Stack: {{ post.keywords | default: 'React / Node / AI' }}</p>
+        <button type="button" class="block-link project-open">Open terminal view →</button>
+      </article>
+      {% endfor %}
+    </div>
+    <div style="margin-top: 1.2rem;">
+      <a class="terminal-button" href="{{ '/projects/' | prepend: site.baseurl }}">[ Access Full Archive ]</a>
+    </div>
+  </div>
+</section>
+
+<section class="writing-feed" id="writing-preview">
+  <div class="container">
+    <p class="section-kicker">SIGNAL BROADCAST</p>
+    <h2 class="section-title">COMMAND LOGS</h2>
+    <div class="writing-log">
+      {% for post in essays limit:7 %}
+      <article class="log-row">
+        <span class="log-date">[{{ post.date | date: "%Y-%m-%d" }}]</span>
+        <div>
+          <a class="log-title glitch-hover" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+          <p class="log-excerpt">{{ post.description | default: post.excerpt | strip_html | strip_newlines | truncate: 140 }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <div style="margin-top: 1.2rem;">
+      <a class="terminal-button" href="{{ '/writing/' | prepend: site.baseurl }}">[ Read All Signals ]</a>
+    </div>
+  </div>
+</section>
+
+<section class="live-status" id="now-preview">
+  <div class="container">
+    <p class="section-kicker">LIVE STATUS FEED</p>
+    <h2 class="section-title">OPERATIONS SNAPSHOT</h2>
+    <div class="status-grid">
+      <article class="status-tile">
+        <div class="status-header"><h3>Current Focus</h3><span class="status-line"></span></div>
+        <p>Building robust products, writing clear systems documentation, and shipping pragmatic improvements weekly.</p>
+      </article>
+      <article class="status-tile">
+        <div class="status-header"><h3>Learning</h3><span class="status-line"></span></div>
+        <p>Applied AI architecture, developer tooling ergonomics, and performance-aware frontend animation systems.</p>
+      </article>
+      <article class="status-tile">
+        <div class="status-header"><h3>Building</h3><span class="status-line"></span></div>
+        <p>Open-source utilities and products that blend engineering reliability with thoughtful user experience.</p>
+      </article>
+      <article class="status-tile">
+        <div class="status-header"><h3>Reading</h3><span class="status-line"></span></div>
+        <p>Technology, philosophy, and long-form reflections about agency, systems, and craftsmanship.</p>
+      </article>
+    </div>
+    <p class="status-time">Last sync: <span id="statusTime">--:--:--</span></p>
   </div>
 </section>
