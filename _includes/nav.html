@@ -1,18 +1,6 @@
 <nav class="container command-strip" aria-label="Command Navigation">
   <div class="command-strip-top">
-    <form class="command-console" id="commandConsole" autocomplete="off" aria-label="Command prompt">
-      <label class="brand-prompt" for="commandInput">haniefutama@web:~$</label>
-      <span class="command-caret">&gt;</span>
-      <input
-        class="command-input"
-        id="commandInput"
-        name="command"
-        type="text"
-        spellcheck="false"
-        placeholder="type command (about, projects, /writing)"
-        aria-label="Type command and press Enter"
-      />
-    </form>
+    <div class="brand-prompt">haniefutama@web:~</div>
     <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="commandPanel">Menu</button>
   </div>
 
@@ -28,7 +16,6 @@
     <div class="system-indicators">
       <span class="status-dot" aria-hidden="true"></span>
       <span>ONLINE</span>
-      <span id="commandFeedback" class="command-feedback" aria-live="polite"></span>
       <span id="localTime">--:--:--</span>
       <button class="theme-toggle" id="themeToggle" type="button">CRT MODE</button>
     </div>
