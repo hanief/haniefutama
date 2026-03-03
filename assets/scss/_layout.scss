@@ -386,12 +386,13 @@ main section {
   background: rgba($phosphor-muted, 0.12);
   font-family: $font-mono;
   font-size: 1.05rem;
-  line-height: 1.16;
-  letter-spacing: 0.015em;
+  line-height: 1.12;
+  letter-spacing: 0;
   color: rgba($terminal-green, 0.97);
   text-shadow: 0 0 18px rgba($terminal-green, 0.38);
   white-space: pre;
   overflow-x: auto;
+  text-transform: none;
 }
 
 .boot-caret {
@@ -824,7 +825,7 @@ main section {
   }
 
   .boot-title-ascii {
-    font-size: 0.9rem;
+    font-size: 0.84rem;
     padding: 0.75rem 0.85rem;
   }
 
@@ -901,7 +902,7 @@ main section {
   }
 
   .boot-title-ascii {
-    font-size: 0.68rem;
+    font-size: 0.58rem;
     line-height: 1.2;
     padding: 0.65rem 0.65rem;
   }
