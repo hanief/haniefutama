@@ -139,6 +139,32 @@ body::after {
   gap: 1rem;
 }
 
+.command-strip-top {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.nav-panel {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  width: 100%;
+}
+
+.menu-toggle {
+  display: none;
+  border: 1px solid rgba($neon-cyan, 0.55);
+  background: rgba($neon-cyan, 0.08);
+  color: rgba($neon-cyan, 0.95);
+  font-family: $font-mono;
+  font-size: 0.72rem;
+  padding: 0.35rem 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+}
+
 .brand-prompt {
   color: $terminal-green;
   font-family: $font-mono;
@@ -633,13 +659,48 @@ main section {
   }
 
   .command-strip {
-    flex-wrap: wrap;
-    min-height: auto;
+    display: block;
+    min-height: 72px;
     padding: 0.75rem 0;
   }
 
+  .command-strip-top {
+    justify-content: space-between;
+  }
+
+  .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-panel {
+    display: none;
+    width: 100%;
+    margin-top: 0.8rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid rgba($terminal-green, 0.2);
+  }
+
+  .site-header.menu-open .nav-panel {
+    display: block;
+  }
+
+  .command-links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.55rem;
+  }
+
   .system-indicators {
-    margin-left: 0;
+    margin: 0.75rem 0 0;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+  }
+
+  .page-shell {
+    padding-top: 6.4rem;
   }
 
   .data-grid,
@@ -673,6 +734,7 @@ main section {
   }
 
   .command-links {
+    grid-template-columns: 1fr;
     gap: 0.45rem;
   }
 

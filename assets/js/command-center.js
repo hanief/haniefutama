@@ -69,6 +69,33 @@
     });
   }
 
+  function setupMobileMenu() {
+    var header = document.getElementById("siteHeader");
+    var toggle = document.getElementById("menuToggle");
+    var panel = document.getElementById("commandPanel");
+    if (!header || !toggle || !panel) return;
+
+    function closeMenu() {
+      header.classList.remove("menu-open");
+      toggle.setAttribute("aria-expanded", "false");
+    }
+
+    toggle.addEventListener("click", function () {
+      var open = header.classList.toggle("menu-open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+
+    panel.querySelectorAll("a").forEach(function (link) {
+      link.addEventListener("click", function () {
+        closeMenu();
+      });
+    });
+
+    window.addEventListener("resize", function () {
+      if (window.innerWidth > 960) closeMenu();
+    });
+  }
+
   function setupKeyboardShortcuts() {
     var links = {
       p: "/projects/",
@@ -258,6 +285,7 @@
     updateTimeTargets();
     setInterval(updateTimeTargets, 1000);
     setupHeaderAndProgress();
+    setupMobileMenu();
     setupCursorDot();
     setupThemeToggle();
     setupKeyboardShortcuts();

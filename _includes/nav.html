@@ -1,17 +1,23 @@
 <nav class="container command-strip" aria-label="Command Navigation">
-  <div class="brand-prompt">haniefutama@web:~$</div>
-  <div class="command-links">
-    <a class="command-link {% if page.url == '/' %}is-active{% endif %}" href="{{ '/' | prepend: site.baseurl }}">&gt; home</a>
-    <a class="command-link {% if page.url contains '/about' %}is-active{% endif %}" href="{{ '/about/' | prepend: site.baseurl }}">&gt; about</a>
-    <a class="command-link {% if page.url contains '/projects' %}is-active{% endif %}" href="{{ '/projects/' | prepend: site.baseurl }}">&gt; projects</a>
-    <a class="command-link {% if page.url contains '/writing' or page.url contains '/essays' %}is-active{% endif %}" href="{{ '/writing/' | prepend: site.baseurl }}">&gt; writing</a>
-    <a class="command-link {% if page.url contains '/now' %}is-active{% endif %}" href="{{ '/now/' | prepend: site.baseurl }}">&gt; now</a>
-    <a class="command-link {% if page.url contains '/contact' %}is-active{% endif %}" href="{{ '/contact/' | prepend: site.baseurl }}">&gt; contact</a>
+  <div class="command-strip-top">
+    <div class="brand-prompt">haniefutama@web:~$</div>
+    <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="commandPanel">Menu</button>
   </div>
-  <div class="system-indicators">
-    <span class="status-dot" aria-hidden="true"></span>
-    <span>ONLINE</span>
-    <span id="localTime">--:--:--</span>
-    <button class="theme-toggle" id="themeToggle" type="button">CRT MODE</button>
+
+  <div class="nav-panel" id="commandPanel">
+    <div class="command-links">
+      <a class="command-link {% if page.url == '/' %}is-active{% endif %}" href="{{ '/' | prepend: site.baseurl }}">&gt; home</a>
+      <a class="command-link {% if page.url contains '/about' %}is-active{% endif %}" href="{{ '/about/' | prepend: site.baseurl }}">&gt; about</a>
+      <a class="command-link {% if page.url contains '/projects' %}is-active{% endif %}" href="{{ '/projects/' | prepend: site.baseurl }}">&gt; projects</a>
+      <a class="command-link {% if page.url contains '/writing' or page.url contains '/essays' %}is-active{% endif %}" href="{{ '/writing/' | prepend: site.baseurl }}">&gt; writing</a>
+      <a class="command-link {% if page.url contains '/now' %}is-active{% endif %}" href="{{ '/now/' | prepend: site.baseurl }}">&gt; now</a>
+      <a class="command-link {% if page.url contains '/contact' %}is-active{% endif %}" href="{{ '/contact/' | prepend: site.baseurl }}">&gt; contact</a>
+    </div>
+    <div class="system-indicators">
+      <span class="status-dot" aria-hidden="true"></span>
+      <span>ONLINE</span>
+      <span id="localTime">--:--:--</span>
+      <button class="theme-toggle" id="themeToggle" type="button">CRT MODE</button>
+    </div>
   </div>
 </nav>
