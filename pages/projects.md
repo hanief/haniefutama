@@ -17,7 +17,7 @@ description: "Encrypted archive of projects"
       <span class="post-meta">Status: Active</span>
     </div>
     <h3 class="glitch-hover" style="margin-bottom: .5rem;">{{ post.title }}</h3>
-    <p class="data-meta">Stack: {{ post.keywords | default: 'React / Node / AI' }}</p>
+    <!-- <p class="data-meta">Stack: {{ post.keywords | default: 'React / Node / AI' }}</p> -->
     <button type="button" class="block-link project-open">Open terminal view →</button>
   </article>
   {% endfor %}

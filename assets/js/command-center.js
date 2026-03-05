@@ -375,7 +375,7 @@
 
     var modalTitle = document.getElementById("modalTitle");
     var modalStatus = document.getElementById("modalStatus");
-    var modalStack = document.getElementById("modalStack");
+    // var modalStack = document.getElementById("modalStack");
     var modalDescription = document.getElementById("modalDescription");
     var modalLink = document.getElementById("modalLink");
     var modalClose = document.getElementById("modalClose");
@@ -383,7 +383,7 @@
     function openModal(block) {
       modalTitle.textContent = block.dataset.title || "Project";
       modalStatus.textContent = "Status: " + (block.dataset.status || "Active");
-      modalStack.textContent = "Stack: " + (block.dataset.stack || "React / Node / AI");
+      // modalStack.textContent = "Stack: " + (block.dataset.stack || "React / Node / AI");
       modalDescription.textContent = block.dataset.description || "No description available.";
       modalLink.href = block.dataset.link || "#";
       modal.classList.add("is-open");
