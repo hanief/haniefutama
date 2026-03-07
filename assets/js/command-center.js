@@ -270,7 +270,7 @@
         if (i < text.length) {
           el.textContent += text.charAt(i);
           i += 1;
-          var delay = 26 + Math.random() * 68;
+          var delay = 12 + Math.random() * 22;
           setTimeout(next, delay);
         } else {
           resolve();
@@ -288,7 +288,7 @@
 
     for (var idx = 0; idx < lines.length; idx += 1) {
       await typeLine(lines[idx], lines[idx].dataset.text || "");
-      await new Promise(function (r) { setTimeout(r, 120); });
+      await new Promise(function (r) { setTimeout(r, 45); });
     }
 
     if (window.gsap) {
