@@ -210,6 +210,30 @@ body::after {
 
 .command-caret {
   color: rgba($neon-cyan, 0.95);
+  min-width: 0.6em;
+  animation: caret-blink 1s step-end infinite;
+}
+
+/* Block cursor shown during boot typing */
+.type-cursor {
+  display: inline-block;
+  width: 0.55em;
+  height: 1em;
+  background: rgba($terminal-green, 0.9);
+  vertical-align: -0.1em;
+  margin-left: 0.06em;
+  animation: caret-blink 0.72s step-end infinite;
+}
+
+/* Dock ready flash after boot */
+@keyframes dock-ready {
+  0%   { box-shadow: 0 0 0 rgba($neon-cyan, 0); border-top-color: rgba($neon-cyan, 0.3); }
+  30%  { box-shadow: 0 0 28px rgba($neon-cyan, 0.45); border-top-color: rgba($neon-cyan, 0.9); }
+  100% { box-shadow: 0 0 0 rgba($neon-cyan, 0); border-top-color: rgba($neon-cyan, 0.3); }
+}
+
+.command-dock.is-ready {
+  animation: dock-ready 1s $base-timing forwards;
 }
 
 .command-input {
@@ -241,6 +265,231 @@ body::after {
   text-overflow: ellipsis;
 }
 
+// ── Terminal output (in-page content) ─────────────────────────
+
+.terminal-output {
+  display: none;
+  padding-top: 7.5rem; // clear fixed header
+  padding-bottom: 3rem;
+  min-height: 100dvh;
+
+  &[aria-hidden="false"] {
+    display: block;
+  }
+}
+
+.terminal-output-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.2rem;
+  border-bottom: 1px solid rgba($terminal-green, 0.15);
+  gap: 1rem;
+}
+
+.terminal-output-cmd {
+  color: rgba($neon-cyan, 0.8);
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+
+  &::before {
+    content: '$ ';
+    color: rgba($terminal-green, 0.5);
+  }
+}
+
+.terminal-output-close {
+  border: 1px solid rgba($terminal-green, 0.22);
+  background: transparent;
+  color: rgba($terminal-green, 0.55);
+  font-family: $font-mono;
+  font-size: 0.7rem;
+  cursor: pointer;
+  padding: 0.2rem 0.5rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+
+  &:hover { color: rgba($warning-amber, 0.8); border-color: rgba($warning-amber, 0.4); }
+}
+
+.terminal-output-body {
+  font-family: $font-mono;
+  font-size: 0.88rem;
+  line-height: 1.7;
+}
+
+// ls output
+.ls-output { display: grid; gap: 0.18rem; }
+
+.ls-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.1rem 0;
+}
+
+.ls-badge {
+  font-size: 0.6rem;
+  padding: 0.05rem 0.28rem;
+  letter-spacing: 0.08em;
+  flex-shrink: 0;
+  border: 1px solid;
+  line-height: 1.5;
+}
+
+.ls-badge-dir  { color: $neon-cyan;                    border-color: rgba($neon-cyan, 0.35);           }
+.ls-badge-file { color: rgba($terminal-green, 0.65);   border-color: rgba($terminal-green, 0.25);      }
+
+.ls-name {
+  color: rgba($terminal-green, 0.95);
+  min-width: 140px;
+  flex-shrink: 0;
+
+  &.ls-dir  { color: $neon-cyan; }
+  &:is(a)   { text-decoration: none; }
+  &:is(a):hover { text-decoration: underline; }
+}
+
+.ls-index {
+  color: rgba($warning-amber, 0.65);
+  font-size: 0.7rem;
+  min-width: 36px;
+  flex-shrink: 0;
+}
+
+.ls-date {
+  color: rgba($warning-amber, 0.65);
+  font-size: 0.72rem;
+  min-width: 88px;
+  flex-shrink: 0;
+}
+
+.ls-info {
+  color: rgba($terminal-green, 0.48);
+  font-size: 0.76rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ls-empty {
+  color: rgba($terminal-green, 0.45);
+  font-size: 0.82rem;
+  padding: 0.2rem 0;
+}
+
+// cat output
+.cat-output  { max-width: 680px; }
+
+.cat-header {
+  color: $neon-cyan;
+  font-size: 0.86rem;
+  margin-bottom: 0.35rem;
+}
+
+.cat-meta {
+  color: rgba($warning-amber, 0.72);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  margin-bottom: 0.55rem;
+}
+
+.cat-desc {
+  color: rgba($terminal-green, 0.82);
+  font-size: 0.84rem;
+  line-height: 1.7;
+  margin-bottom: 0.9rem;
+  max-width: 62ch;
+}
+
+.cat-link {
+  font-size: 0.76rem;
+  padding: 0.38rem 0.78rem;
+}
+
+// ── Suggestions panel ──────────────────────────────────────────
+
+.cmd-suggestions {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 64px;
+  z-index: 103;
+  background: rgba($bg-base, 0.96);
+  border-top: 1px solid rgba($neon-cyan, 0.25);
+  border-bottom: 1px solid rgba($neon-cyan, 0.12);
+  backdrop-filter: blur(14px);
+  max-height: 260px;
+  overflow-y: auto;
+  display: none;
+
+  &[aria-hidden="false"] {
+    display: block;
+  }
+}
+
+.cmd-suggestions-header {
+  padding: 0.38rem 1.5rem;
+  font-size: 0.64rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba($neon-cyan, 0.45);
+  border-bottom: 1px solid rgba($terminal-green, 0.1);
+}
+
+.cmd-suggestions-list {
+  padding: 0.3rem 0;
+}
+
+.cmd-suggestion-item {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.46rem 1.5rem;
+  cursor: pointer;
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  border-left: 2px solid transparent;
+  transition:
+    background-color 120ms ease,
+    border-left-color 120ms ease;
+
+  &:hover,
+  &.is-selected {
+    background: rgba($neon-cyan, 0.06);
+    border-left-color: $neon-cyan;
+  }
+}
+
+.cmd-suggestion-cmd {
+  color: $neon-cyan;
+  min-width: 120px;
+  flex-shrink: 0;
+}
+
+.cmd-suggestion-desc {
+  color: rgba($terminal-green, 0.65);
+  font-size: 0.76rem;
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cmd-suggestion-key {
+  color: rgba($warning-amber, 0.7);
+  font-size: 0.64rem;
+  border: 1px solid rgba($warning-amber, 0.3);
+  padding: 0.06rem 0.28rem;
+  margin-left: auto;
+  flex-shrink: 0;
+  letter-spacing: 0.06em;
+}
+
 .command-dock {
   position: fixed;
   left: 0;
@@ -265,6 +514,23 @@ body::after {
   flex-wrap: wrap;
   gap: 0.75rem;
 }
+
+.nav-fkey {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba($neon-cyan, 0.35);
+  color: rgba($neon-cyan, 0.65);
+  font-family: $font-mono;
+  font-size: 0.6rem;
+  padding: 0.08rem 0.28rem;
+  margin-right: 0.38rem;
+  letter-spacing: 0.04em;
+  background: rgba($neon-cyan, 0.05);
+  vertical-align: middle;
+  font-style: normal;
+  line-height: 1.4;
+}
+
 
 .command-link {
   border: 1px solid rgba($terminal-green, 0.22);
@@ -580,6 +846,7 @@ main section {
   background: transparent;
   color: rgba($neon-cyan, 0.95);
   cursor: pointer;
+  pointer-events: none;
 }
 
 .writing-log {
@@ -593,6 +860,9 @@ main section {
   gap: 0.9rem;
   padding: 0.95rem 0;
   border-bottom: 1px solid rgba($terminal-green, 0.2);
+  cursor: pointer;
+
+  &:hover { background: rgba($terminal-green, 0.03); }
 }
 
 .log-date {
@@ -604,6 +874,12 @@ main section {
 
 .log-title {
   color: rgba($terminal-green, 0.95);
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+  }
 }
 
 .log-excerpt {

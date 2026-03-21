@@ -5,8 +5,8 @@
     <description>essays and projects</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2026 13:15:46 +0700</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2026 13:15:46 +0700</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 12:43:28 +0700</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:43:28 +0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -57,7 +57,7 @@
     
       <item>
         <title>Algoritama</title>
-        <description>&lt;p&gt;I made a software house company to build website and mobile app with love.&lt;/p&gt;
+        <description>&lt;p&gt;A modern company website for a Indonesia-based software house focused on human-plus-AI engineering services. Built with Astro and Tailwind CSS, it emphasizes speed, responsive design, and a polished editorial experience through a bilingual English/Indonesian blog. The site presents core offerings in product engineering, system refactoring, and automation, supported by case-study style outcomes and technical insights.&lt;/p&gt;
 
 &lt;p&gt;Website: &lt;a href=&quot;https://algoritama.com&quot;&gt;https://algoritama.com&lt;/a&gt;&lt;/p&gt;
 </description>

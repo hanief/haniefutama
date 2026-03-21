@@ -10,7 +10,18 @@ published: true
     <div class="cursor-dot" id="cursorDot"></div>
     <div class="crt-noise"></div>
     {% include header.html %}
-    <main class="wrapper">{{ content }}</main>
+    <main class="wrapper">
+      <div class="terminal-output" id="terminalOutput" aria-hidden="true">
+        <div class="container">
+          <div class="terminal-output-bar">
+            <span class="terminal-output-cmd" id="terminalOutputCmd"></span>
+            <button class="terminal-output-close" id="terminalOutputClose" type="button">[ close ]</button>
+          </div>
+          <div class="terminal-output-body" id="terminalOutputBody"></div>
+        </div>
+      </div>
+      {{ content }}
+    </main>
     {% include command-dock.html %}
     {% include footer.html %}
 

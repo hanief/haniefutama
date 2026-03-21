@@ -1,4 +1,25 @@
-<div class="command-dock">
+<script>
+window.SITE_DATA = (function () {
+  {% assign projects = site.posts | where: 'category', 'project' %}
+  {% assign essays   = site.posts | where: 'category', 'essay'   %}
+  return {
+    projects: [{% for p in projects %}{"slug":{{ p.slug | jsonify }},"title":{{ p.title | jsonify }},"url":{{ p.url | prepend: site.baseurl | jsonify }},"description":{{ p.description | default: p.excerpt | strip_html | strip_newlines | truncate: 280 | jsonify }},"date":{{ p.date | date: "%Y-%m-%d" | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],
+    writing:  [{% for p in essays   %}{"slug":{{ p.slug | jsonify }},"title":{{ p.title | jsonify }},"url":{{ p.url | prepend: site.baseurl | jsonify }},"description":{{ p.description | default: p.excerpt | strip_html | strip_newlines | truncate: 280 | jsonify }},"date":{{ p.date | date: "%Y-%m-%d" | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],
+    pages: [
+      {"slug":"about",  "title":"About",  "url":"/about/",  "description":"Background, philosophy, and who I am."},
+      {"slug":"now",    "title":"Now",    "url":"/now/",    "description":"What I'm currently focused on."},
+      {"slug":"contact","title":"Contact","url":"/contact/","description":"Ways to get in touch."}
+    ]
+  };
+})();
+</script>
+
+<div class="cmd-suggestions" id="cmdSuggestions" aria-hidden="true" role="listbox">
+  <div class="cmd-suggestions-header">available commands</div>
+  <div class="cmd-suggestions-list" id="cmdSuggestionsList"></div>
+</div>
+
+<div class="command-dock" id="commandDock">
   <div class="container command-dock-inner">
     <form
       class="command-console"
@@ -6,15 +27,15 @@
       autocomplete="off"
       aria-label="Command prompt"
     >
-      <label class="brand-prompt" for="commandInput">haniefutama@web:~$</label>
-      <span class="command-caret">&gt;</span>
+      <label class="brand-prompt" for="commandInput" id="brandPrompt">haniefutama@web:~$</label>
+      <span class="command-caret" id="commandCaret" aria-hidden="true">|</span>
       <input
         class="command-input"
         id="commandInput"
         name="command"
         type="text"
         spellcheck="false"
-        placeholder="type slash (/) then command (about, projects, /writing)"
+        placeholder="type / for commands  ·  ls  cd  cat  F1–F6"
         aria-label="Type command and press Enter"
       />
     </form>
